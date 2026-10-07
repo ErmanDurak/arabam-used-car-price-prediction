@@ -109,4 +109,4 @@ def run_scraper(pages_to_scrape: int = 1, output_path: str = "data/raw/raw_araba
     print(f"[SUCCESS] Total number of rows: {len(df)}")
 
 if __name__ == "__main__":
-    run_scraper(pages_to_scrape=1)
+    run_scraper(pages_to_scrape=50)
