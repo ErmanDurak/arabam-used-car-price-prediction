@@ -53,14 +53,21 @@ def parse_detail_page(url: str) -> dict:
         soup = BeautifulSoup(resp.content, "html.parser")
         data = {"url" : url}
 
-        title_tag = soup.select_one("div.product-name, h1.product-title")
-        data["title"] = title_tag.get_text(strip=True) if title_tag else None
+        title_tag = soup.find("h1")
+        data["title"] = title_tag.get_text(strip=True) if title_tag else ""
 
-        price_tag = soup.select_one("div.product-price, span-price")
+        price_tag = soup.select_one("div.product-price, span.price, div[data-testid='price']")
         data["price"] = price_tag.get_text(strip=True) if price_tag else None
 
-        loc_tag = soup.select_one("p.product-location, span.product-properties-value")
-        data["location"] = loc_tag.get_text(strip=True) if loc_tag else None
+        loc_candidates = soup.select("p.product-location, span.location, div.product-properties-location, ul.breadcrumb li")
+        loc_text = None
+        for cand in loc_candidates:
+            txt = cand.get_text(strip=True)
+            if "/" in txt or any(c in txt for c in ["İstanbul", "Ankara", "İzmir", "Bursa", "Antalya", "Kocaeli"]):
+                loc_text = txt
+                break
+
+        data["location"] = loc_text if loc_text else "Belirtilmemiş"
 
         property_items = soup.select("li.property-item, div.property-item")
         for item in property_items:
@@ -69,6 +76,10 @@ def parse_detail_page(url: str) -> dict:
             if key_tag and val_tag:
                 key = key_tag.get_text(strip=True).replace(":","").strip().lower()
                 val = val_tag.get_text(strip=True)
+                
+                if "kopyalandı" in val.lower():
+                    val = val.replace("Kopyalandı", "").replace("kopyalandı", "").strip()
+                
                 data[key] = val
 
         return data
