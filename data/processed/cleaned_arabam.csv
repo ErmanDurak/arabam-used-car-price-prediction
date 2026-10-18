@@ -1,0 +1,1001 @@
+price,brand,series,model,year,kilometer,transmission,fuel_type,body_type,color,engine_displacement_cc,engine_power_hp,drivetrain,avg_fuel_consumption,painted_count,local_painted_count,changed_count,is_original
+1135000.0,Toyota,Yaris,1.5 Fun Special,2017.0,98800.0,Otomatik,Benzin,Hatchback/5,Beyaz,1496.0,111.0,Önden Çekiş,4.8,0.0,0.0,0.0,1.0
+660000.0,Volkswagen,Polo,1.4 Tdi Comfortline,2014.0,283000.0,Yarı Otomatik,Dizel,Hatchback/5,Siyah,1422.0,90.0,Önden Çekiş,3.5,7.0,0.0,2.0,0.0
+1380000.0,Toyota,Corolla,1.8 Hybrid Dream,2021.0,172000.0,Otomatik,Hibrit,Sedan,Beyaz,1798.0,122.0,Önden Çekiş,3.5,0.0,1.0,0.0,0.0
+445000.0,Chevrolet,Kalos,1.4 Sx,2006.0,129000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1399.0,94.0,Önden Çekiş,7.6,10.0,0.0,0.0,0.0
+230000.0,Tofaş,Doğan,Slx,1994.0,200000.0,Düz,Lpg & Benzin,Sedan,Bordo,1581.0,83.0,Arkadan İtiş,,0.0,0.0,0.0,0.0
+590000.0,Renault,Clio,1.5 Dci Grandtour Authentique,2010.0,199000.0,Düz,Dizel,Station Wagon,Füme,1461.0,65.0,Önden Çekiş,4.5,1.0,1.0,1.0,0.0
+825000.0,Toyota,Corolla,1.33 Life,2015.0,209000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1329.0,99.0,Önden Çekiş,5.8,1.0,0.0,0.0,0.0
+210000.0,Fiat,Stilo,1.9 Jtd Dynamic,2002.0,366000.0,Düz,Dizel,Hatchback/3,Turkuaz,1910.0,116.0,Önden Çekiş,5.3,0.0,0.0,0.0,0.0
+395000.0,Renault,Clio,1.2 Authentique,2008.0,255000.0,Düz,Lpg & Benzin,Hatchback/5,Gri,1149.0,75.0,Önden Çekiş,5.9,12.0,0.0,0.0,0.0
+780000.0,Hyundai,Accent Blue,1.4 Cvvt Prime,2012.0,170000.0,Otomatik,Lpg & Benzin,Sedan,Siyah,1396.0,108.0,Önden Çekiş,6.3,0.0,1.0,0.0,0.0
+548800.0,Peugeot,207,1.4 Hdi Urban Move,2012.0,209001.0,Yarı Otomatik,Dizel,Station Wagon,Füme,1360.0,71.0,Önden Çekiş,4.4,5.0,0.0,4.0,0.0
+797500.0,Fiat,Egea,1.3 Multijet Easy,2022.0,138000.0,Düz,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,1.0,0.0,2.0,0.0
+498500.0,Toyota,Corolla,1.4 D-4D Comfort,2007.0,398800.0,Düz,Dizel,Sedan,Gri,1364.0,90.0,Önden Çekiş,4.9,0.0,0.0,0.0,1.0
+1015000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2014.0,203450.0,Düz,Dizel,Sedan,Kahverengi,1598.0,105.0,Önden Çekiş,4.3,2.0,0.0,2.0,0.0
+875000.0,Ford,Focus,1.6 Tdci Trend X,2017.0,325000.0,Düz,Dizel,Sedan,Beyaz,1560.0,95.0,Önden Çekiş,4.5,1.0,1.0,1.0,0.0
+880000.0,Ford,Focus,1.6 Tdci Style,2014.0,161000.0,Düz,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,0.0,1.0,0.0
+1360000.0,Seat,Leon,1.4 Ecotsi Fr,2015.0,189000.0,Yarı Otomatik,Benzin,Hatchback/5,Kırmızı,1395.0,150.0,Önden Çekiş,4.9,0.0,0.0,0.0,1.0
+444000.0,Renault,Clio,1.2 Joy,2013.0,224000.0,Düz,Benzin,Hatchback/5,Siyah,1149.0,75.0,Önden Çekiş,5.5,8.0,0.0,1.0,0.0
+625000.0,Ford,Focus,1.6 Comfort,2011.0,228000.0,Düz,Lpg & Benzin,Hatchback/5,Beyaz,1596.0,100.0,Önden Çekiş,6.7,3.0,2.0,1.0,0.0
+499000.0,Renault,Megane,1.6 Dynamique,2004.0,258000.0,Düz,Benzin,Sedan,Gri,1598.0,115.0,Önden Çekiş,6.9,2.0,0.0,1.0,0.0
+599000.0,Opel,Insignia,1.6 T Cosmo,2010.0,292000.0,Düz,Benzin,Sedan,Beyaz,1598.0,180.0,Önden Çekiş,7.7,1.0,0.0,1.0,0.0
+350000.0,Fiat,Albea,Sole 1.4 Fire Active,2008.0,230000.0,Düz,Lpg & Benzin,Sedan,Bordo,1368.0,77.0,Önden Çekiş,6.2,0.0,0.0,0.0,1.0
+698000.0,Opel,Insignia,1.6 T Cosmo,2009.0,165000.0,Düz,Benzin,Sedan,Beyaz,1598.0,180.0,Önden Çekiş,7.7,3.0,0.0,0.0,0.0
+499000.0,Volkswagen,Passat,2.0 Tdi Comfortline,2006.0,345000.0,Yarı Otomatik,Dizel,Sedan,Gri (Gümüş),1968.0,140.0,Önden Çekiş,6.4,5.0,2.0,0.0,0.0
+190000.0,Fiat,Tipo,1.4 Sx Ie,1998.0,144000.0,Düz,Lpg & Benzin,Hatchback/5,Mavi,1372.0,70.0,Önden Çekiş,,,,,0.0
+910000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2012.0,270000.0,Düz,Dizel,Sedan,Beyaz,1598.0,105.0,Önden Çekiş,4.3,1.0,1.0,0.0,0.0
+345000.0,Seat,Ibiza,1.4 Reference,2006.0,255000.0,Düz,Benzin,Hatchback/5,Siyah,1300.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+935000.0,Renault,Clio,1.0 Tce Evolution,2024.0,31150.0,Otomatik,Benzin,Hatchback/5,Beyaz,999.0,90.0,Önden Çekiş,6.0,0.0,1.0,3.0,0.0
+2000000.0,Volkswagen,Golf,1.5 Etsi Life,2025.0,22000.0,Yarı Otomatik,Hibrit,Hatchback/5,Siyah,1498.0,116.0,Önden Çekiş,5.3,0.0,0.0,0.0,1.0
+439850.0,Renault,Megane,1.6 Dynamique,2005.0,245000.0,Otomatik,Lpg & Benzin,Hatchback/3,Füme,1598.0,115.0,Önden Çekiş,7.5,5.0,1.0,1.0,0.0
+600000.0,Volkswagen,Golf,1.6 Fsi Midline,2006.0,216000.0,Otomatik,Benzin,Hatchback/5,Gri,1500.5,113.0,Önden Çekiş,,2.0,2.0,2.0,0.0
+1275000.0,Ford,Focus,1.5 Tdci Titanium,2018.0,158000.0,Yarı Otomatik,Dizel,Sedan,Kırmızı,1499.0,120.0,Önden Çekiş,4.2,0.0,0.0,0.0,1.0
+1390000.0,Mercedes - Benz,Cla,180 D Comfort,2016.0,188000.0,Otomatik,Dizel,Coupe,Gri,1461.0,109.0,Önden Çekiş,3.8,3.0,1.0,0.0,0.0
+2158000.0,Audi,A6,A6 Sedan 2.0 Tfsi Quattro,2017.0,277700.0,Yarı Otomatik,Benzin,Sedan,Gri,1984.0,252.0,4Wd (Sürekli),6.9,2.0,0.0,0.0,0.0
+2300000.0,Mercedes - Benz,C,C 200 Bluetec Amg,2017.0,125000.0,Otomatik,Dizel,Sedan,Beyaz,1598.0,136.0,Arkadan İtiş,4.2,0.0,0.0,0.0,1.0
+715000.0,Fiat,Egea,1.3 Multijet Easy,2019.0,212000.0,Düz,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,1.0,2.0,0.0,0.0
+855000.0,Ford,Focus,1.6 Tdci Trend X,2015.0,210000.0,Düz,Dizel,Sedan,Beyaz,1560.0,95.0,Önden Çekiş,4.5,0.0,2.0,1.0,0.0
+450000.0,Hyundai,Elantra,1.6 Gls,2001.0,251000.0,Düz,Lpg & Benzin,Sedan,Yeşil,1500.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+415000.0,Renault,Megane,1.6 Dynamique,2005.0,257777.0,Düz,Lpg & Benzin,Sedan,Gri,1598.0,115.0,Önden Çekiş,6.9,0.0,0.0,2.0,0.0
+1065000.0,Toyota,Corolla,1.4 D-4D Touch,2013.0,179000.0,Otomatik,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,,,,0.0
+580000.0,Volkswagen,Passat,1.9 Tdi Comfortline,2004.0,178000.0,Otomatik,Dizel,Sedan,Mavi,1896.0,130.0,Önden Çekiş,7.0,12.0,0.0,1.0,0.0
+1225000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2013.0,240000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,,,,0.0
+1070000.0,Volkswagen,Beetle,1.2 Tsi Design,2012.0,184000.0,Düz,Benzin,Hatchback/3,Siyah,1197.0,105.0,Önden Çekiş,5.9,,,,0.0
+1119000.0,Bmw,1 Serisi,116D Joy Plus,2017.0,158000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1496.0,116.0,Arkadan İtiş,4.1,1.0,0.0,4.0,0.0
+610000.0,Renault,Clio,1.2 Sporttourer Joy,2014.0,77000.0,Düz,Benzin,Station Wagon,Beyaz,1149.0,75.0,Önden Çekiş,5.5,6.0,0.0,0.0,0.0
+639000.0,Opel,Corsa,1.4 Color Edition,2015.0,140000.0,Otomatik,Lpg & Benzin,Hatchback/5,Sarı,1398.0,90.0,Önden Çekiş,6.0,7.0,0.0,2.0,0.0
+384750.0,Fiat,Palio,1.2 Active,2006.0,180000.0,Düz,Benzin,Hatchback/5,Beyaz,1242.0,81.0,Önden Çekiş,7.2,,,,0.0
+1060000.0,Volkswagen,Passat,1.4 Tsi Bluemotion Highline,2011.0,232000.0,Otomatik,Benzin,Sedan,Siyah,1300.5,113.0,Önden Çekiş,,1.0,0.0,0.0,0.0
+725000.0,Ford,Focus,1.6 Tdci Trend X,2010.0,265000.0,Düz,Dizel,Sedan,Gri,1500.5,88.0,Önden Çekiş,,,,,0.0
+1100000.0,Skoda,Superb,1.6 Tdi Elegance,2011.0,157000.0,Düz,Dizel,Sedan,Siyah,1598.0,105.0,Önden Çekiş,5.0,,,,0.0
+805000.0,Toyota,Yaris,1.33 Style Skypack,2015.0,90000.0,Otomatik,Benzin,Hatchback/5,Mavi,1329.0,99.0,Önden Çekiş,4.8,3.0,3.0,1.0,0.0
+718000.0,Bmw,3 Serisi,320I,2009.0,265000.0,Otomatik,Lpg & Benzin,Sedan,Füme,1995.0,170.0,Arkadan İtiş,6.1,1.0,3.0,0.0,0.0
+238000.0,Volkswagen,Polo,1.4 Tdi Comfortline,2001.0,285000.0,Düz,Dizel,Hatchback/3,Gri (Metalik),1422.0,75.0,Önden Çekiş,4.4,10.0,0.0,0.0,0.0
+980000.0,Hyundai,I20,1.4 Mpi Coupe,2015.0,137000.0,Otomatik,Benzin,Coupe,Beyaz,1368.0,100.0,Önden Çekiş,6.4,3.0,0.0,1.0,0.0
+1725000.0,Opel,Astra,1.2 T Gs,2024.0,17500.0,Otomatik,Benzin,Hatchback/5,Sarı,1199.0,132.0,Önden Çekiş,5.4,,,,0.0
+1150000.0,Renault,Megane,1.5 Dci Touch Plus,2019.0,188000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,110.0,Önden Çekiş,3.8,,,,0.0
+1130000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Impression,2017.0,213000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598.0,120.0,Önden Çekiş,4.0,1.0,0.0,2.0,0.0
+155000.0,Tofaş,Şahin,Şahin 5 Vites,1994.0,650000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1581.0,80.0,Arkadan İtiş,,,,,0.0
+260000.0,Fiat,Albea,Sole 1.3 Multijet Dynamic,2011.0,768200.0,Düz,Dizel,Sedan,Gri,1248.0,70.0,Önden Çekiş,4.7,,,,0.0
+685000.0,Renault,Symbol,1.5 Dci Joy,2014.0,163000.0,Düz,Dizel,Sedan,Beyaz,1461.0,90.0,Önden Çekiş,3.9,4.0,0.0,0.0,0.0
+1110000.0,Volkswagen,Golf,1.4 Tsi Comfortline,2015.0,216000.0,Otomatik,Benzin,Hatchback/5,Gri,1300.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+770000.0,Opel,Astra,1.6 Cdti Excellence,2016.0,205000.0,Düz,Dizel,Hatchback/5,Beyaz,1598.0,136.0,Önden Çekiş,3.9,3.0,0.0,1.0,0.0
+965000.0,Renault,Clio,1.5 Dci Touch,2017.0,106000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461.0,90.0,Önden Çekiş,3.7,1.0,0.0,1.0,0.0
+577500.0,Renault,Symbol,1.4 Expression Plus,2011.0,165000.0,Düz,Lpg & Benzin,Sedan,Gri,1390.0,75.0,Önden Çekiş,7.1,0.0,0.0,0.0,1.0
+987500.0,Renault,Clio,1.5 Dci Touch,2019.0,129000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1500.5,88.0,Önden Çekiş,,3.0,0.0,0.0,0.0
+589000.0,Peugeot,207,1.4 Hdi Urban Move,2012.0,241000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1360.0,71.0,Önden Çekiş,4.4,3.0,0.0,0.0,0.0
+1675000.0,Citroen,E-C4,Max,2025.0,12000.0,Otomatik,Elektrik,Hatchback/5,Gri,,156.0,Önden Çekiş,,3.0,0.0,0.0,0.0
+1150000.0,Seat,Leon,1.6 Tdi Style,2017.0,186000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598.0,116.0,Önden Çekiş,4.1,2.0,0.0,1.0,0.0
+1355000.0,Volkswagen,Polo,1.0 Life,2023.0,110000.0,Yarı Otomatik,Benzin,Hatchback/5,Mavi,999.0,95.0,Önden Çekiş,5.0,0.0,0.0,0.0,1.0
+740000.0,Fiat,Egea,1.4 Fire Easy Plus,2022.0,166300.0,Düz,Benzin,Sedan,Mavi,1368.0,95.0,Önden Çekiş,6.4,1.0,0.0,0.0,0.0
+2345000.0,Skoda,Superb,1.5 Tsi Prestige,2024.0,157000.0,Otomatik,Hibrit,Sedan,Siyah,1500.5,138.0,Önden Çekiş,,,,,0.0
+1085000.0,Ford,Focus,1.6 Tdci Trend X,2017.0,117206.0,Düz,Dizel,Sedan,Beyaz,1560.0,95.0,Önden Çekiş,4.5,1.0,0.0,0.0,0.0
+975000.0,Hyundai,I10,1.2 D-Cvvt Elite,2016.0,63000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1248.0,87.0,Önden Çekiş,5.9,2.0,1.0,0.0,0.0
+2299900.0,Volkswagen,Passat,1.5 Tsi Elegance,2022.0,128800.0,Otomatik,Benzin,Sedan,Gri,1500.5,138.0,Önden Çekiş,,,,,0.0
+715000.0,Renault,Symbol,1.5 Dci Joy,2016.0,149000.0,Düz,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,4.0,0.0,0.0,0.0
+498500.0,Renault,Symbol,1.5 Dci Joy,2013.0,240000.0,Düz,Dizel,Sedan,Beyaz,1461.0,75.0,Önden Çekiş,3.9,5.0,1.0,1.0,0.0
+1600000.0,Renault,Megane,1.3 Tce Icon,2024.0,80000.0,Otomatik,Benzin,Sedan,Gri,1300.5,138.0,Önden Çekiş,,,,,0.0
+1065000.0,Renault,Clio,1.0 Tce Touch,2023.0,152000.0,Otomatik,Benzin,Hatchback/5,Beyaz,999.0,90.0,Önden Çekiş,5.0,0.0,3.0,0.0,0.0
+730000.0,Peugeot,208,1.2 Puretech Access,2015.0,79000.0,Düz,Benzin,Hatchback/5,Beyaz,1199.0,83.0,Önden Çekiş,4.5,0.0,0.0,0.0,1.0
+1295000.0,Renault,Megane,1.5 Blue Dci Joy,2021.0,138500.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,1.0,0.0,0.0
+3850000.0,Honda,Civic,2.0 Type-R,2017.0,16000.0,Düz,Benzin,Hatchback/5,Kırmızı,1900.5,313.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+535000.0,Hyundai,I20,1.2 D-Cvvt Jump,2013.0,139000.0,Düz,Benzin,Hatchback/5,Beyaz,1248.0,85.0,Önden Çekiş,4.9,9.0,1.0,2.0,0.0
+645000.0,Citroen,C3,1.6 Bluehdi Feel,2016.0,270000.0,Düz,Dizel,Hatchback/5,Beyaz,1560.0,76.0,Önden Çekiş,3.6,3.0,1.0,0.0,0.0
+799000.0,Seat,Leon,1.6 Tdi Cr Style,2011.0,212000.0,Düz,Dizel,Hatchback/5,Beyaz,1598.0,105.0,Önden Çekiş,4.3,3.0,0.0,0.0,0.0
+495000.0,Audi,A6,A6 Avant 2.5 Tdi,2004.0,329000.0,Otomatik,Dizel,Station Wagon,Gri,2496.0,163.0,Önden Çekiş,7.0,1.0,4.0,0.0,0.0
+625000.0,Renault,Fluence,1.5 Dci Extreme Edition,2011.0,250000.0,Düz,Dizel,Sedan,Gri,1461.0,90.0,Önden Çekiş,4.4,1.0,0.0,0.0,0.0
+1350000.0,Volkswagen,Passat,1.4 Tsi Bluemotion Comfortline,2016.0,240000.0,Otomatik,Benzin,Sedan,Gri,1300.5,113.0,Önden Çekiş,,3.0,0.0,0.0,0.0
+1675000.0,Skoda,Octavia,1.5 E-Tec Premium,2023.0,138000.0,Yarı Otomatik,Hibrit,Hatchback/5,Gri,1498.0,150.0,Önden Çekiş,4.7,0.0,0.0,0.0,1.0
+1375000.0,Mercedes - Benz,Cla,180 D Amg,2015.0,291000.0,Otomatik,Dizel,Coupe,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,1.0,0.0,0.0
+779000.0,Hyundai,I20,1.4 Cvvt Jump,2012.0,209000.0,Otomatik,Lpg & Benzin,Hatchback/5,Beyaz,1396.0,100.0,Önden Çekiş,6.0,2.0,2.0,0.0,0.0
+819000.0,Fiat,Egea,1.4 Fire Easy Plus,2023.0,85000.0,Düz,Benzin,Sedan,Beyaz,1368.0,95.0,Önden Çekiş,6.4,3.0,0.0,1.0,0.0
+900000.0,Fiat,Egea,1.4 Fire Easy,2022.0,33000.0,Düz,Benzin,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1685000.0,Ford,Focus,1.5 Ecoblue Titanium Stil,2024.0,45500.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+2850000.0,Audi,A3,A3 Sportback 35 Tfsi Advanced,2025.0,6001.0,Yarı Otomatik,Hibrit,Hatchback/5,Gri,1498.0,150.0,Önden Çekiş,5.0,0.0,0.0,0.0,1.0
+2340000.0,Mercedes - Benz,E,180 Edition E,2015.0,188000.0,Otomatik,Benzin,Sedan,Füme,1595.0,156.0,Arkadan İtiş,6.6,0.0,2.0,1.0,0.0
+4315000.0,Audi,A6,A6 Sedan 40 Tdi Quattro Design,2021.0,200000.0,Yarı Otomatik,Hibrit,Sedan,Gri,1968.0,204.0,4Wd (Sürekli),4.3,0.0,0.0,1.0,0.0
+1395000.0,Bmw,3 Serisi,320I Ed M Plus,2014.0,221000.0,Otomatik,Benzin,Sedan,Beyaz,1598.0,170.0,Arkadan İtiş,5.3,0.0,1.0,0.0,0.0
+1075000.0,Fiat,Egea,1.6 Multijet Easy,2022.0,120000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,138.0,Önden Çekiş,,,,,0.0
+1627500.0,Ford,Focus,1.5 Ti-Vct Titanium,2023.0,51000.0,Otomatik,Benzin,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,,,,0.0
+1560000.0,Mercedes - Benz,A,A 180 Amg Sport,2013.0,80000.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1595.0,122.0,Önden Çekiş,5.8,3.0,0.0,0.0,0.0
+1315000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2016.0,215000.0,Otomatik,Dizel,Sedan,Gri,1500.5,113.0,Önden Çekiş,,2.0,0.0,0.0,0.0
+885000.0,Ford,Focus,1.6 Tdci Trend X,2017.0,290000.0,Düz,Dizel,Sedan,Beyaz,1560.0,95.0,Önden Çekiş,4.5,0.0,0.0,0.0,1.0
+1029000.0,Renault,Clio,1.5 Dci Touch,2015.0,129500.0,Otomatik,Dizel,Hatchback/5,Beyaz,1500.5,88.0,Önden Çekiş,,,,,0.0
+1395000.0,Volvo,V40 Cross Country,1.5 T3 Advance,2017.0,83000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1498.0,152.0,Önden Çekiş,5.6,0.0,0.0,0.0,1.0
+1345000.0,Suzuki,Swift,1.2 Hibrit Pulse,2024.0,10500.0,Otomatik,Hibrit,Hatchback/5,Turuncu,601.5,88.0,Önden Çekiş,,,,,0.0
+820000.0,Renault,Fluence,1.5 Dci Touch Plus,2016.0,210000.0,Otomatik,Dizel,Sedan,Gri,1500.5,113.0,Önden Çekiş,,4.0,1.0,0.0,0.0
+490000.0,Fiat,Linea,1.3 Multijet Active Plus,2015.0,217690.0,Düz,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,2.0,1.0,0.0,0.0
+630000.0,Renault,Fluence,1.5 Dci Touch,2013.0,204000.0,Düz,Dizel,Sedan,Beyaz,1461.0,90.0,Önden Çekiş,4.5,3.0,0.0,2.0,0.0
+1280000.0,Bmw,3 Serisi,320D Xdrive M Sport,2014.0,361000.0,Otomatik,Dizel,Sedan,Kırmızı,1995.0,184.0,4Wd (Sürekli),4.7,7.0,0.0,3.0,0.0
+698000.0,Renault,Clio,1.5 Dci Sporttourer Joy,2016.0,194000.0,Düz,Dizel,Station Wagon,Beyaz,1461.0,75.0,Önden Çekiş,3.6,1.0,1.0,0.0,0.0
+605000.0,Toyota,Corolla,1.6 Linea Terra,2003.0,228000.0,Düz,Benzin,Sedan,Mavi,1598.0,110.0,Önden Çekiş,7.0,,,,0.0
+599999.0,Ford,Focus,1.6 Tdci Collection,2011.0,248000.0,Düz,Dizel,Sedan,Beyaz,1560.0,90.0,Önden Çekiş,4.7,1.0,6.0,0.0,0.0
+650000.0,Honda,Civic,1.6I Vtec Es,2004.0,300000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1590.0,110.0,Önden Çekiş,6.5,2.0,2.0,2.0,0.0
+1325000.0,Renault,Clio,1.0 Tce Evolution,2024.0,45000.0,Otomatik,Benzin,Hatchback/5,Kırmızı,999.0,90.0,Önden Çekiş,6.0,0.0,0.0,0.0,1.0
+390000.0,Fiat,Linea,1.3 Multijet Emotion Plus,2011.0,277000.0,Düz,Dizel,Sedan,Füme,1248.0,90.0,Önden Çekiş,4.9,3.0,0.0,0.0,0.0
+1109000.0,Skoda,Scala,1.0 Tsi Premium,2023.0,160000.0,Yarı Otomatik,Benzin,Hatchback/5,Gri,999.0,110.0,Önden Çekiş,4.8,2.0,1.0,0.0,0.0
+1139000.0,Honda,Civic,1.6I Vtec Eco Elegance,2013.0,229000.0,Otomatik,Lpg & Benzin,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,1.0,1.0,0.0,0.0
+1165000.0,Volkswagen,Golf,1.4 Tsi Comfortline,2013.0,134229.0,Otomatik,Benzin,Hatchback/5,Mavi,1300.5,113.0,Önden Çekiş,,1.0,1.0,3.0,0.0
+1115000.0,Volvo,S60,1.6 D R-Design,2015.0,277000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,2.0,0.0,0.0
+859000.0,Renault,Megane,1.5 Dci Expression,2011.0,122000.0,Düz,Dizel,Hatchback/5,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+3579000.0,Mercedes - Benz,E,200 Exclusive,2016.0,128000.0,Otomatik,Benzin,Sedan,Beyaz,1991.0,184.0,Arkadan İtiş,6.3,0.0,0.0,0.0,1.0
+1155000.0,Renault,Megane,1.5 Dci Joy,2016.0,124000.0,Düz,Dizel,Hatchback/5,Beyaz,1461.0,90.0,Önden Çekiş,3.7,0.0,0.0,0.0,1.0
+750000.0,Volkswagen,Polo,1.4 Comfortline,2011.0,176000.0,Düz,Lpg & Benzin,Hatchback/5,Füme,1390.0,85.0,Önden Çekiş,5.9,3.0,1.0,0.0,0.0
+845000.0,Fiat,Egea,1.3 Multijet Easy,2022.0,106000.0,Düz,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,3.0,0.0,1.0,0.0
+1449000.0,Renault,Megane,1.5 Dci Icon,2017.0,145000.0,Yarı Otomatik,Dizel,Hatchback/5,Gri,1461.0,110.0,Önden Çekiş,3.7,3.0,0.0,0.0,0.0
+1955000.0,Volkswagen,Golf,1.5 Etsi R Line,2021.0,95000.0,Yarı Otomatik,Hibrit,Hatchback/5,Beyaz,1498.0,150.0,Önden Çekiş,5.3,0.0,0.0,1.0,0.0
+4060000.0,Bmw,4 Serisi,420I Edition M Sport,2021.0,90000.0,Otomatik,Benzin,Coupe,Mavi,1597.0,170.0,Arkadan İtiş,6.1,0.0,1.0,0.0,0.0
+1580000.0,Volkswagen,Golf,1.4 Tsi Comfortline,2018.0,150000.0,Otomatik,Benzin,Hatchback/5,Gri,1300.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+935000.0,Bmw,3 Serisi,316I Standart,2011.0,203200.0,Düz,Benzin,Sedan,Beyaz,1597.0,115.0,Arkadan İtiş,7.5,1.0,3.0,0.0,0.0
+1670000.0,Bmw,3 Serisi,320I Ed M Plus,2014.0,184000.0,Otomatik,Benzin,Sedan,Gri,1598.0,170.0,Arkadan İtiş,5.3,0.0,0.0,0.0,1.0
+1320000.0,Volkswagen,Passat,2.0 Tdi Bluemotion Highline,2015.0,277000.0,Otomatik,Dizel,Sedan,Siyah,1900.5,138.0,Önden Çekiş,,0.0,1.0,0.0,0.0
+950000.0,Hyundai,I30,1.6 Gdi Style,2014.0,165000.0,Otomatik,Benzin,Hatchback/5,Mavi,1500.5,138.0,Önden Çekiş,,3.0,0.0,0.0,0.0
+635000.0,Mercedes - Benz,A,A 160 Elegance,2001.0,91000.0,Otomatik,Benzin,Hatchback/5,Gri,1500.5,113.0,Önden Çekiş,,4.0,1.0,0.0,0.0
+1700000.0,Renault,Megane,1.3 Tce Touch,2025.0,30000.0,Yarı Otomatik,Benzin,Sedan,Beyaz,1332.0,140.0,Önden Çekiş,5.3,0.0,0.0,0.0,1.0
+1015000.0,Renault,Clio,1.3 Tce Icon,2020.0,140000.0,Yarı Otomatik,Benzin,Hatchback/5,Kırmızı,1332.0,130.0,Önden Çekiş,5.2,3.0,0.0,1.0,0.0
+435000.0,Bmw,5 Serisi,525D Standart,2000.0,270000.0,Düz,Dizel,Sedan,Siyah,2250.5,163.0,Arkadan İtiş,,0.0,0.0,0.0,1.0
+389000.0,Fiat,Linea,1.3 Multijet Pop,2015.0,245000.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.9,3.0,2.0,1.0,0.0
+713000.0,Honda,Civic,1.6 Elegance,2009.0,210000.0,Otomatik,Lpg & Benzin,Sedan,Bej,1595.0,125.0,Önden Çekiş,7.1,8.0,0.0,0.0,0.0
+788000.0,Citroen,C-Elysée,1.5 Bluehdi Feel,2020.0,166000.0,Düz,Dizel,Sedan,Beyaz,1499.0,100.0,Önden Çekiş,3.9,,,,0.0
+665000.0,Opel,Corsa,1.4 Enjoy,2015.0,175000.0,Düz,Lpg & Benzin,Hatchback/5,Siyah,1398.0,90.0,Önden Çekiş,5.2,3.0,0.0,1.0,0.0
+2625900.0,Mini,Cooper,1.5 Favoured,2025.0,6001.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1499.0,156.0,Önden Çekiş,6.1,,,,0.0
+730000.0,Opel,Astra,1.4 T Cosmo,2011.0,224000.0,Otomatik,Benzin,Hatchback/5,Siyah,1364.0,140.0,Önden Çekiş,7.0,4.0,3.0,0.0,0.0
+1390000.0,Ford,Focus,1.5 Ecoblue Trend X,2023.0,117000.0,Otomatik,Dizel,Sedan,Gri,1500.0,114.0,Önden Çekiş,4.5,4.0,0.0,0.0,0.0
+560000.0,Volkswagen,Jetta,1.6 Primeline,2007.0,375000.0,Düz,Benzin,Sedan,Gri (Metalik),1595.0,102.0,Önden Çekiş,7.4,0.0,9.0,0.0,0.0
+459000.0,Renault,Clio,1.4 Authentique,2007.0,133000.0,Düz,Benzin,Sedan,Gri (Gümüş),1390.0,75.0,Önden Çekiş,7.1,1.0,1.0,1.0,0.0
+350000.0,Skoda,Fabia,1.4 Tdi Classic,2008.0,329000.0,Düz,Dizel,Hatchback/5,Kırmızı,1422.0,80.0,Önden Çekiş,4.6,2.0,0.0,1.0,0.0
+485000.0,Chevrolet,Cruze,1.6,2010.0,170000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1598.0,124.0,Önden Çekiş,6.5,,,,0.0
+195000.0,Tofaş,Doğan,S,1994.0,350000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1581.0,83.0,Arkadan İtiş,6.5,,,,0.0
+615000.0,Lancia,Delta,1.6 Mjet,2012.0,249500.0,Yarı Otomatik,Dizel,Hatchback/5,Gri (Titanyum),1598.0,120.0,Önden Çekiş,4.6,5.0,0.0,0.0,0.0
+839000.0,Renault,Megane,1.5 Dci Touch,2018.0,304000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,110.0,Önden Çekiş,3.8,1.0,3.0,2.0,0.0
+1400000.0,Opel,Insignia,1.6 Cdti Grand Sport Excellence,2017.0,128000.0,Otomatik,Dizel,Hatchback/5,Gri,1598.0,136.0,Önden Çekiş,5.1,0.0,1.0,0.0,0.0
+1465900.0,Toyota,Corolla,1.5 Vision,2024.0,22500.0,Otomatik,Benzin,Sedan,Füme,1490.0,125.0,Önden Çekiş,6.3,0.0,1.0,0.0,0.0
+1862000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Impression,2020.0,123000.0,Otomatik,Dizel,Sedan,Gri,1500.5,113.0,Önden Çekiş,,,,,0.0
+909900.0,Citroen,C3,1.2 Puretech Feel Bold,2024.0,49000.0,Düz,Benzin,Hatchback/5,Beyaz,1199.0,83.0,Önden Çekiş,4.2,0.0,0.0,0.0,1.0
+1380000.0,Honda,Civic,1.6I Vtec Elegance,2019.0,150000.0,Otomatik,Benzin,Sedan,Mavi,1500.5,113.0,Önden Çekiş,,,,,0.0
+1349000.0,Mercedes - Benz,B,B 180 Blueefficiency Elite,2013.0,147000.0,Yarı Otomatik,Benzin,Mpv,Gri (Gümüş),1595.0,122.0,Önden Çekiş,5.9,0.0,0.0,0.0,1.0
+675000.0,Renault,Fluence,1.5 Dci Icon,2013.0,328000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,110.0,Önden Çekiş,4.4,1.0,1.0,0.0,0.0
+1980000.0,Volkswagen,Passat,1.5 Tsi Business,2022.0,86500.0,Yarı Otomatik,Benzin,Sedan,Gri,1498.0,150.0,Önden Çekiş,5.3,0.0,0.0,0.0,1.0
+1829000.0,Bmw,3 Serisi,318I Edition M Sport,2017.0,130000.0,Otomatik,Benzin,Sedan,Beyaz,1499.0,136.0,Arkadan İtiş,5.0,0.0,0.0,0.0,1.0
+2299750.0,Skoda,Superb,1.5 Tsi Prestige,2021.0,94000.0,Yarı Otomatik,Benzin,Sedan,Mavi,1498.0,150.0,Önden Çekiş,5.4,0.0,1.0,0.0,0.0
+367000.0,Ford,Fiesta,1.4 Tdci Comfort,2004.0,387000.0,Otomatik,Dizel,Hatchback/5,Gri,1399.0,68.0,Önden Çekiş,4.3,,,,0.0
+629000.0,Opel,Insignia,2.0 Cdti Edition,2011.0,260000.0,Otomatik,Dizel,Sedan,Siyah,1956.0,131.0,Önden Çekiş,6.7,,,,0.0
+1099000.0,Renault,Megane,1.5 Dci Touch,2018.0,214000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,2.0,0.0,0.0
+1310000.0,Renault,Clio,1.0 Tce Touch,2023.0,36500.0,Otomatik,Benzin,Hatchback/5,Gri,999.0,90.0,Önden Çekiş,5.0,0.0,0.0,0.0,1.0
+1445000.0,Volkswagen,Polo,1.0 Tsi Life,2024.0,77000.0,Otomatik,Benzin,Hatchback/5,Lacivert,601.5,88.0,,,0.0,0.0,0.0,1.0
+1650000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2015.0,186000.0,Otomatik,Dizel,Sedan,Gri,1500.5,113.0,Önden Çekiş,,1.0,2.0,0.0,0.0
+1190000.0,Bmw,3 Serisi,320D M Sport,2012.0,296523.0,Otomatik,Dizel,Sedan,Beyaz,1995.0,184.0,Arkadan İtiş,5.3,,,,0.0
+1300000.0,Toyota,Corolla,1.6 Premium,2014.0,88000.0,Otomatik,Benzin,Sedan,Beyaz,1598.0,132.0,Önden Çekiş,6.1,3.0,0.0,5.0,0.0
+599750.0,Chevrolet,Cruze,1.6 Ls,2010.0,163000.0,Otomatik,Lpg & Benzin,Sedan,Gri,1500.5,113.0,Önden Çekiş,,4.0,0.0,2.0,0.0
+440000.0,Ford,Fiesta,1.4 Tdci Titanium,2011.0,260000.0,Düz,Dizel,Hatchback/5,Bordo,1398.0,70.0,Önden Çekiş,4.2,,,,0.0
+1385000.0,Hyundai,I20,1.0 T-Gdi Jump,2026.0,17500.0,Yarı Otomatik,Benzin,Hatchback/5,Mavi (Metalik),998.0,90.0,Önden Çekiş,6.3,0.0,0.0,0.0,1.0
+229000.0,Hyundai,Accent,1.3 Ls,1998.0,202000.0,Düz,Lpg & Benzin,Sedan,Mor,1341.0,75.0,Önden Çekiş,7.4,0.0,0.0,0.0,0.0
+597000.0,Renault,Fluence,1.5 Dci Joy,2013.0,263000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,110.0,Önden Çekiş,4.4,0.0,0.0,0.0,1.0
+700000.0,Volkswagen,Jetta,1.6 Tdi Comfortline,2011.0,370000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1598.0,105.0,Önden Çekiş,4.7,0.0,2.0,2.0,0.0
+1799000.0,Mercedes - Benz,C,C 180 Blueefficiency Amg,2013.0,169000.0,Otomatik,Benzin,Sedan,Siyah,1796.0,156.0,Arkadan İtiş,6.7,0.0,0.0,0.0,1.0
+485000.0,Renault,Symbol,1.4 Expression,2010.0,210000.0,Düz,Benzin,Sedan,Beyaz,1390.0,75.0,Önden Çekiş,7.1,2.0,2.0,0.0,0.0
+715000.0,Opel,Corsa,1.4 Twinport Enjoy 111,2011.0,235000.0,Otomatik,Lpg & Benzin,Hatchback/5,Füme,1364.0,100.0,Önden Çekiş,5.5,3.0,0.0,0.0,0.0
+415000.0,Citroen,C3,1.4 X Furio,2007.0,166000.0,Düz,Benzin,Hatchback/5,Mavi,1360.0,76.0,Önden Çekiş,6.1,3.0,0.0,0.0,0.0
+310000.0,Renault,Megane,1.6 Rte,2000.0,402000.0,Düz,Lpg & Benzin,Sedan,Bej,1500.5,113.0,Önden Çekiş,,0.0,0.0,2.0,0.0
+1895000.0,Honda,Civic,1.5 I-Vtec Eco Elegance,2022.0,79000.0,Otomatik,Lpg & Benzin,Sedan,Siyah,1498.0,129.0,Önden Çekiş,6.5,0.0,0.0,0.0,1.0
+385000.0,Renault,Clio,1.5 Dci Extreme Edition,2012.0,239000.0,Düz,Dizel,Hatchback/5,Siyah,1500.5,88.0,Önden Çekiş,,8.0,0.0,1.0,0.0
+1487000.0,Renault,Megane,1.5 Blue Dci Touch,2020.0,84000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,115.0,Önden Çekiş,4.2,0.0,0.0,0.0,1.0
+1070000.0,Fiat,Egea,1.4 Fire Lounge,2024.0,56000.0,Düz,Benzin,Sedan,Gri,1368.0,95.0,Önden Çekiş,6.4,0.0,1.0,0.0,0.0
+387000.0,Skoda,Octavia,1.6 Elegance,2003.0,389000.0,Otomatik,Lpg & Benzin,Hatchback/5,Mavi,1595.0,102.0,Önden Çekiş,8.2,12.0,0.0,1.0,0.0
+645000.0,Honda,Jazz,1.4 Elite,2007.0,209500.0,Otomatik,Lpg & Benzin,Hatchback/5,Mavi (Metalik),1339.0,83.0,Önden Çekiş,5.9,3.0,0.0,4.0,0.0
+1189000.0,Renault,Clio,1.0 Tce Icon,2021.0,141000.0,Otomatik,Benzin,Hatchback/5,Beyaz,999.0,90.0,Önden Çekiş,5.0,1.0,0.0,0.0,0.0
+945000.0,Volkswagen,Polo,1.4 Comfortline,2013.0,70000.0,Düz,Benzin,Hatchback/5,Beyaz,1390.0,85.0,Önden Çekiş,5.9,,,,0.0
+790000.0,Seat,Leon,1.4 Tsi Style,2011.0,120000.0,Düz,Benzin,Hatchback/5,Siyah,1390.0,125.0,Önden Çekiş,6.2,0.0,1.0,0.0,0.0
+840000.0,Peugeot,301,1.6 Bluehdi Active,2018.0,162000.0,Düz,Dizel,Sedan,Beyaz,1560.0,102.0,Önden Çekiş,3.9,0.0,0.0,0.0,1.0
+1425000.0,Volkswagen,Passat,1.4 Tsi Bluemotion Highline,2014.0,182000.0,Düz,Benzin,Sedan,Mavi,1395.0,150.0,Önden Çekiş,5.0,,,,0.0
+1285000.0,Audi,A3,A3 Sedan 1.6 Tdi Design Line,2016.0,252800.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598.0,110.0,Önden Çekiş,3.7,0.0,0.0,0.0,1.0
+565000.0,Renault,Clio,1.5 Dci Touch,2015.0,217000.0,Düz,Dizel,Hatchback/5,Beyaz,1500.5,63.0,Önden Çekiş,,8.0,0.0,1.0,0.0
+825000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2012.0,300000.0,Yarı Otomatik,Dizel,Sedan,Gri,1598.0,105.0,Önden Çekiş,4.7,0.0,0.0,0.0,1.0
+435000.0,Seat,Toledo,1.6 Signo,2001.0,304000.0,Otomatik,Lpg & Benzin,Sedan,Gri,1595.0,100.0,Önden Çekiş,8.5,0.0,0.0,0.0,1.0
+1175000.0,Seat,Leon,1.6 Tdi Style,2013.0,210000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1700.5,113.0,Önden Çekiş,,1.0,0.0,1.0,0.0
+1345000.0,Renault,Megane,1.5 Blue Dci Icon,2020.0,160000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,115.0,Önden Çekiş,4.2,0.0,1.0,0.0,0.0
+880000.0,Ford,Focus,1.6 Tdci Titanium,2015.0,240000.0,Düz,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,2.0,0.0,1.0,0.0
+1999000.0,Cupra,Leon,1.5 Etsi Standart,2024.0,76000.0,Otomatik,Hibrit,Hatchback/5,Gri,1500.5,138.0,Önden Çekiş,,1.0,0.0,0.0,0.0
+2015000.0,Skoda,Octavia,1.5 E-Tec Premium,2024.0,64000.0,Yarı Otomatik,Hibrit,Hatchback/5,Füme,1498.0,150.0,Önden Çekiş,4.7,0.0,0.0,0.0,1.0
+335000.0,Volkswagen,Polo,1.4 Comfortline,2000.0,230000.0,Otomatik,Lpg & Benzin,Hatchback/5,Mavi,1390.0,75.0,Önden Çekiş,7.5,0.0,0.0,0.0,1.0
+1350000.0,Volkswagen,Golf,1.6 Tdi Comfortline,2016.0,165000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1500.5,113.0,Önden Çekiş,,1.0,1.0,0.0,0.0
+1347000.0,Hyundai,I20,1.0 T-Gdi Jump,2026.0,20629.0,Otomatik,Benzin,Hatchback/5,Beyaz,601.5,88.0,Önden Çekiş,,2.0,0.0,0.0,0.0
+299000.0,Mercedes - Benz,200,E,1990.0,480000.0,Düz,Lpg & Benzin,Sedan,Şampanya,1997.0,118.0,Arkadan İtiş,,0.0,0.0,0.0,0.0
+287500.0,Ford,Fiesta,1.4 Tdci Comfort,2006.0,337000.0,Düz,Dizel,Hatchback/5,Füme,1399.0,68.0,Önden Çekiş,4.3,7.0,0.0,3.0,0.0
+930000.0,Fiat,500 Ailesi,500L 1.3 Mjet Rockstar,2015.0,146900.0,Yarı Otomatik,Dizel,Mpv,Siyah,1248.0,85.0,Önden Çekiş,4.0,2.0,0.0,0.0,0.0
+870000.0,Fiat,Egea,1.3 Multijet Easy,2023.0,122000.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,0.0,1.0,0.0,0.0
+1119000.0,Toyota,Corolla,1.33 Life,2017.0,89900.0,Düz,Benzin,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,1.0,1.0,0.0,0.0
+725000.0,Chevrolet,Aveo,1.4 Lt,2012.0,174000.0,Otomatik,Lpg & Benzin,Sedan,Siyah,1398.0,100.0,Önden Çekiş,6.8,0.0,0.0,0.0,1.0
+1765000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2016.0,172000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598.0,120.0,Önden Çekiş,4.0,0.0,1.0,0.0,0.0
+629000.0,Opel,Corsa,1.2 Twinport Essentia,2011.0,157000.0,Otomatik,Benzin,Hatchback/5,Gri,1300.5,88.0,Önden Çekiş,,6.0,1.0,0.0,0.0
+910000.0,Fiat,Egea,1.3 Multijet Urban,2016.0,79800.0,Düz,Benzin,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,0.0,3.0,0.0,0.0
+740000.0,Renault,Fluence,1.6 Extreme,2011.0,119000.0,Düz,Benzin,Sedan,Füme,1598.0,110.0,Önden Çekiş,6.5,2.0,0.0,0.0,0.0
+1299000.0,Skoda,Octavia,1.4 Tsi Sport,2018.0,214000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1395.0,150.0,Önden Çekiş,5.0,1.0,1.0,0.0,0.0
+1965000.0,Honda,Civic,1.5 I-Vtec Executive Plus,2022.0,93500.0,Otomatik,Benzin,Sedan,Gri,1500.5,188.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+550000.0,Renault,Clio,1.5 Dci Expression,2008.0,210000.0,Yarı Otomatik,Dizel,Hatchback/5,Gri,1461.0,85.0,Önden Çekiş,4.4,4.0,1.0,0.0,0.0
+529000.0,Dacia,Sandero,1.2 Ambiance,2016.0,235000.0,Düz,Lpg & Benzin,Hatchback/5,Siyah,601.5,63.0,Önden Çekiş,,1.0,2.0,2.0,0.0
+450000.0,Mercedes - Benz,280,Se,1984.0,156000.0,Düz,Lpg & Benzin,Sedan,Lacivert,2750.5,188.0,Arkadan İtiş,,0.0,0.0,0.0,1.0
+395000.0,Opel,Corsa,1.2 Twinport Essentia,2012.0,340000.0,Düz,Lpg & Benzin,Hatchback/5,Siyah,1300.5,88.0,Önden Çekiş,,4.0,2.0,0.0,0.0
+349500.0,Hyundai,Getz,1.5 Crdi Vgt,2008.0,261000.0,Düz,Dizel,Hatchback/5,Gri,1493.0,88.0,Önden Çekiş,4.5,6.0,0.0,3.0,0.0
+1379000.0,Opel,Corsa,1.2 T Ultimate,2023.0,31152.0,Otomatik,Benzin,Hatchback/5,Beyaz,1199.0,130.0,Önden Çekiş,4.5,0.0,0.0,0.0,1.0
+775000.0,Fiat,Egea,1.4 Fire Urban Plus,2020.0,126500.0,Düz,Benzin,Sedan,Beyaz,1368.0,95.0,Önden Çekiş,5.7,0.0,1.0,1.0,0.0
+749000.0,Hyundai,Accent Blue,1.6 Crdi Biz,2014.0,250000.0,Otomatik,Dizel,Sedan,Beyaz,1582.0,136.0,Önden Çekiş,5.6,4.0,0.0,0.0,0.0
+955000.0,Ford,Focus,1.5 Tdci Titanium,2016.0,241000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1499.0,120.0,Önden Çekiş,4.2,1.0,1.0,0.0,0.0
+600000.0,Peugeot,308,1.6 Hdi Millesim,2010.0,230000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1560.0,111.0,Önden Çekiş,4.8,7.0,0.0,0.0,0.0
+1196500.0,Renault,Clio,1.0 Tce Icon,2023.0,110000.0,Otomatik,Benzin,Hatchback/5,Turuncu,999.0,90.0,Önden Çekiş,5.0,0.0,0.0,0.0,1.0
+1100000.0,Renault,Megane,1.5 Dci Touch,2017.0,133000.0,Düz,Dizel,Sedan,Beyaz,1461.0,110.0,Önden Çekiş,3.9,1.0,0.0,1.0,0.0
+895000.0,Fiat,Egea,1.4 Fire Easy Plus,2023.0,70600.0,Düz,Benzin,Sedan,Beyaz,1368.0,95.0,Önden Çekiş,6.4,0.0,0.0,0.0,1.0
+1300000.0,Skoda,Octavia,1.0 E-Tec Premium,2023.0,81000.0,Yarı Otomatik,Hibrit,Hatchback/5,Gri (Metalik),999.0,110.0,Önden Çekiş,4.3,,,,0.0
+365000.0,Ford,Focus,1.6 Tdci Trend,2005.0,390000.0,Düz,Dizel,Sedan,Gri,1560.0,110.0,Önden Çekiş,4.8,,,,0.0
+870000.0,Fiat,Egea,1.4 Fire Urban,2021.0,115000.0,Düz,Benzin,Sedan,Mavi (Metalik),1368.0,95.0,Önden Çekiş,6.4,0.0,2.0,1.0,0.0
+364999.0,Fiat,Linea,1.3 Multijet Active Plus,2011.0,340000.0,Düz,Dizel,Sedan,Gri (Metalik),1248.0,90.0,Önden Çekiş,4.9,,,,0.0
+1400000.0,Renault,Talisman,1.6 Dci Icon,2016.0,141000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598.0,160.0,Önden Çekiş,4.4,1.0,0.0,0.0,0.0
+642500.0,Fiat,Egea,1.3 Multijet Easy,2017.0,260000.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,,,,0.0
+1162500.0,Renault,Megane,1.5 Dci Touch,2017.0,189000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,110.0,Önden Çekiş,3.8,0.0,4.0,0.0,0.0
+979000.0,Hyundai,I10,1.2 D-Cvvt Elite,2015.0,31000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1248.0,87.0,Önden Çekiş,5.9,0.0,0.0,0.0,1.0
+755000.0,Opel,Astra,1.3 Cdti Enjoy Active,2014.0,193000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1248.0,95.0,Önden Çekiş,4.1,0.0,3.0,0.0,0.0
+1325000.0,Skoda,Superb,1.6 Tdi Prestige,2016.0,206000.0,Otomatik,Dizel,Sedan,Siyah,1500.5,113.0,Önden Çekiş,,0.0,0.0,2.0,0.0
+1170000.0,Honda,Civic,1.6I Vtec Eco Elegance,2015.0,100000.0,Düz,Benzin,Sedan,Beyaz,1598.0,125.0,Önden Çekiş,6.7,2.0,3.0,1.0,0.0
+820000.0,Volkswagen,Jetta,1.6 Tdi Comfortline,2014.0,233000.0,Yarı Otomatik,Dizel,Sedan,Füme,1598.0,105.0,Önden Çekiş,4.7,1.0,1.0,1.0,0.0
+1979900.0,Volkswagen,Passat,1.5 Tsi R Line,2023.0,63000.0,Yarı Otomatik,Benzin,Sedan,Füme,1498.0,150.0,Önden Çekiş,5.3,3.0,0.0,2.0,0.0
+869000.0,Volkswagen,Jetta,1.6 Tdi Comfortline,2013.0,214250.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598.0,105.0,Önden Çekiş,4.7,3.0,1.0,0.0,0.0
+1899900.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2018.0,148000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1598.0,120.0,Önden Çekiş,4.0,0.0,0.0,0.0,1.0
+1275000.0,Volkswagen,Jetta,1.2 Tsi Bluemotion Comfortline,2016.0,83000.0,Düz,Benzin,Sedan,Beyaz,1197.0,105.0,Önden Çekiş,5.0,0.0,0.0,0.0,1.0
+1185000.0,Toyota,Corolla,1.6 Touch,2016.0,195850.0,Otomatik,Lpg & Benzin,Sedan,Beyaz,1500.5,138.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1069900.0,Volkswagen,Polo,1.0 Impression,2024.0,46000.0,Düz,Benzin,Hatchback/5,Beyaz,999.0,80.0,Önden Çekiş,5.1,0.0,0.0,0.0,1.0
+1145000.0,Renault,Megane,1.5 Blue Dci Touch,2020.0,176000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1461.0,115.0,Önden Çekiş,4.2,1.0,0.0,0.0,0.0
+109000.0,Skoda,Favorit,1.3 Lx,1993.0,265000.0,Düz,Lpg & Benzin,Hatchback/5,Kırmızı,1289.0,57.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+597000.0,Renault,Clio,1.2 Joy,2014.0,140955.0,Düz,Benzin,Hatchback/5,Kırmızı,1149.0,75.0,Önden Çekiş,5.5,3.0,0.0,0.0,0.0
+495000.0,Renault,Fluence,1.5 Dci Extreme,2012.0,310000.0,Düz,Dizel,Sedan,Füme,1500.5,88.0,Önden Çekiş,,1.0,1.0,0.0,0.0
+425000.0,Opel,Astra,1.6 Twinport,2004.0,277000.0,Düz,Lpg & Benzin,Sedan,Gri,1500.5,113.0,Önden Çekiş,,2.0,1.0,1.0,0.0
+335000.0,Kia,Picanto,1.1 Ex,2006.0,286000.0,Düz,Lpg & Benzin,Hatchback/5,Beyaz,601.5,63.0,Önden Çekiş,,1.0,2.0,0.0,0.0
+3750000.0,Lincoln,Town Car,4.6,2004.0,66792.0,Otomatik,Benzin,Sedan,Siyah,4750.5,213.0,Arkadan İtiş,,0.0,0.0,0.0,1.0
+675000.0,Hyundai,Getz,1.4 Dohc Ab Ac,2007.0,145000.0,Otomatik,Lpg & Benzin,Hatchback/5,Füme,1399.0,97.0,Önden Çekiş,6.7,8.0,0.0,1.0,0.0
+785000.0,Fiat,Egea,1.4 Fire Urban,2017.0,140000.0,Düz,Benzin,Sedan,Beyaz,1368.0,95.0,Önden Çekiş,5.7,0.0,0.0,0.0,1.0
+769000.0,Honda,Civic,1.6I Vtec Elegance,2007.0,355600.0,Otomatik,Lpg & Benzin,Sedan,Siyah,1595.0,125.0,Önden Çekiş,7.1,4.0,0.0,0.0,0.0
+370000.0,Renault,Megane,1.6 Dynamique,2006.0,306000.0,Düz,Lpg & Benzin,Sedan,Füme,1500.5,113.0,Önden Çekiş,,8.0,0.0,0.0,0.0
+1799000.0,Citroen,E-C4 X,Max,2025.0,25000.0,Otomatik,Elektrik,Suv,Gri,,156.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1250000.0,Kia,Ceed,1.6 Crdi Premium,2013.0,135000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1582.0,128.0,Önden Çekiş,5.5,,,,0.0
+325000.0,Peugeot,206+,1.4 Hdi Comfort,2011.0,343000.0,Düz,Dizel,Hatchback/5,Siyah,1398.0,71.0,Önden Çekiş,4.2,0.0,1.0,0.0,0.0
+275000.0,Volkswagen,Polo,1.4 Tdi Trendline,2003.0,258600.0,Düz,Dizel,Hatchback/5,Gri,1422.0,75.0,Önden Çekiş,4.5,9.0,0.0,2.0,0.0
+975000.0,Opel,Insignia,1.6 Cdti Edition Elegance,2015.0,196228.0,Otomatik,Dizel,Sedan,Beyaz,1598.0,136.0,Önden Çekiş,5.0,1.0,1.0,1.0,0.0
+759000.0,Fiat,500 Ailesi,500L 1.3 Mjet Bi-Color,2013.0,173000.0,Düz,Dizel,Mpv,Beyaz,1248.0,85.0,Önden Çekiş,4.2,2.0,0.0,0.0,0.0
+2740000.0,Bmw,5 Serisi,520I M Sport,2017.0,169000.0,Otomatik,Benzin,Sedan,Beyaz,1597.0,170.0,Arkadan İtiş,6.5,0.0,0.0,0.0,1.0
+415000.0,Opel,Corsa,1.2 Silverline,2006.0,190000.0,Düz,Benzin,Hatchback/5,Lacivert,1229.0,80.0,Önden Çekiş,6.0,3.0,0.0,0.0,0.0
+1460000.0,Bmw,3 Serisi,320I Ed M Plus,2015.0,285000.0,Otomatik,Benzin,Sedan,Mavi,1500.5,163.0,Arkadan İtiş,,2.0,0.0,0.0,0.0
+1215000.0,Peugeot,308,1.5 Bluehdi Style,2019.0,110000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1500.5,138.0,Önden Çekiş,,,,,0.0
+1090000.0,Toyota,Corolla,1.4 D-4D Advance,2015.0,168000.0,Düz,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+969000.0,Skoda,Octavia,1.2 Tsi Ambition,2017.0,97000.0,Düz,Benzin,Hatchback/5,Mavi,601.5,88.0,Önden Çekiş,,1.0,0.0,1.0,0.0
+689000.0,Peugeot,301,1.6 Hdi Active,2016.0,141000.0,Düz,Dizel,Sedan,Beyaz,1560.0,93.0,Önden Çekiş,4.3,2.0,2.0,0.0,0.0
+885000.0,Fiat,Egea,1.6 Multijet Easy,2021.0,99000.0,Düz,Dizel,Sedan,Beyaz,1598.0,130.0,Önden Çekiş,4.3,0.0,3.0,1.0,0.0
+1430000.0,Bmw,3 Serisi,320I Ed Standart,2014.0,131000.0,Otomatik,Benzin,Sedan,Beyaz,1598.0,170.0,Arkadan İtiş,5.4,0.0,0.0,2.0,0.0
+585000.0,Renault,Fluence,1.5 Dci Touch,2014.0,287000.0,Düz,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,0.0,3.0,0.0,0.0
+909000.0,Kia,Cerato,1.6 Crdi Concept Plus,2017.0,187000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1582.0,136.0,Önden Çekiş,4.6,4.0,1.0,1.0,0.0
+865000.0,Citroen,C-Elysée,1.5 Bluehdi Feel,2021.0,131000.0,Düz,Dizel,Sedan,Füme,1499.0,100.0,Önden Çekiş,3.9,0.0,0.0,0.0,1.0
+775000.0,Renault,Fluence,1.5 Dci Touch Plus,2013.0,238000.0,Yarı Otomatik,Dizel,Sedan,Gri,1461.0,110.0,Önden Çekiş,4.4,0.0,0.0,0.0,1.0
+685000.0,Volkswagen,Jetta,1.6 Fsi Comfortline,2007.0,210000.0,Düz,Benzin,Sedan,Gri,1598.0,115.0,Önden Çekiş,6.9,0.0,2.0,0.0,0.0
+960000.0,Volkswagen,Jetta,1.4 Tsi Highline,2012.0,178250.0,Düz,Benzin,Sedan,Siyah,1390.0,122.0,Önden Çekiş,6.2,0.0,0.0,0.0,1.0
+625000.0,Peugeot,301,1.6 Hdi Active,2017.0,233000.0,Düz,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,0.0,1.0,2.0,0.0
+570000.0,Renault,Symbol,1.5 Dci Joy,2016.0,284000.0,Düz,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,2.0,0.0,0.0,0.0
+760000.0,Mini,Cooper S,1.6 Cabrio,2009.0,216000.0,Düz,Benzin,,Yeşil,1598.0,170.0,Önden Çekiş,8.8,2.0,0.0,2.0,0.0
+865000.0,Seat,Leon,1.4 Tsi Style,2013.0,210000.0,Düz,Benzin,Hatchback/5,Kırmızı,1300.5,138.0,Önden Çekiş,,0.0,1.0,2.0,0.0
+165000.0,Renault,R 9,1.4 Broadway Gte,1994.0,500000.0,Düz,Lpg & Benzin,Sedan,Mavi,1390.0,83.0,Önden Çekiş,,0.0,0.0,1.0,0.0
+895000.0,Bmw,3 Serisi,330I M Sport,2003.0,312000.0,Otomatik,Benzin,Sedan,Siyah,2750.5,238.0,Arkadan İtiş,,0.0,2.0,0.0,0.0
+2450000.0,Bmw,5 Serisi,520I Comfort Plus,2018.0,180000.0,Otomatik,Benzin,Sedan,Beyaz,1597.0,170.0,Arkadan İtiş,6.5,0.0,0.0,0.0,1.0
+1445000.0,Bmw,3 Serisi,316I Modern Line,2013.0,142500.0,Otomatik,Benzin,Sedan,Beyaz,1598.0,136.0,Arkadan İtiş,5.8,0.0,0.0,0.0,1.0
+715000.0,Volkswagen,Jetta,1.6 Tdi Comfortline,2014.0,234000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,1.0,5.0,1.0,0.0
+705000.0,Peugeot,301,1.6 Hdi Active,2017.0,200000.0,Düz,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,0.0,1.0,0.0,0.0
+410000.0,Peugeot,207,1.4 Hdi Trendy,2008.0,279000.0,Düz,Dizel,Hatchback/5,Mavi,1398.0,71.0,Önden Çekiş,4.5,0.0,0.0,0.0,1.0
+1447500.0,Bmw,3 Serisi,320I Ed M Plus,2014.0,214000.0,Otomatik,Benzin,Sedan,Füme,1598.0,170.0,Arkadan İtiş,5.3,0.0,2.0,1.0,0.0
+645000.0,Opel,Astra,1.3 Cdti Sport,2013.0,279000.0,Düz,Benzin,Hatchback/5,Mavi,1300.5,88.0,Önden Çekiş,,2.0,2.0,0.0,0.0
+1560000.0,Bmw,3 Serisi,320D Xdrive Modern Line,2013.0,189000.0,Otomatik,Dizel,Sedan,Beyaz,1995.0,184.0,4Wd (Sürekli),4.7,4.0,0.0,0.0,0.0
+830000.0,Renault,Clio,1.0 Sce Joy,2021.0,110000.0,Düz,Benzin,Hatchback/5,Beyaz,601.5,63.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+183500.0,Tofaş,Şahin,1.4,1998.0,200000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1372.0,71.0,Arkadan İtiş,6.6,9.0,0.0,4.0,0.0
+655000.0,Volkswagen,Bora,1.6 Comfortline,2001.0,105000.0,Otomatik,Benzin,Sedan,Gri,1595.0,102.0,Önden Çekiş,8.1,3.0,0.0,0.0,0.0
+5250000.0,Bmw,3 Serisi,325Ci,1987.0,150000.0,Düz,Benzin,Coupe,Siyah,2250.5,238.0,Arkadan İtiş,,0.0,0.0,0.0,1.0
+735000.0,Renault,Symbol,1.5 Dci Joy,2018.0,192500.0,Düz,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,2.0,0.0,0.0,0.0
+3285000.0,Skoda,Superb,1.5 Tsi Laurin&Klement Crystal,2024.0,29000.0,Yarı Otomatik,Benzin,Sedan,Gri,1498.0,150.0,Önden Çekiş,5.4,0.0,0.0,0.0,1.0
+885000.0,Renault,Clio,1.5 Dci Joy,2018.0,130000.0,Düz,Dizel,Hatchback/5,Beyaz,1461.0,75.0,Önden Çekiş,3.6,0.0,1.0,0.0,0.0
+1215000.0,Volkswagen,Scirocco,1.4 Tsi Sportline,2014.0,162000.0,Düz,Benzin,Coupe,Kırmızı,1300.5,113.0,Önden Çekiş,,4.0,0.0,0.0,0.0
+1340000.0,Renault,Clio,1.0 Tce Evolution,2025.0,38000.0,Otomatik,Benzin,Hatchback/5,Beyaz,999.0,90.0,Önden Çekiş,6.0,0.0,0.0,0.0,1.0
+2620000.0,Audi,A3,A3 Sedan 35 Tfsi Advanced,2024.0,64000.0,Otomatik,Hibrit,Sedan,Mavi,1500.5,138.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+629000.0,Citroen,C-Elysée,1.6 Hdi Attraction,2014.0,211500.0,Düz,Dizel,Sedan,Beyaz,1560.0,93.0,Önden Çekiş,4.3,3.0,0.0,0.0,0.0
+2175000.0,Audi,A6,A6 Sedan 2.0 Tdi Quattro,2016.0,345000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1968.0,190.0,4Wd (Sürekli),4.4,2.0,2.0,0.0,0.0
+1250000.0,Toyota,Corolla,1.4 D-4D Touch,2018.0,116000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,1.0,2.0,0.0,0.0
+1565000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2014.0,204000.0,Yarı Otomatik,Dizel,Sedan,Gri (Metalik),1598.0,120.0,Önden Çekiş,4.0,,,,0.0
+730000.0,Ford,Focus,1.6 Tdci Style,2013.0,211000.0,Düz,Dizel,Hatchback/5,Gri,1560.0,115.0,Önden Çekiş,4.2,5.0,0.0,0.0,0.0
+1280000.0,Hyundai,I20,1.4 Mpi Style Plus,2021.0,71000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1368.0,100.0,Önden Çekiş,6.1,0.0,4.0,0.0,0.0
+700000.0,Seat,Leon,1.9 Tdi Cupra,2008.0,273000.0,Düz,Dizel,Hatchback/5,Beyaz,1900.5,113.0,Önden Çekiş,,,,,0.0
+165000.0,Tofaş,Doğan,L,1992.0,103000.0,Düz,Lpg & Benzin,Sedan,Bej,1581.0,83.0,Arkadan İtiş,6.5,0.0,0.0,0.0,1.0
+1225000.0,Seat,Leon,1.4 Tsi Fr,2014.0,215000.0,Düz,Benzin,Hatchback/5,Kırmızı,1395.0,140.0,Önden Çekiş,5.2,0.0,0.0,0.0,1.0
+1675000.0,Bmw,3 Serisi,320I Ed 40Th Year Edition,2015.0,209000.0,Otomatik,Benzin,Sedan,Mavi,1598.0,170.0,Arkadan İtiş,5.3,0.0,0.0,0.0,1.0
+1495000.0,Toyota,Corolla,1.5 Vision Plus,2023.0,45000.0,Otomatik,Benzin,Sedan,Beyaz,1490.0,125.0,Önden Çekiş,6.3,,,,0.0
+699000.0,Hyundai,I30,1.6 Crdi Style Plus,2009.0,256000.0,Otomatik,Dizel,Hatchback/5,Siyah,1582.0,115.0,Önden Çekiş,5.9,,,,0.0
+1225000.0,Seat,Leon,1.2 Tsi Style,2018.0,159000.0,Yarı Otomatik,Benzin,Hatchback/5,Gri,1197.0,110.0,Önden Çekiş,4.9,0.0,0.0,0.0,1.0
+415000.0,Volkswagen,Polo,1.4 Tdi Trendline,2005.0,245000.0,Düz,Dizel,Hatchback/5,Kırmızı,1422.0,80.0,Önden Çekiş,4.6,4.0,2.0,0.0,0.0
+775000.0,Toyota,Corolla,1.4 D-4D Premium,2016.0,220000.0,Otomatik,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,4.0,5.0,0.0,0.0
+875000.0,Opel,Astra,1.6 Edition Plus,2017.0,128000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1598.0,115.0,Önden Çekiş,6.5,0.0,1.0,0.0,0.0
+530000.0,Peugeot,301,1.6 Hdi Active,2015.0,204000.0,Düz,Dizel,Sedan,Füme,1560.0,93.0,Önden Çekiş,4.3,,,,0.0
+129000.0,Fiat,Uno,70 S,1999.0,251100.0,Düz,Lpg & Benzin,Hatchback/5,Lacivert,1372.0,71.0,Önden Çekiş,,,,,0.0
+999000.0,Fiat,Egea,1.3 Multijet Easy,2023.0,51000.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,,,,0.0
+1289000.0,Dacia,Sandero,1.0 Tce Extreme,2024.0,22000.0,Yarı Otomatik,Benzin,Station Wagon,Gri (Metalik),999.0,90.0,Önden Çekiş,5.2,0.0,0.0,0.0,1.0
+968000.0,Renault,Clio,1.0 Tce Touch,2020.0,75000.0,Otomatik,Benzin,Hatchback/5,Bordo,999.0,100.0,Önden Çekiş,5.0,1.0,2.0,1.0,0.0
+520000.0,Opel,Astra,1.6 Elegance,2003.0,368000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1598.0,101.0,Önden Çekiş,7.1,0.0,0.0,0.0,1.0
+740000.0,Toyota,Corolla,1.6 Comfort,2009.0,170000.0,Düz,Lpg & Benzin,Sedan,Gri (Gümüş),1598.0,124.0,Önden Çekiş,7.2,,,,0.0
+625000.0,Opel,Astra,1.3 Cdti Essentia,2011.0,185000.0,Düz,Dizel,Hatchback/5,Siyah,1248.0,90.0,Önden Çekiş,4.9,2.0,1.0,1.0,0.0
+730000.0,Fiat,Egea,1.4 Fire Easy,2021.0,159000.0,Düz,Benzin,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,0.0,6.0,0.0,0.0
+745000.0,Volkswagen,Golf,1.6 Fsi Comfortline,2006.0,123000.0,Otomatik,Benzin,Hatchback/5,Siyah,1500.5,113.0,Önden Çekiş,,0.0,8.0,0.0,0.0
+720000.0,Toyota,Auris,1.4 D-4D Elegant,2007.0,245000.0,Yarı Otomatik,Dizel,Hatchback/5,Gri,1364.0,90.0,Önden Çekiş,5.0,6.0,0.0,0.0,0.0
+1075000.0,Renault,Megane,1.5 Dci Touch,2017.0,191300.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461.0,110.0,Önden Çekiş,3.7,1.0,1.0,0.0,0.0
+1299000.0,Renault,Clio,1.0 Tce Evolution,2025.0,40000.0,Otomatik,Benzin,Hatchback/5,Füme,999.0,90.0,Önden Çekiş,6.0,0.0,0.0,0.0,1.0
+679750.0,Renault,Fluence,1.6 Business,2011.0,218000.0,Düz,Lpg & Benzin,Sedan,Gri,1598.0,110.0,Önden Çekiş,6.5,3.0,1.0,0.0,0.0
+1965000.0,Volkswagen,Passat,1.5 Tsi Impression,2022.0,57000.0,Yarı Otomatik,Benzin,Sedan,Siyah,1498.0,150.0,Önden Çekiş,5.3,2.0,2.0,0.0,0.0
+1265000.0,Renault,Clio,1.0 Tce Joy,2023.0,32000.0,Otomatik,Benzin,Hatchback/5,Kırmızı,999.0,90.0,Önden Çekiş,5.0,0.0,0.0,0.0,1.0
+580000.0,Renault,Fluence,1.5 Dci Touch,2014.0,352000.0,Yarı Otomatik,Dizel,Sedan,Gri,1461.0,110.0,Önden Çekiş,4.4,4.0,1.0,0.0,0.0
+1275000.0,Renault,Clio,1.0 Tce Joy,2023.0,17500.0,Otomatik,Benzin,Hatchback/5,Kırmızı,999.0,90.0,Önden Çekiş,5.0,0.0,0.0,0.0,1.0
+295000.0,Tofaş,Doğan,Slx Ie,2001.0,100000.0,Düz,Benzin,Sedan,Bordo,1581.0,96.0,Arkadan İtiş,6.6,11.0,0.0,0.0,0.0
+407500.0,Renault,Clio,1.4 Alize,2004.0,180000.0,Düz,Lpg & Benzin,Sedan,Yeşil (Metalik),1390.0,98.0,Önden Çekiş,7.0,,,,0.0
+1049000.0,Hyundai,I20,1.2 Mpi Style,2018.0,105000.0,Düz,Benzin,Hatchback/5,Kırmızı,1300.5,88.0,Önden Çekiş,,0.0,3.0,0.0,0.0
+869000.0,Ford,Focus,1.6 Ti-Vct Trend X,2015.0,219000.0,Otomatik,Lpg & Benzin,Sedan,Siyah,1500.5,113.0,Önden Çekiş,,6.0,0.0,0.0,0.0
+1687000.0,Honda,Civic,1.6I Vtec Eco Elegance,2019.0,48000.0,Otomatik,Benzin,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,0.0,1.0,0.0
+999000.0,Fiat,Egea,1.3 Multijet Easy,2023.0,84000.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,1.0,1.0,0.0,0.0
+1019000.0,Fiat,Egea,1.3 Multijet Easy,2023.0,52500.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,1.0,1.0,0.0,0.0
+927000.0,Fiat,Egea,1.3 Multijet Easy,2024.0,80800.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,2.0,0.0,2.0,0.0
+890000.0,Fiat,Egea,1.3 Multijet Easy,2023.0,167000.0,Düz,Dizel,Sedan,Gri,1248.0,95.0,Önden Çekiş,4.1,0.0,0.0,0.0,1.0
+910000.0,Fiat,Egea,1.3 Multijet Easy,2022.0,123000.0,Düz,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,1.0,1.0,0.0,0.0
+749000.0,Fiat,Egea,1.3 Multijet Easy,2020.0,158000.0,Düz,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,3.0,1.0,0.0,0.0
+1195000.0,Dacia,Sandero,1.0 Tce Prestige,2021.0,42000.0,Otomatik,Benzin,Hatchback/5,Mavi,999.0,90.0,Önden Çekiş,5.2,0.0,0.0,0.0,1.0
+975000.0,Fiat,Egea,1.4 Fire Easy Plus,2024.0,52000.0,Düz,Benzin,Sedan,Mavi,1368.0,95.0,Önden Çekiş,6.4,0.0,0.0,0.0,1.0
+969750.0,Dacia,Lodgy,1.5 Bluedci Laureate,2019.0,166000.0,Düz,Dizel,Mpv,Beyaz,1500.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+2150000.0,Cupra,Leon,1.5 Etsi Standart,2023.0,27000.0,Yarı Otomatik,Hibrit,Hatchback/5,Gri,1498.0,150.0,Önden Çekiş,5.0,0.0,0.0,0.0,1.0
+1260000.0,Fiat,Egea,1.6 Multijet Easy,2025.0,33000.0,Düz,Dizel,Sedan,Beyaz,1500.5,138.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1415000.0,Citroen,E-C3,Plus,2025.0,7900.0,Otomatik,Elektrik,Hatchback/5,Mavi,,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+5975000.0,Audi,A6,A6 Sedan 45 Tfsi Quattro S Line,2025.0,61000.0,Yarı Otomatik,Hibrit,Sedan,Siyah,1984.0,265.0,4Wd (Sürekli),6.4,0.0,0.0,0.0,1.0
+745000.0,Renault,Clio,1.5 Dci Touch,2015.0,188000.0,Düz,Dizel,Hatchback/5,Beyaz,1461.0,90.0,Önden Çekiş,3.6,3.0,1.0,0.0,0.0
+1265000.0,Opel,Astra,1.4 T Edition Plus,2020.0,54000.0,Otomatik,Benzin,Sedan,Gri,1364.0,140.0,Önden Çekiş,6.7,,,,0.0
+550000.0,Honda,Civic,1.6I Vtec Es,2002.0,248000.0,Düz,Benzin,Sedan,Gri,1590.0,110.0,Önden Çekiş,6.5,7.0,0.0,2.0,0.0
+1499900.0,Volvo,S60,1.5 T3 Advance,2016.0,108000.0,Otomatik,Benzin,Sedan,Beyaz,1498.0,152.0,Önden Çekiş,5.8,2.0,0.0,0.0,0.0
+1795000.0,Ford,Focus,1.5 Ecoblue Titanium Stil,2024.0,43170.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,,,,0.0
+1550000.0,Volkswagen,Passat,1.4 Tsi Bluemotion Comfortline,2015.0,179265.0,Otomatik,Benzin,Sedan,Siyah,1400.0,113.0,Önden Çekiş,,,,,0.0
+749000.0,Ford,Focus,1.6 Tdci Style,2012.0,173000.0,Düz,Dizel,Hatchback/5,Beyaz,1560.0,115.0,Önden Çekiş,4.2,1.0,0.0,1.0,0.0
+899000.0,Volkswagen,Golf,1.6 Tdi Bluemotion Highline,2012.0,245000.0,Otomatik,Dizel,Hatchback/5,Siyah,1500.5,113.0,Önden Çekiş,,4.0,0.0,4.0,0.0
+1150000.0,Volkswagen,Passat,1.4 Tsi Bluemotion Comfortline,2012.0,195000.0,Otomatik,Benzin,Sedan,Beyaz,1400.0,113.0,Önden Çekiş,,0.0,2.0,0.0,0.0
+795000.0,Hyundai,Accent Blue,1.4 D-Cvvt Mode Plus,2014.0,119500.0,Düz,Benzin,Sedan,Siyah,1300.5,88.0,Önden Çekiş,,2.0,0.0,1.0,0.0
+1325000.0,Bmw,3 Serisi,320I Ed Sport Line,2015.0,220000.0,Otomatik,Benzin,Sedan,Füme,1500.5,163.0,Arkadan İtiş,,2.0,0.0,1.0,0.0
+150000.0,Mazda,626,2.0 S,1990.0,250000.0,Düz,Benzin,Sedan,Beyaz,1998.0,90.0,Önden Çekiş,,,,,0.0
+919000.0,Fiat,Egea,1.4 Fire Easy,2023.0,48000.0,Düz,Lpg & Benzin,Sedan,Füme,1368.0,95.0,Önden Çekiş,6.4,,,,0.0
+450000.0,Renault,Megane,1.5 Dci Authentique,2008.0,265000.0,Düz,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,4.0,0.0,0.0,0.0
+1125000.0,Mercedes - Benz,A,A 180 Cdi Blueefficiency Amg Sport,2014.0,225000.0,Yarı Otomatik,Dizel,Hatchback/5,Siyah,1461.0,109.0,Önden Çekiş,4.4,3.0,0.0,0.0,0.0
+795000.0,Opel,Astra,1.6 Edition,2015.0,110000.0,Yarı Otomatik,Benzin,Station Wagon,Mavi (Metalik),1598.0,115.0,Önden Çekiş,6.5,5.0,0.0,0.0,0.0
+595000.0,Volkswagen,Golf,1.6 Fsi Goal,2007.0,232000.0,Düz,Benzin,Hatchback/5,Füme,1500.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1080000.0,Toyota,Corolla,1.4 D-4D Comfort Extra,2012.0,96750.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1364.0,90.0,Önden Çekiş,4.8,1.0,0.0,0.0,0.0
+1990000.0,Mercedes - Benz,C,C 180 Exclusive,2014.0,200000.0,Otomatik,Benzin,Sedan,Siyah,1595.0,156.0,Arkadan İtiş,5.8,3.0,0.0,0.0,0.0
+1145000.0,Hyundai,I20 Active,1.4 Mpi Elite,2017.0,85000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1368.0,100.0,Önden Çekiş,6.7,2.0,1.0,0.0,0.0
+935000.0,Ford,Focus,1.6 Ti-Vct Titanium,2012.0,47000.0,Yarı Otomatik,Benzin,Sedan,Kırmızı,1596.0,125.0,Önden Çekiş,6.0,0.0,7.0,0.0,0.0
+1159000.0,Volkswagen,Jetta,1.6 Tdi Comfortline,2014.0,213000.0,Düz,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1115000.0,Volkswagen,Polo,1.2 Tsi Lounge,2015.0,153000.0,Yarı Otomatik,Benzin,Hatchback/5,Gri,1197.0,90.0,Önden Çekiş,4.7,0.0,0.0,0.0,1.0
+785000.0,Renault,Clio,1.0 Sce Joy,2021.0,100000.0,Düz,Benzin,Hatchback/5,Beyaz,601.5,63.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1180000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Impression,2017.0,238500.0,Yarı Otomatik,Dizel,Sedan,Siyah,1598.0,120.0,Önden Çekiş,4.0,5.0,0.0,0.0,0.0
+810000.0,Kia,Rio,1.4 Cvvt Fancy,2012.0,218000.0,Otomatik,Lpg & Benzin,Hatchback/5,Beyaz,1396.0,109.0,Önden Çekiş,6.4,0.0,0.0,0.0,1.0
+1225000.0,Audi,A3,A3 Sedan 1.6 Tdi Ambition,2014.0,290000.0,Otomatik,Dizel,Sedan,Füme,1500.5,113.0,Önden Çekiş,,0.0,3.0,0.0,0.0
+594000.0,Volkswagen,Polo,1.4 Tdi Trendline,2015.0,230000.0,Düz,Dizel,Hatchback/5,Beyaz,1422.0,75.0,Önden Çekiş,3.6,1.0,1.0,1.0,0.0
+489750.0,Toyota,Corolla,1.4 Linea Terra,2002.0,229500.0,Düz,Benzin,Sedan,Siyah,1300.5,88.0,Önden Çekiş,,8.0,0.0,1.0,0.0
+1625000.0,Volvo,S60,1.5 T3 Advance,2018.0,109000.0,Otomatik,Benzin,Sedan,Beyaz,1498.0,152.0,Önden Çekiş,5.8,0.0,1.0,0.0,0.0
+925000.0,Volkswagen,Polo,1.4 Comfortline,2010.0,170000.0,Otomatik,Benzin,Hatchback/5,Gri,1300.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1390000.0,Bmw,3 Serisi,320I Ed M Plus,2015.0,243000.0,Otomatik,Benzin,Sedan,Beyaz,1500.5,163.0,Arkadan İtiş,,0.0,0.0,0.0,1.0
+675000.0,Fiat,Egea,1.4 Fire Easy,2019.0,163000.0,Düz,Benzin,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,2.0,2.0,1.0,0.0
+1040000.0,Volkswagen,Golf,1.0 Tsi Midline Plus,2017.0,198000.0,Düz,Benzin,Hatchback/5,Kırmızı,999.0,110.0,Önden Çekiş,4.8,0.0,0.0,0.0,1.0
+1100000.0,Opel,Insignia,1.6 Cdti Edition Elegance,2016.0,153000.0,Otomatik,Dizel,Sedan,Beyaz,1598.0,136.0,Önden Çekiş,5.0,0.0,0.0,0.0,1.0
+1579000.0,Bmw,5 Serisi,520I Comfort,2015.0,197000.0,Otomatik,Benzin,Sedan,Füme,1592.0,170.0,Arkadan İtiş,6.7,2.0,0.0,1.0,0.0
+2820000.0,Mercedes - Benz,A,A 200 Amg,2023.0,83500.0,Yarı Otomatik,Hibrit,Hatchback/5,Gri,1332.0,163.0,Önden Çekiş,5.8,0.0,0.0,0.0,1.0
+1345000.0,Seat,Leon,1.5 Ecotsi Fr,2020.0,89000.0,Yarı Otomatik,Benzin,Hatchback/5,Kırmızı,1498.0,150.0,Önden Çekiş,5.1,2.0,0.0,1.0,0.0
+1299000.0,Renault,Megane,1.2 Tce Icon,2017.0,89000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1198.0,130.0,Önden Çekiş,5.4,0.0,0.0,0.0,1.0
+509000.0,Renault,Symbol,1.5 Dci Joy,2013.0,200000.0,Düz,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,0.0,4.0,1.0,0.0
+465000.0,Renault,Clio,1.5 Dci Grandtour Extreme,2012.0,325000.0,Düz,Dizel,Station Wagon,Beyaz,1461.0,90.0,Önden Çekiş,4.4,2.0,0.0,0.0,0.0
+1055000.0,Renault,Clio,1.0 Tce Joy,2021.0,96000.0,Otomatik,Benzin,Hatchback/5,Beyaz,999.0,101.0,Önden Çekiş,5.0,1.0,2.0,1.0,0.0
+390000.0,Volkswagen,Polo,1.4 Comfortline,2004.0,290000.0,Düz,Benzin,Hatchback/3,Kırmızı,1390.0,100.0,Önden Çekiş,6.9,5.0,0.0,0.0,0.0
+3290000.0,Mercedes - Benz,Cla,200 Amg,2023.0,38000.0,Otomatik,Hibrit,Coupe,Gri,1300.5,163.0,Önden Çekiş,,,,,0.0
+1229000.0,Fiat,Egea,1.6 Multijet Easy,2024.0,67000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,138.0,Önden Çekiş,,,,,0.0
+749000.0,Renault,Clio,1.2 Joy,2014.0,73000.0,Düz,Benzin,Hatchback/5,Beyaz,1149.0,75.0,Önden Çekiş,5.5,0.0,3.0,0.0,0.0
+1170000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2013.0,191000.0,Yarı Otomatik,Dizel,Sedan,Füme,1598.0,105.0,Önden Çekiş,4.7,3.0,1.0,0.0,0.0
+760000.0,Renault,Clio,1.2 Joy,2015.0,101000.0,Düz,Benzin,Hatchback/5,Beyaz,1149.0,75.0,Önden Çekiş,5.5,2.0,1.0,0.0,0.0
+1350000.0,Volkswagen,Jetta,1.2 Tsi Bluemotion Comfortline,2016.0,111000.0,Otomatik,Benzin,Sedan,Beyaz,601.5,113.0,Önden Çekiş,,0.0,2.0,0.0,0.0
+1065000.0,Renault,Megane,1.5 Dci Touch,2019.0,272000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,110.0,Önden Çekiş,3.8,1.0,0.0,0.0,0.0
+1090000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2014.0,217000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598.0,105.0,Önden Çekiş,4.7,1.0,0.0,1.0,0.0
+148500.0,Tofaş,Şahin,S,1995.0,99500.0,Düz,Lpg & Benzin,Sedan,Kırmızı,1500.5,88.0,Arkadan İtiş,,,,,0.0
+618500.0,Volvo,S40,1.6 D,2007.0,230000.0,Düz,Dizel,Sedan,Siyah,1560.0,109.0,Önden Çekiş,4.9,1.0,0.0,0.0,0.0
+790000.0,Fiat,500 Ailesi,500L 1.3 Mjet Popstar,2015.0,163000.0,Düz,Dizel,Mpv,Beyaz,1248.0,85.0,Önden Çekiş,4.2,,,,0.0
+985000.0,Volkswagen,Passat,1.4 Tsi Bluemotion Comfortline,2014.0,182000.0,Düz,Benzin,Sedan,Gri,1390.0,122.0,Önden Çekiş,5.9,1.0,1.0,1.0,0.0
+1050000.0,Renault,Clio,1.0 Tce Joy,2023.0,34000.0,Düz,Benzin,Hatchback/5,Kırmızı,999.0,90.0,Önden Çekiş,5.0,0.0,0.0,2.0,0.0
+248000.0,Fiat,Albea,1.3 Multijet Active,2005.0,448000.0,Düz,Dizel,Sedan,Altın,1248.0,70.0,Önden Çekiş,4.7,,,,0.0
+689000.0,Renault,Fluence,1.5 Dci Extreme,2012.0,234000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,110.0,Önden Çekiş,4.4,4.0,1.0,0.0,0.0
+875000.0,Volvo,S60,1.6 D Premium,2014.0,268000.0,Otomatik,Dizel,Sedan,Siyah,1500.5,113.0,Önden Çekiş,,6.0,0.0,1.0,0.0
+1200000.0,Volkswagen,Polo,1.0 Tsi Comfortline,2017.0,109000.0,Otomatik,Benzin,Hatchback/5,Gri,601.5,88.0,Önden Çekiş,,,,,0.0
+3900000.0,Mercedes - Benz,E,200 D Exclusive,2022.0,184000.0,Otomatik,Dizel,Sedan,Siyah,1597.0,160.0,Arkadan İtiş,4.7,,,,0.0
+385000.0,Mercedes - Benz,E,250 D Standart,1985.0,288000.0,Düz,Dizel,Sedan,Lacivert,2250.5,113.0,Arkadan İtiş,,0.0,0.0,0.0,1.0
+1750000.0,Volkswagen,Passat,1.4 Tsi Bluemotion Comfortline,2018.0,100000.0,Düz,Benzin,Sedan,Beyaz,1300.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1250000.0,Mercedes - Benz,E,220 Cdi Avantgarde,2008.0,432000.0,Otomatik,Dizel,Sedan,Gri,2148.0,170.0,Arkadan İtiş,6.3,0.0,0.0,0.0,1.0
+925000.0,Fiat,Egea,1.6 Multijet Urban,2017.0,119000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598.0,120.0,Önden Çekiş,3.8,3.0,0.0,2.0,0.0
+3300000.0,Bmw,5 Serisi,520I M Sport,2022.0,151000.0,Otomatik,Benzin,Sedan,Gri,1597.0,170.0,Arkadan İtiş,7.1,0.0,0.0,2.0,0.0
+690000.0,Opel,Astra,1.3 Cdti Enjoy,2009.0,117000.0,Düz,Dizel,Hatchback/5,Füme,1248.0,90.0,Önden Çekiş,4.8,2.0,3.0,0.0,0.0
+625000.0,Ford,Focus,1.6 Tdci Titanium,2013.0,245500.0,Düz,Dizel,Sedan,Siyah,1560.0,115.0,Önden Çekiş,4.2,0.0,0.0,0.0,1.0
+213750.0,Skoda,Felicia,1.3 Lx,2001.0,210000.0,Düz,Lpg & Benzin,Hatchback/5,Beyaz,1300.5,63.0,Önden Çekiş,,3.0,0.0,0.0,0.0
+1075000.0,Renault,Megane,1.6 Joy,2018.0,119000.0,Düz,Lpg & Benzin,Sedan,Kahverengi,1598.0,115.0,Önden Çekiş,6.3,1.0,0.0,1.0,0.0
+1385000.0,Renault,Clio,1.0 Tce Techno Esprit Alpine,2024.0,53000.0,Otomatik,Benzin,Hatchback/5,Turuncu,999.0,90.0,Önden Çekiş,6.0,0.0,0.0,0.0,1.0
+1800000.0,Honda,Civic,1.5 I-Vtec Eco Elegance,2021.0,98000.0,Otomatik,Lpg & Benzin,Sedan,Gri,1498.0,129.0,Önden Çekiş,6.5,2.0,1.0,0.0,0.0
+1340000.0,Audi,A3,A3 Sedan 1.6 Tdi Attraction,2015.0,189000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598.0,110.0,Önden Çekiş,3.9,,,,0.0
+430000.0,Opel,Astra,1.6 Cd,2000.0,266000.0,Düz,Lpg & Benzin,Sedan,Lacivert,1598.0,100.0,Önden Çekiş,7.4,,,,0.0
+1085000.0,Renault,Clio,1.0 Tce Joy,2022.0,56000.0,Otomatik,Benzin,Hatchback/5,Mavi,601.5,88.0,Önden Çekiş,,0.0,0.0,1.0,0.0
+690000.0,Hyundai,I20,1.4 Crdi Jump,2015.0,221000.0,Düz,Dizel,Hatchback/5,Beyaz,1396.0,90.0,Önden Çekiş,3.9,4.0,1.0,0.0,0.0
+715000.0,Renault,Clio,1.0 Sce Joy,2022.0,190000.0,Düz,Benzin,Hatchback/5,Beyaz,999.0,65.0,Önden Çekiş,4.9,1.0,1.0,0.0,0.0
+735000.0,Ford,Focus,1.6 Ti-Vct Trend X,2013.0,230000.0,Düz,Lpg & Benzin,Sedan,Siyah,1596.0,125.0,Önden Çekiş,6.0,2.0,6.0,0.0,0.0
+60000.0,Tofaş,Şahin,Şahin 5 Vites,1992.0,286000.0,Düz,Lpg & Benzin,Sedan,Siyah,1581.0,80.0,Arkadan İtiş,,,,,0.0
+2075000.0,Mercedes - Benz,A,A 180 Style,2020.0,75000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1332.0,136.0,Önden Çekiş,5.8,0.0,0.0,0.0,1.0
+810000.0,Ford,Focus,1.6 Tdci Style,2012.0,211000.0,Düz,Dizel,Sedan,Beyaz,1560.0,115.0,Önden Çekiş,4.2,1.0,2.0,1.0,0.0
+465000.0,Renault,Megane,1.6 Rte,2000.0,215000.0,Düz,Benzin,Sedan,Bej,1598.0,107.0,Önden Çekiş,7.0,0.0,7.0,0.0,0.0
+949000.0,Mini,Cooper,1.6 Türkiye Paketi,2010.0,127000.0,Otomatik,Benzin,,Siyah,1598.0,115.0,Önden Çekiş,7.9,2.0,1.0,0.0,0.0
+735000.0,Renault,Clio,1.5 Dci Sporttourer Joy,2018.0,201500.0,Düz,Dizel,Station Wagon,Beyaz,1461.0,75.0,Önden Çekiş,3.6,2.0,0.0,1.0,0.0
+435000.0,Ford,Fiesta,1.4 Tdci Collection,2008.0,205000.0,Düz,Dizel,Hatchback/5,Mavi,1300.5,63.0,Önden Çekiş,,5.0,1.0,0.0,0.0
+835000.0,Fiat,Egea,1.4 Fire Easy Stil,2020.0,129000.0,Düz,Benzin,Sedan,Füme,1300.5,88.0,Önden Çekiş,,4.0,0.0,2.0,0.0
+850000.0,Renault,Clio,1.5 Dci Sporttourer Joy,2019.0,188300.0,Yarı Otomatik,Dizel,Station Wagon,Beyaz,1461.0,75.0,Önden Çekiş,3.6,0.0,0.0,1.0,0.0
+4120000.0,Bmw,3 Serisi,320I 50Th Year M Edition,2022.0,40000.0,Otomatik,Benzin,Sedan,Gri,1597.0,170.0,Arkadan İtiş,7.3,0.0,0.0,0.0,1.0
+1155000.0,Volvo,S60,1.6 T4 Premium,2012.0,151000.0,Otomatik,Lpg & Benzin,Sedan,Beyaz,1500.5,188.0,Önden Çekiş,,,,,0.0
+439000.0,Opel,Vectra,1.6 Design Edition,2005.0,285000.0,Düz,Lpg & Benzin,Sedan,Gri,1598.0,100.0,Önden Çekiş,7.3,1.0,1.0,0.0,0.0
+745000.0,Hyundai,Accent Era,1.4 Team,2010.0,134000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+879000.0,Fiat,Egea,1.6 Multijet Easy,2020.0,185000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1149000.0,Hyundai,I20,1.0 T-Gdi Style,2019.0,120800.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,998.0,120.0,Önden Çekiş,5.1,2.0,0.0,0.0,0.0
+185000.0,Peugeot,106,Xr,1998.0,256000.0,Düz,Lpg & Benzin,Hatchback/5,Mavi,1360.0,76.0,Önden Çekiş,6.9,0.0,0.0,0.0,1.0
+1240000.0,Renault,Megane,1.3 Tce Joy,2021.0,81000.0,Otomatik,Benzin,Sedan,Füme,1300.5,138.0,Önden Çekiş,,1.0,0.0,0.0,0.0
+449000.0,Volkswagen,Polo,1.4 Basicline,2004.0,197000.0,Düz,Benzin,Hatchback/5,Gri (Gümüş),1390.0,75.0,Önden Çekiş,6.4,5.0,1.0,1.0,0.0
+575000.0,Volkswagen,Golf,1.6 Sportline,2005.0,332000.0,Otomatik,Lpg & Benzin,Hatchback/5,Gri,1595.0,102.0,Önden Çekiş,8.0,7.0,0.0,2.0,0.0
+1750000.0,Bmw,5 Serisi,520I Executive M Sport,2016.0,246000.0,Otomatik,Benzin,Sedan,Siyah,1592.0,170.0,Arkadan İtiş,6.7,4.0,1.0,0.0,0.0
+1065000.0,Renault,Megane,1.5 Blue Dci Touch,2020.0,96000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,115.0,Önden Çekiş,4.2,3.0,1.0,1.0,0.0
+95000.0,Tofaş,Doğan,Slx,1992.0,250000.0,Düz,Lpg & Benzin,Sedan,Mavi,1581.0,83.0,Arkadan İtiş,,0.0,1.0,0.0,0.0
+405000.0,Volkswagen,Golf,1.6 Comfortline,2001.0,330000.0,Düz,Lpg & Benzin,Hatchback/5,Beyaz,1595.0,105.0,Önden Çekiş,6.8,0.0,11.0,1.0,0.0
+1620000.0,Audi,A6,A6 Sedan 2.0 Tdi,2012.0,238000.0,Otomatik,Dizel,Sedan,Siyah,1968.0,177.0,Önden Çekiş,5.0,3.0,2.0,0.0,0.0
+1349500.0,Hyundai,I20,1.4 Mpi Style,2023.0,83000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1300.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+895000.0,Skoda,Rapid,1.4 Tdi Style,2017.0,249000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,1.0,2.0,0.0,0.0
+639000.0,Toyota,Yaris,1.0 Terra,2006.0,116000.0,Otomatik,Benzin,Hatchback/5,Siyah,601.5,63.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1245000.0,Skoda,Superb,1.6 Tdi Elegance,2015.0,233000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598.0,105.0,Önden Çekiş,4.6,1.0,0.0,0.0,0.0
+1295000.0,Hyundai,Elantra,1.6 D-Cvvt Style,2017.0,75000.0,Düz,Benzin,Sedan,Gri,1500.5,138.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+969999.0,Fiat,Egea,1.4 Fire Urban,2023.0,47000.0,Düz,Benzin,Sedan,Füme,1368.0,95.0,Önden Çekiş,6.4,0.0,0.0,0.0,1.0
+2165000.0,Audi,A3,A3 Sportback 35 Tfsi Advanced,2021.0,147000.0,Yarı Otomatik,Hibrit,Hatchback/5,Beyaz,1498.0,150.0,Önden Çekiş,5.0,0.0,0.0,0.0,1.0
+755000.0,Nissan,Micra,1.2 Match,2016.0,128000.0,Düz,Benzin,Hatchback/5,Beyaz,1198.0,80.0,Önden Çekiş,5.0,1.0,0.0,0.0,0.0
+877000.0,Fiat,500 Ailesi,500L 1.3 Mjet Panoramic Edition,2013.0,169000.0,Yarı Otomatik,Dizel,Mpv,Beyaz,1248.0,85.0,Önden Çekiş,4.0,0.0,0.0,0.0,1.0
+1595000.0,Bmw,3 Serisi,320I Ed 40Th Year Edition,2016.0,228000.0,Otomatik,Benzin,Sedan,Beyaz,1500.5,163.0,Arkadan İtiş,,0.0,0.0,0.0,1.0
+1275000.0,Skoda,Scala,1.0 Tsi Elite,2022.0,139000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,999.0,110.0,Önden Çekiş,4.8,0.0,0.0,0.0,1.0
+685000.0,Renault,Fluence,1.5 Dci Touch,2014.0,275000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,110.0,Önden Çekiş,4.4,1.0,1.0,2.0,0.0
+585000.0,Hyundai,I20,1.2 Mpi Jump,2016.0,317000.0,Düz,Benzin,Hatchback/5,Beyaz,1248.0,84.0,Önden Çekiş,5.1,3.0,0.0,0.0,0.0
+639000.0,Dacia,Sandero,1.0 Ambiance,2019.0,66000.0,Düz,Benzin,Hatchback/5,Beyaz,999.0,75.0,Önden Çekiş,5.4,4.0,0.0,0.0,0.0
+3100000.0,Bmw,3 Serisi,320I Sport Line,2022.0,97000.0,Otomatik,Benzin,Sedan,Siyah,1597.0,170.0,Arkadan İtiş,6.0,0.0,0.0,0.0,1.0
+720000.0,Renault,Megane,1.5 Dci Joy,2014.0,291000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461.0,110.0,Önden Çekiş,4.4,0.0,0.0,0.0,1.0
+251500.0,Tofaş,Doğan,Slx Ie,1999.0,213000.0,Düz,Lpg & Benzin,Sedan,Gri,1581.0,96.0,Arkadan İtiş,6.6,0.0,0.0,0.0,1.0
+1120000.0,Audi,A3,A3 Sportback 1.6 Tdi Attraction,2013.0,181000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,3.0,0.0,0.0
+249000.0,Renault,Megane,1.6 Rte,1998.0,292000.0,Düz,Lpg & Benzin,Hatchback/5,Mavi,1598.0,90.0,Önden Çekiş,7.2,0.0,0.0,0.0,1.0
+660000.0,Renault,Clio,1.5 Dci Sporttourer Joy,2013.0,229000.0,Düz,Dizel,Station Wagon,Beyaz,1461.0,75.0,Önden Çekiş,4.0,0.0,0.0,0.0,1.0
+449500.0,Renault,Laguna,1.6 Privilege,2004.0,345000.0,Düz,Lpg & Benzin,Hatchback/5,Lacivert,1500.5,113.0,Önden Çekiş,,0.0,0.0,1.0,0.0
+1189000.0,Renault,Clio,1.0 Tce Touch,2021.0,77000.0,Otomatik,Benzin,Hatchback/5,Beyaz,601.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1130000.0,Renault,Clio,1.0 Tce Touch,2020.0,130000.0,Otomatik,Benzin,Hatchback/5,Mavi,999.0,100.0,Önden Çekiş,5.0,1.0,0.0,0.0,0.0
+665000.0,Ford,C-Max,1.6 Tdci Titanium,2010.0,187500.0,Düz,Dizel,Mpv,Gri,1500.5,113.0,Önden Çekiş,,1.0,0.0,1.0,0.0
+865000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2014.0,349000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598.0,105.0,Önden Çekiş,4.7,1.0,0.0,0.0,0.0
+745000.0,Toyota,Auris,1.33 Comfort,2012.0,141000.0,Düz,Benzin,Hatchback/5,Beyaz,1300.5,88.0,Önden Çekiş,,,,,0.0
+1219900.0,Volkswagen,Jetta,1.4 Tsi Bluemotion Highline,2016.0,143000.0,Otomatik,Benzin,Sedan,Gri,1300.5,113.0,Önden Çekiş,,4.0,0.0,1.0,0.0
+425000.0,Dacia,Logan,1.4 Ambiance,2005.0,172000.0,Düz,Lpg & Benzin,Sedan,Bordo,1390.0,75.0,Önden Çekiş,6.8,,,,0.0
+300000.0,Peugeot,206,1.4 Comfort,2009.0,258000.0,Düz,Lpg & Benzin,Sedan,Gri,1360.0,76.0,Önden Çekiş,6.5,0.0,0.0,2.0,0.0
+990000.0,Bmw,3 Serisi,320D Standart,2012.0,203000.0,Otomatik,Dizel,Sedan,Beyaz,1900.5,188.0,Arkadan İtiş,,5.0,1.0,0.0,0.0
+1465000.0,Renault,Megane,1.5 Blue Dci Icon,2020.0,121500.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1660000.0,Mercedes - Benz,A,A 180 Cdi Blueefficiency Amg,2016.0,137400.0,Otomatik,Dizel,Hatchback/5,Gri,1500.5,113.0,Önden Çekiş,,,,,0.0
+1399000.0,Mercedes - Benz,C,C 180 Style,2016.0,217000.0,Otomatik,Benzin,Sedan,Beyaz,1595.0,156.0,Arkadan İtiş,5.8,4.0,2.0,1.0,0.0
+1070000.0,Renault,Clio,1.5 Dci Icon,2017.0,115000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1500.5,88.0,Önden Çekiş,,1.0,0.0,1.0,0.0
+1200000.0,Audi,A3,A3 Sportback 1.6 Tdi Attraction,2012.0,256000.0,Yarı Otomatik,Dizel,Hatchback/3,Beyaz,1598.0,105.0,Önden Çekiş,4.2,3.0,0.0,0.0,0.0
+639000.0,Hyundai,I20,1.2 D-Cvvt Sense,2013.0,156000.0,Düz,Benzin,Hatchback/5,Gri,1248.0,85.0,Önden Çekiş,4.9,5.0,0.0,0.0,0.0
+1100000.0,Seat,Leon,1.6 Tdi Cr Style,2014.0,183000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+829000.0,Renault,Clio,1.5 Dci Icon,2015.0,126000.0,Düz,Dizel,Hatchback/5,Gri,1461.0,90.0,Önden Çekiş,3.6,3.0,0.0,1.0,0.0
+970000.0,Volkswagen,Polo,1.4 Tdi Comfortline,2014.0,150000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1500.5,88.0,Önden Çekiş,,,,,0.0
+485000.0,Ford,Fiesta,1.4 Tdci Trend,2010.0,250000.0,Düz,Dizel,Hatchback/5,Beyaz,1399.0,70.0,Önden Çekiş,4.3,5.0,0.0,1.0,0.0
+275000.0,Volkswagen,Golf,1.6 Comfortline,1997.0,56000.0,Düz,Lpg & Benzin,Hatchback/5,Siyah,1595.0,101.0,Önden Çekiş,7.6,10.0,0.0,0.0,0.0
+275000.0,Bmw,3 Serisi,318I Standart,1994.0,375000.0,Düz,Lpg & Benzin,Sedan,Siyah,1796.0,115.0,Arkadan İtiş,,10.0,0.0,0.0,0.0
+260000.0,Honda,Civic,1.6 Si,1994.0,370000.0,Düz,Lpg & Benzin,Hatchback/3,Kırmızı,1590.0,125.0,Önden Çekiş,,8.0,0.0,2.0,0.0
+1575000.0,Toyota,Corolla,1.5 Flame X-Pack,2021.0,57000.0,Otomatik,Benzin,Sedan,Mavi (Metalik),1490.0,125.0,Önden Çekiş,5.8,0.0,4.0,0.0,0.0
+1364750.0,Hyundai,I20,1.4 Mpi Elite,2021.0,100000.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1368.0,100.0,Önden Çekiş,6.1,0.0,0.0,0.0,1.0
+865000.0,Hyundai,Accent Blue,1.4 Cvvt Prime,2012.0,124000.0,Düz,Lpg & Benzin,Sedan,Siyah,1396.0,108.0,Önden Çekiş,5.9,0.0,0.0,0.0,1.0
+710000.0,Renault,Fluence,1.6 Dynamique,2011.0,128000.0,Otomatik,Benzin,Sedan,Beyaz,1598.0,105.0,Önden Çekiş,7.7,1.0,0.0,3.0,0.0
+855000.0,Hyundai,I20,1.4 Crdi Style,2015.0,162500.0,Düz,Dizel,Hatchback/5,Kahverengi,1396.0,90.0,Önden Çekiş,4.1,4.0,0.0,0.0,0.0
+345000.0,Opel,Corsa,1.4 Gls,1998.0,191000.0,Düz,Benzin,Hatchback/5,Beyaz,1300.5,88.0,Önden Çekiş,,9.0,1.0,1.0,0.0
+1549900.0,Renault,Talisman,1.6 Dci Icon,2016.0,111000.0,Otomatik,Dizel,Sedan,Bej,1500.5,138.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1310000.0,Ford,Focus,1.5 Tdci Titanium,2016.0,148000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1499.0,120.0,Önden Çekiş,4.2,0.0,0.0,0.0,1.0
+1555000.0,Hyundai,I20,1.0 T-Gdi Elite,2026.0,15000.0,Otomatik,Benzin,Hatchback/5,Beyaz,601.5,88.0,Önden Çekiş,,,,,0.0
+735000.0,Dacia,Sandero,1.5 Dci Stepway,2014.0,194942.0,Düz,Dizel,Hatchback/5,Gri,1461.0,90.0,Önden Çekiş,4.0,2.0,0.0,1.0,0.0
+1089000.0,Ford,Focus,1.5 Tdci Titanium,2017.0,280500.0,Otomatik,Dizel,Sedan,Gri,1500.5,113.0,Önden Çekiş,,,,,0.0
+449000.0,Ford,Fiesta,1.4 Tdci Comfort,2004.0,265000.0,Otomatik,Dizel,Hatchback/5,Mavi,1399.0,68.0,Önden Çekiş,4.3,10.0,0.0,2.0,0.0
+590000.0,Opel,Astra,1.6 Essentia,2013.0,204285.0,Düz,Lpg & Benzin,Hatchback/5,Gri (Gümüş),1598.0,115.0,Önden Çekiş,6.5,0.0,1.0,1.0,0.0
+370000.0,Fiat,Albea,Sole 1.3 Multijet Active,2007.0,280000.0,Düz,Dizel,Sedan,Beyaz,1248.0,70.0,Önden Çekiş,4.7,0.0,2.0,0.0,0.0
+599000.0,Audi,A4,A4 Sedan 2.0 Tdi,2006.0,405000.0,Otomatik,Dizel,Sedan,Siyah,1968.0,140.0,Önden Çekiş,5.8,8.0,0.0,1.0,0.0
+990750.0,Bmw,5 Serisi,520D M Sport,2007.0,440000.0,Otomatik,Dizel,Sedan,Siyah,1900.5,188.0,Arkadan İtiş,,10.0,0.0,0.0,0.0
+1850000.0,Audi,A6,A6 Sedan 2.0 Tdi,2015.0,252000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1968.0,190.0,Önden Çekiş,4.4,0.0,2.0,0.0,0.0
+1325000.0,Hyundai,I20,1.0 T-Gdi Style,2024.0,39000.0,Yarı Otomatik,Benzin,Hatchback/5,Kırmızı,998.0,100.0,Önden Çekiş,6.1,0.0,0.0,2.0,0.0
+1250000.0,Ford,Focus,1.5 Ecoblue Trend X,2020.0,139000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,2.0,2.0,0.0,0.0
+1430000.0,Ford,Focus,1.5 Ecoblue Trend X,2023.0,111751.0,Otomatik,Dizel,Sedan,Kırmızı,1500.0,115.0,Önden Çekiş,4.5,,,,0.0
+1150000.0,Hyundai,I20,1.4 Mpi Elite Smart,2016.0,82000.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1368.0,100.0,Önden Çekiş,6.4,1.0,0.0,0.0,0.0
+1099000.0,Audi,A3,A3 Sportback 1.6 Tdi Ambition,2012.0,176000.0,Yarı Otomatik,Dizel,Hatchback/3,Mavi,1598.0,105.0,Önden Çekiş,3.8,2.0,2.0,1.0,0.0
+375000.0,Dacia,Logan,1.6 Mcv Ambiance,2016.0,360000.0,Düz,Lpg & Benzin,Station Wagon,Beyaz,601.5,63.0,Önden Çekiş,,1.0,0.0,3.0,0.0
+875000.0,Seat,Ibiza,1.0 Style,2017.0,114000.0,Düz,Benzin,Hatchback/5,Kahverengi,999.0,75.0,Önden Çekiş,4.9,0.0,1.0,0.0,0.0
+4050000.0,Bmw,3 Serisi,320I Edition M Sport,2023.0,35000.0,Otomatik,Benzin,Sedan,Siyah,1597.0,170.0,Arkadan İtiş,7.3,,,,0.0
+1110000.0,Renault,Clio,1.0 Tce Joy,2022.0,73400.0,Otomatik,Benzin,Hatchback/5,Mavi,601.5,88.0,Önden Çekiş,,3.0,0.0,0.0,0.0
+1135000.0,Opel,Astra,1.4 T Edition Plus,2020.0,50000.0,Düz,Benzin,Sedan,Gri,1364.0,140.0,Önden Çekiş,6.2,1.0,0.0,0.0,0.0
+1429950.0,Honda,Civic,1.6I Vtec Eco Executive,2019.0,120000.0,Otomatik,Lpg & Benzin,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,4.0,0.0,5.0,0.0
+550000.0,Ford,Fiesta,1.4 Tdci Trend,2011.0,256400.0,Düz,Dizel,Hatchback/5,Gri,1300.5,63.0,Önden Çekiş,,3.0,0.0,1.0,0.0
+395000.0,Dacia,Logan,1.4 Ambiance,2009.0,208000.0,Düz,Benzin,Sedan,Füme,1390.0,75.0,Önden Çekiş,6.8,0.0,0.0,0.0,1.0
+1190000.0,Bmw,3 Serisi,320D Premium,2010.0,189900.0,Otomatik,Dizel,Sedan,Beyaz,1900.5,188.0,Arkadan İtiş,,1.0,0.0,1.0,0.0
+2475000.0,Audi,A5,A5 Sportback 2.0 Tdi Quattro Sport,2018.0,250000.0,Otomatik,Dizel,Hatchback/5,Gri,1900.5,188.0,4Wd (Sürekli),,3.0,0.0,0.0,0.0
+859000.0,Volkswagen,Polo,1.2 Tsi Comfortline,2014.0,170000.0,Düz,Benzin,Hatchback/5,Beyaz,1197.0,90.0,Önden Çekiş,4.7,0.0,0.0,0.0,1.0
+187500.0,Tofaş,Şahin,1.6,1991.0,126000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1581.0,88.0,Arkadan İtiş,,0.0,3.0,0.0,0.0
+1239000.0,Honda,Civic,1.6I Vtec Eco Elegance,2012.0,98000.0,Otomatik,Benzin,Sedan,Füme,1595.0,125.0,Önden Çekiş,6.7,6.0,0.0,0.0,0.0
+2500000.0,Mercedes - Benz,A,A 200 Amg,2021.0,86000.0,Yarı Otomatik,Benzin,Hatchback/5,Siyah,1332.0,163.0,Önden Çekiş,5.2,0.0,0.0,0.0,1.0
+475000.0,Citroen,C5,1.6 Hdi Sx,2008.0,325000.0,Düz,Dizel,Sedan,Gri,1560.0,111.0,Önden Çekiş,5.6,1.0,0.0,0.0,0.0
+690000.0,Peugeot,301,1.5 Bluehdi Allure,2020.0,255000.0,Düz,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,3.0,2.0,1.0,0.0
+1255500.0,Toyota,Corolla,1.8 Hybrid Flame,2020.0,196000.0,Otomatik,Hibrit,Sedan,Gri,1798.0,98.0,Önden Çekiş,3.5,3.0,1.0,0.0,0.0
+1145000.0,Hyundai,I20,1.0 T-Gdi Jump,2025.0,25000.0,Otomatik,Benzin,Hatchback/5,Beyaz,601.5,88.0,Önden Çekiş,,3.0,2.0,1.0,0.0
+619000.0,Kia,Picanto,1.1 Hiper,2011.0,97000.0,Otomatik,Benzin,Hatchback/5,Siyah,1086.0,65.0,Önden Çekiş,5.8,7.0,0.0,3.0,0.0
+719000.0,Dacia,Sandero,1.5 Dci Stepway,2011.0,115000.0,Düz,Dizel,Hatchback/5,Kırmızı,1461.0,70.0,Önden Çekiş,4.5,,,,0.0
+385000.0,Opel,Corsa,1.2 Twinport Essentia,2005.0,274000.0,Düz,Benzin,Hatchback/5,Kırmızı,1229.0,80.0,Önden Çekiş,6.0,,,,0.0
+1315000.0,Bmw,3 Serisi,320I Ed M Plus,2014.0,262000.0,Otomatik,Benzin,Sedan,Kırmızı,1598.0,170.0,Arkadan İtiş,5.3,2.0,0.0,1.0,0.0
+329000.0,Peugeot,206,1.4 X-Design,2006.0,272000.0,Düz,Lpg & Benzin,Hatchback/5,Gri,1360.0,76.0,Önden Çekiş,6.9,5.0,0.0,0.0,0.0
+885000.0,Fiat,Egea,1.3 Multijet Easy,2023.0,120720.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,1.0,2.0,0.0,0.0
+400000.0,Chevrolet,Aveo,1.3 D Ltz,2012.0,390000.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,,,,0.0
+800000.0,Honda,Civic,1.6I Vtec Elegance,2007.0,300000.0,Otomatik,Lpg & Benzin,Sedan,Gri (Gümüş),1595.0,125.0,Önden Çekiş,7.1,,,,0.0
+155000.0,Tofaş,Şahin,1.6,1995.0,220000.0,Düz,Lpg & Benzin,Sedan,Bej,1581.0,88.0,Arkadan İtiş,,0.0,0.0,0.0,0.0
+1629900.0,Toyota,Corolla,1.5 Flame X-Pack,2023.0,90000.0,Otomatik,Benzin,Sedan,Mavi,1500.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+2580000.0,Mercedes - Benz,E,200 Amg,2016.0,199000.0,Otomatik,Benzin,Sedan,Gri,1991.0,184.0,Arkadan İtiş,6.3,1.0,0.0,1.0,0.0
+839000.0,Opel,Corsa,1.2 Innovation,2020.0,65000.0,Düz,Benzin,Hatchback/5,Füme,1199.0,75.0,Önden Çekiş,4.1,4.0,0.0,1.0,0.0
+1485000.0,Skoda,Superb,1.6 Tdi Prestige,2015.0,248500.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,1.0,1.0,0.0,0.0
+1490000.0,Bmw,5 Serisi,520D Premium,2012.0,305000.0,Otomatik,Dizel,Sedan,Siyah,1995.0,184.0,Arkadan İtiş,5.2,0.0,2.0,0.0,0.0
+395000.0,Fiat,Palio,1.2 El Speedgear,2003.0,282000.0,Yarı Otomatik,Benzin,Hatchback/5,Gri,1242.0,81.0,Önden Çekiş,7.2,5.0,1.0,0.0,0.0
+455000.0,Citroen,Ami̇,Pop,2024.0,11350.0,Otomatik,Elektrik,Coupe,Siyah,,50.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1880000.0,Audi,A3,A3 Sedan 1.6 Tdi Sport Line,2018.0,112000.0,Yarı Otomatik,Dizel,Sedan,Lacivert,1598.0,110.0,Önden Çekiş,3.7,0.0,0.0,0.0,1.0
+939500.0,Volkswagen,Golf,1.6 Tdi Comfortline,2012.0,216600.0,Düz,Dizel,Hatchback/5,Beyaz,1500.5,113.0,Önden Çekiş,,3.0,1.0,0.0,0.0
+1675000.0,Skoda,Octavia,1.0 E-Tec Elite,2024.0,69000.0,Yarı Otomatik,Hibrit,Hatchback/5,Gri,999.0,110.0,Önden Çekiş,4.3,0.0,2.0,0.0,0.0
+728000.0,Renault,Megane,1.5 Dci Dynamique,2012.0,194000.0,Düz,Dizel,Coupe,Beyaz,1461.0,105.0,Önden Çekiş,4.5,0.0,3.0,0.0,0.0
+4145000.0,Mercedes - Benz,C,C 200 Amg,2023.0,46000.0,Otomatik,Hibrit,Coupe,Gri,1497.0,184.0,4Wd (Sürekli),7.0,0.0,0.0,0.0,1.0
+165000.0,Daihatsu,Applause,1.6 X,1990.0,250000.0,Düz,Lpg & Benzin,Hatchback/5,Gri,1589.0,91.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+660000.0,Citroen,C-Elysée,1.6 Hdi Exclusive,2016.0,156800.0,Düz,Dizel,Sedan,Beyaz,1560.0,93.0,Önden Çekiş,4.1,4.0,1.0,1.0,0.0
+1340000.0,Hyundai,Elantra,1.6 D-Cvvt Style,2017.0,112000.0,Otomatik,Lpg & Benzin,Sedan,Beyaz,1500.5,138.0,Önden Çekiş,,2.0,0.0,0.0,0.0
+1385000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Impression,2017.0,223000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1598.0,120.0,Önden Çekiş,4.0,4.0,1.0,0.0,0.0
+1285000.0,Audi,A3,A3 Sportback 1.6 Tdi Attraction,2016.0,163000.0,Yarı Otomatik,Benzin,Hatchback/3,Beyaz,1598.0,110.0,Önden Çekiş,3.9,0.0,0.0,0.0,1.0
+950000.0,Dacia,Sandero,1.5 Dci Stepway,2017.0,132000.0,Yarı Otomatik,Dizel,Hatchback/5,Füme,1461.0,90.0,Önden Çekiş,3.8,2.0,0.0,0.0,0.0
+498500.0,Chevrolet,Cruze,1.6 Ls,2011.0,224000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1598.0,124.0,Önden Çekiş,6.5,8.0,0.0,1.0,0.0
+1055000.0,Renault,Megane,1.5 Blue Dci Touch,2021.0,89500.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,2.0,1.0,2.0,0.0
+395000.0,Bmw,3 Serisi,320I,2000.0,387000.0,Düz,Lpg & Benzin,Sedan,Mavi,1900.5,138.0,Arkadan İtiş,,9.0,0.0,3.0,0.0
+980000.0,Toyota,Corolla,1.33 Life,2014.0,104000.0,Düz,Benzin,Sedan,Beyaz,1329.0,99.0,Önden Çekiş,5.8,0.0,0.0,0.0,1.0
+1109900.0,Volkswagen,Polo,1.0 Tsi Comfortline,2017.0,107000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,999.0,95.0,Önden Çekiş,4.6,5.0,0.0,0.0,0.0
+540000.0,Fiat,Linea,1.3 Multijet Urban,2012.0,271000.0,Düz,Dizel,Sedan,Gri,1248.0,95.0,Önden Çekiş,4.9,5.0,0.0,0.0,0.0
+3600000.0,Mercedes - Benz,C,C 200 Amg,2022.0,96000.0,Otomatik,Benzin,Coupe,Gri (Metalik),1497.0,184.0,4Wd (Sürekli),7.0,2.0,0.0,0.0,0.0
+111000.0,Tofaş,Doğan,L,1992.0,200000.0,Düz,Lpg & Benzin,Sedan,Bordo,1581.0,83.0,Arkadan İtiş,6.5,,,,0.0
+1275000.0,Renault,Megane,1.5 Blue Dci Touch,2020.0,141000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1461.0,115.0,Önden Çekiş,4.2,,,,0.0
+1400000.0,Audi,A6,A6 Sedan 2.0 Tdi,2013.0,548000.0,Otomatik,Dizel,Sedan,Beyaz,1968.0,177.0,Önden Çekiş,5.0,3.0,1.0,0.0,0.0
+1250000.0,Toyota,Corolla,1.4 D-4D Touch,2015.0,136000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1364.0,90.0,Önden Çekiş,4.1,0.0,0.0,0.0,1.0
+920000.0,Renault,Clio,1.5 Dci Sporttourer Icon,2016.0,178000.0,Otomatik,Dizel,Station Wagon,Kırmızı,1500.5,88.0,Önden Çekiş,,0.0,0.0,1.0,0.0
+410000.0,Ford,Focus,1.6 Ghia,2000.0,328000.0,Düz,Lpg & Benzin,Sedan,Gri (Gümüş),1596.0,100.0,Önden Çekiş,6.9,0.0,0.0,0.0,0.0
+925000.0,Renault,Clio,1.2 Tce Icon,2015.0,180000.0,Otomatik,Benzin,Hatchback/5,Mavi (Metalik),601.5,113.0,Önden Çekiş,,3.0,2.0,0.0,0.0
+750000.0,Volkswagen,Polo,1.4 Tdi Comfortline,2016.0,276000.0,Yarı Otomatik,Dizel,Hatchback/5,Gri,1422.0,90.0,Önden Çekiş,3.5,3.0,0.0,2.0,0.0
+160000.0,Renault,R 9,1.4 Broadway,1992.0,360000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1390.0,83.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+850000.0,Fiat,500 Ailesi,500L 1.3 Mjet Rockstar,2016.0,183000.0,Yarı Otomatik,Dizel,Mpv,Bej,1248.0,95.0,Önden Çekiş,3.9,,,,0.0
+1015000.0,Renault,Clio,1.0 Tce Joy,2023.0,53000.0,Düz,Benzin,Hatchback/5,Beyaz,601.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+890900.0,Fiat,Egea,1.3 Multijet Easy,2017.0,50000.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,,,,0.0
+1060000.0,Renault,Taliant,1.0 T Joy,2022.0,66000.0,Otomatik,Benzin,Sedan,Beyaz,999.0,90.0,Önden Çekiş,6.1,0.0,1.0,1.0,0.0
+859000.0,Renault,Taliant,1.0 T Joy,2022.0,145000.0,Otomatik,Benzin,Sedan,Gri,999.0,90.0,Önden Çekiş,6.1,1.0,0.0,0.0,0.0
+849000.0,Volvo,S80,2.0 D Premium,2012.0,340000.0,Otomatik,Dizel,Sedan,Beyaz,1984.0,163.0,Önden Çekiş,5.9,0.0,0.0,1.0,0.0
+1439000.0,Honda,Civic,1.6I Vtec Eco Elegance,2019.0,155000.0,Otomatik,Benzin,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,4.0,0.0,0.0
+195000.0,Renault,R 9,1.4 Broadway Gte,1993.0,250000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1390.0,83.0,Önden Çekiş,,2.0,1.0,0.0,0.0
+480000.0,Hyundai,Accent Era,1.5 Crdi Team,2010.0,273000.0,Düz,Dizel,Sedan,Beyaz,1493.0,110.0,Önden Çekiş,4.6,1.0,1.0,3.0,0.0
+3348750.0,Bmw,3 Serisi,320I 50Th Year M Edition,2023.0,120000.0,Otomatik,Benzin,Sedan,Beyaz,1597.0,170.0,Arkadan İtiş,7.3,,,,0.0
+827750.0,Fiat,Egea,1.3 Multijet Easy,2017.0,99000.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,1.0,0.0,1.0,0.0
+535000.0,Volkswagen,Polo,1.4 Trendline,2006.0,207650.0,Düz,Lpg & Benzin,Hatchback/5,Beyaz,1300.5,88.0,Önden Çekiş,,3.0,2.0,1.0,0.0
+935000.0,Volkswagen,Golf,1.6 Tdi Highline,2012.0,252000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1500.5,113.0,Önden Çekiş,,2.0,0.0,0.0,0.0
+498000.0,Ford,Fusion,1.4 Tdci Comfort,2005.0,200000.0,Düz,Dizel,Hatchback/5,Beyaz,1399.0,68.0,Önden Çekiş,4.4,0.0,0.0,1.0,0.0
+999850.0,Renault,Clio,1.5 Dci Icon,2016.0,164202.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461.0,90.0,Önden Çekiş,3.7,0.0,0.0,1.0,0.0
+310000.0,Daihatsu,Materia,1.5 Gold,2010.0,193000.0,Düz,Benzin,Hatchback/5,Gri,1495.0,103.0,Önden Çekiş,7.2,7.0,1.0,1.0,0.0
+745000.0,Bmw,1 Serisi,116D Ed Efficientdynamics,2012.0,316000.0,Düz,Dizel,Hatchback/5,Siyah,1598.0,116.0,Arkadan İtiş,3.8,0.0,1.0,0.0,0.0
+2335000.0,Bmw,5 Serisi,520I M Sport,2017.0,183000.0,Otomatik,Benzin,Sedan,Füme,1500.5,163.0,Arkadan İtiş,,2.0,1.0,0.0,0.0
+590000.0,Audi,A6,A6 Sedan 2.0 Tdi,2008.0,407000.0,Otomatik,Dizel,Sedan,Siyah,1900.5,138.0,Önden Çekiş,,8.0,0.0,2.0,0.0
+479000.0,Ford,Fiesta,1.4 Tdci Trend,2010.0,322021.0,Düz,Dizel,Hatchback/5,Gri,1300.5,63.0,Önden Çekiş,,3.0,0.0,1.0,0.0
+975000.0,Honda,Civic,1.6I Vtec Dream,2013.0,185000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1595.0,125.0,Önden Çekiş,6.7,1.0,1.0,0.0,0.0
+849900.0,Opel,Astra,1.6 Edition,2013.0,178000.0,Düz,Benzin,Hatchback/5,Gri,1598.0,115.0,Önden Çekiş,6.6,0.0,0.0,0.0,1.0
+1620000.0,Volkswagen,Golf,1.5 Tsi Comfortline,2019.0,78000.0,Yarı Otomatik,Benzin,Hatchback/5,Mavi,1498.0,150.0,Önden Çekiş,5.1,0.0,0.0,0.0,1.0
+1750000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2018.0,195000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598.0,120.0,Önden Çekiş,4.0,2.0,1.0,0.0,0.0
+155000.0,Fiat,Marea,1.6 Liberty,2004.0,250000.0,Düz,Lpg & Benzin,Sedan,Şampanya,1596.0,103.0,Önden Çekiş,8.1,,,,0.0
+760000.0,Hyundai,I20,1.4 Crdi Jump,2016.0,210000.0,Düz,Dizel,Hatchback/5,Beyaz,1396.0,90.0,Önden Çekiş,3.9,1.0,0.0,0.0,0.0
+1795000.0,Mercedes - Benz,E,350 Cdi Premium,2012.0,412000.0,Otomatik,Dizel,Sedan,Siyah,2750.5,263.0,4Wd (Sürekli),,,,,0.0
+875000.0,Ford,Fiesta,1.4 Titanium,2011.0,59000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1388.0,96.0,Önden Çekiş,6.5,3.0,0.0,1.0,0.0
+965000.0,Mercedes - Benz,C,C 200 Kompressor Avantgarde,2008.0,330000.0,Otomatik,Lpg & Benzin,Sedan,Siyah,1796.0,184.0,Arkadan İtiş,8.7,12.0,0.0,0.0,0.0
+1040000.0,Fiat,Egea,1.6 Multijet Easy,2022.0,92000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,138.0,Önden Çekiş,,1.0,0.0,0.0,0.0
+1285000.0,Volkswagen,Polo,1.0 Tsi Comfortline,2020.0,88500.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,999.0,95.0,Önden Çekiş,4.6,0.0,0.0,0.0,1.0
+1495000.0,Skoda,Scala,1.5 Tsi Premium,2020.0,178000.0,Yarı Otomatik,Benzin,Hatchback/5,Mavi,1498.0,150.0,Önden Çekiş,5.0,2.0,0.0,0.0,0.0
+485000.0,Opel,Corsa,1.2 Twinport Active,2014.0,200000.0,Düz,Benzin,Hatchback/5,Lacivert,1229.0,85.0,Önden Çekiş,5.3,12.0,0.0,0.0,0.0
+599000.0,Honda,Civic,1.6I Vtec Es,2004.0,329000.0,Otomatik,Lpg & Benzin,Sedan,Gri,1590.0,110.0,Önden Çekiş,7.0,4.0,0.0,3.0,0.0
+4900000.0,Audi,A6,A6 Sedan 40 Tdi Quattro Design,2022.0,68000.0,Yarı Otomatik,Hibrit,Sedan,Beyaz,1968.0,204.0,4Wd (Sürekli),4.3,0.0,0.0,0.0,1.0
+2045000.0,Volkswagen,Golf,1.0 Etsi R Line,2021.0,18200.0,Yarı Otomatik,Hibrit,Hatchback/5,Beyaz,999.0,110.0,Önden Çekiş,4.9,0.0,0.0,0.0,1.0
+1149500.0,Volkswagen,Golf,1.2 Tsi Comfortline,2014.0,195500.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1197.0,105.0,Önden Çekiş,4.8,0.0,0.0,0.0,1.0
+675000.0,Renault,Fluence,1.5 Dci Business,2011.0,215000.0,Düz,Dizel,Sedan,Gri,1461.0,85.0,Önden Çekiş,4.5,3.0,0.0,1.0,0.0
+499999.0,Renault,Scenic,1.5 Dci Privilege,2007.0,259500.0,Düz,Dizel,Mpv,Mavi,1500.5,113.0,Önden Çekiş,,1.0,0.0,0.0,0.0
+599000.0,Renault,Megane,1.5 Dci Privilege,2006.0,235000.0,Düz,Dizel,Sedan,Gri,1500.5,88.0,Önden Çekiş,,6.0,1.0,0.0,0.0
+715000.0,Peugeot,301,1.2 Puretech Active,2019.0,74000.0,Düz,Benzin,Sedan,Beyaz,601.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1840000.0,Renault,Megane,1.5 Blue Dci Icon,2025.0,64000.0,Yarı Otomatik,Dizel,Sedan,Gri,1461.0,115.0,Önden Çekiş,4.1,0.0,0.0,0.0,1.0
+845000.0,Ford,Focus,1.6 Tdci Titanium,2013.0,196000.0,Düz,Dizel,Sedan,Gri,1560.0,115.0,Önden Çekiş,4.2,4.0,1.0,0.0,0.0
+899000.0,Honda,Civic,1.6I Vtec Eco Premium,2012.0,230000.0,Düz,Lpg & Benzin,Sedan,Siyah,1595.0,125.0,Önden Çekiş,6.7,1.0,1.0,0.0,0.0
+2219000.0,Volkswagen,Passat,1.5 Tsi Elegance,2020.0,125000.0,Yarı Otomatik,Benzin,Sedan,Siyah,1498.0,150.0,Önden Çekiş,5.3,3.0,2.0,0.0,0.0
+465000.0,Skoda,Octavia,1.6 Tdi Ambiente,2010.0,395000.0,Düz,Dizel,Hatchback/5,Gri,1598.0,105.0,Önden Çekiş,4.5,3.0,0.0,1.0,0.0
+615000.0,Ford,Fiesta,1.6 Comfort,2006.0,160000.0,Otomatik,Lpg & Benzin,Hatchback/5,Mor,1500.5,88.0,Önden Çekiş,,3.0,2.0,0.0,0.0
+750000.0,Ford,Focus,1.6 Tdci Style,2011.0,226000.0,Düz,Dizel,Sedan,Bordo,1560.0,115.0,Önden Çekiş,4.2,0.0,9.0,1.0,0.0
+470000.0,Fiat,Linea,1.3 Multijet Urban,2012.0,199000.0,Düz,Dizel,Sedan,Gri,1248.0,95.0,Önden Çekiş,4.9,2.0,0.0,3.0,0.0
+835000.0,Fiat,Egea,1.4 T-Jet Lounge Plus,2016.0,155000.0,Düz,Benzin,Station Wagon,Mavi,1368.0,120.0,Önden Çekiş,6.0,1.0,1.0,1.0,0.0
+619000.0,Ford,Fiesta,1.25 My Fiesta,2013.0,214000.0,Düz,Lpg & Benzin,Hatchback/5,Beyaz,1242.0,82.0,Önden Çekiş,5.7,0.0,0.0,0.0,1.0
+575000.0,Honda,Civic,1.6I Vtec Ls,2003.0,200500.0,Düz,Lpg & Benzin,Sedan,Beyaz,1590.0,110.0,Önden Çekiş,6.5,5.0,2.0,2.0,0.0
+1075000.0,Renault,Megane,1.5 Blue Dci Joy,2020.0,148500.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,115.0,Önden Çekiş,4.2,3.0,1.0,0.0,0.0
+328500.0,Seat,Ibiza,1.4 Basic,1998.0,248000.0,Düz,Lpg & Benzin,Hatchback/3,Kırmızı,1390.0,60.0,Önden Çekiş,6.6,0.0,0.0,0.0,1.0
+135000.0,Tofaş,Şahin,1.6,1992.0,100000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1581.0,88.0,Arkadan İtiş,,0.0,0.0,0.0,1.0
+475000.0,Chevrolet,Cruze,1.6 Ls,2010.0,108000.0,Düz,Lpg & Benzin,Sedan,Siyah,1500.5,113.0,Önden Çekiş,,0.0,4.0,4.0,0.0
+3475000.0,Audi,A4,A4 Sedan 40 Tdi Quattro Advanced,2024.0,58000.0,Yarı Otomatik,Hibrit,Sedan,Gri,1968.0,204.0,4Wd (Sürekli),4.8,0.0,2.0,0.0,0.0
+1765000.0,Jaguar,Xf,2.0 D Prestige Plus,2016.0,162300.0,Otomatik,Dizel,Sedan,Beyaz,1900.5,188.0,Arkadan İtiş,,6.0,0.0,0.0,0.0
+638500.0,Renault,Symbol,1.5 Dci Joy,2015.0,228000.0,Düz,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,0.0,3.0,0.0,0.0
+475000.0,Citroen,C4,1.6 Hdi Confort,2012.0,386000.0,Düz,Dizel,Hatchback/5,Beyaz,1500.5,88.0,Önden Çekiş,,0.0,2.0,0.0,0.0
+875000.0,Renault,Fluence,1.5 Dci Extreme Edition,2011.0,80000.0,Düz,Dizel,Sedan,Beyaz,1461.0,90.0,Önden Çekiş,4.4,2.0,0.0,0.0,0.0
+450000.0,Renault,Symbol,1.2 Joy,2015.0,148000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1149.0,75.0,Önden Çekiş,6.0,3.0,1.0,0.0,0.0
+650000.0,Renault,Clio,1.2 Joy,2013.0,200000.0,Düz,Lpg & Benzin,Station Wagon,Siyah,1149.0,75.0,Önden Çekiş,5.5,0.0,0.0,0.0,1.0
+942500.0,Renault,Clio,1.3 Tce Icon,2020.0,110000.0,Otomatik,Benzin,Hatchback/5,Mavi,1300.5,138.0,Önden Çekiş,,3.0,0.0,1.0,0.0
+535000.0,Volkswagen,Polo,1.6 Tdi Comfortline,2011.0,313000.0,Düz,Dizel,Hatchback/5,Beyaz,1598.0,90.0,Önden Çekiş,4.2,3.0,2.0,4.0,0.0
+1670000.0,Renault,Megane,1.5 Blue Dci Touch,2024.0,72250.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,115.0,Önden Çekiş,4.1,0.0,0.0,0.0,1.0
+2125000.0,Skoda,Superb,1.6 Tdi Prestige,2019.0,155000.0,Otomatik,Dizel,Sedan,Gri,1500.5,113.0,Önden Çekiş,,,,,0.0
+1079000.0,Renault,Clio,1.0 Tce Joy,2022.0,65000.0,Otomatik,Benzin,Hatchback/5,Beyaz,999.0,90.0,Önden Çekiş,5.0,0.0,0.0,1.0,0.0
+415000.0,Renault,Symbol,1.5 Dci Joy,2016.0,375000.0,Düz,Dizel,Sedan,Beyaz,1461.0,90.0,Önden Çekiş,3.9,4.0,1.0,0.0,0.0
+520000.0,Peugeot,301,1.6 Hdi Active,2016.0,287000.0,Düz,Dizel,Sedan,Beyaz,1560.0,93.0,Önden Çekiş,4.3,0.0,0.0,2.0,0.0
+579000.0,Renault,Clio,1.2 Joy,2012.0,185000.0,Düz,Lpg & Benzin,Hatchback/5,Kırmızı,1149.0,75.0,Önden Çekiş,5.5,4.0,1.0,1.0,0.0
+1639900.0,Audi,A5,A5 Sportback 2.0 Tdi,2015.0,246000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1900.5,188.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+720000.0,Opel,Astra,1.3 Cdti Enjoy 111.Yıl,2011.0,170000.0,Düz,Dizel,Sedan,Gri,1300.5,88.0,Önden Çekiş,,0.0,0.0,2.0,0.0
+1050000.0,Hyundai,I20,1.4 Mpi Jump,2021.0,164000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1368.0,100.0,Önden Çekiş,6.1,1.0,1.0,1.0,0.0
+400000.0,Opel,Corsa,1.3 Cdti Essentia,2004.0,239000.0,Yarı Otomatik,Dizel,Hatchback/5,Gri (Gümüş),1248.0,70.0,Önden Çekiş,4.4,8.0,0.0,2.0,0.0
+950000.0,Volkswagen,Polo,1.2 Tsi Comfortline,2015.0,184000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1197.0,90.0,Önden Çekiş,4.7,2.0,1.0,1.0,0.0
+169000.0,Tofaş,Şahin,S,1997.0,50000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1500.5,88.0,Arkadan İtiş,,0.0,0.0,0.0,1.0
+1415000.0,Renault,Megane,1.5 Blue Dci Touch,2022.0,101849.0,Yarı Otomatik,Dizel,Sedan,Mavi,1461.0,115.0,Önden Çekiş,4.1,0.0,2.0,0.0,0.0
+445000.0,Volkswagen,Polo,1.2 Tdi Trendline,2012.0,262000.0,Düz,Dizel,Hatchback/5,Beyaz,601.5,63.0,Önden Çekiş,,8.0,0.0,0.0,0.0
+758500.0,Peugeot,301,1.6 Hdi Active,2017.0,175000.0,Düz,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+709000.0,Peugeot,301,1.6 Hdi Active,2017.0,175000.0,Düz,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,1.0,2.0,0.0,0.0
+265000.0,Hyundai,Accent,1.5 Crdi Admire,2004.0,332000.0,Düz,Dizel,Sedan,Beyaz,1493.0,82.0,Önden Çekiş,5.5,0.0,0.0,0.0,1.0
+799000.0,Opel,Corsa,1.4 Twinport Active,2013.0,155000.0,Otomatik,Lpg & Benzin,Hatchback/5,Beyaz,1300.5,88.0,Önden Çekiş,,3.0,0.0,0.0,0.0
+1065000.0,Toyota,Auris,1.4 D-4D Active Skypack,2013.0,174000.0,Yarı Otomatik,Dizel,Hatchback/5,Gri,1364.0,90.0,Önden Çekiş,4.2,3.0,0.0,0.0,0.0
+769750.0,Renault,Fluence,1.5 Dci Touch,2014.0,227000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,110.0,Önden Çekiş,4.4,1.0,1.0,1.0,0.0
+468500.0,Renault,Symbol,1.2 Authentique,2012.0,280000.0,Düz,Benzin,Sedan,Beyaz,1149.0,75.0,Önden Çekiş,5.9,0.0,0.0,0.0,1.0
+860000.0,Opel,Astra,1.4 T Sport,2012.0,119000.0,Otomatik,Benzin,Hatchback/5,Gri,1300.5,138.0,Önden Çekiş,,2.0,1.0,2.0,0.0
+910000.0,Renault,Megane,1.6 Touch Plus,2015.0,158000.0,Otomatik,Lpg & Benzin,Hatchback/5,Kahverengi,1598.0,115.0,Önden Çekiş,6.4,0.0,0.0,0.0,1.0
+885000.0,Renault,Fluence,1.5 Dci Icon,2015.0,240000.0,Yarı Otomatik,Dizel,Sedan,Gri (Titanyum),1461.0,110.0,Önden Çekiş,4.4,1.0,0.0,0.0,0.0
+1285000.0,Renault,Megane,1.5 Dci Touch,2017.0,146000.0,Yarı Otomatik,Dizel,Hatchback/5,Gri,1461.0,110.0,Önden Çekiş,3.7,0.0,3.0,0.0,0.0
+825000.0,Opel,Astra,1.3 Cdti Edition Plus,2015.0,150000.0,Düz,Dizel,Hatchback/5,Kahverengi,1300.5,88.0,Önden Çekiş,,5.0,0.0,0.0,0.0
+729500.0,Renault,Fluence,1.5 Dci Dynamique,2012.0,222500.0,Yarı Otomatik,Dizel,Sedan,Gri,1461.0,110.0,Önden Çekiş,4.4,3.0,0.0,0.0,0.0
+1430000.0,Hyundai,I20,1.0 T-Gdi Jump,2026.0,17000.0,Otomatik,Benzin,Hatchback/5,Kırmızı,601.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+915000.0,Hyundai,Accent Blue,1.6 Crdi Mode Plus,2018.0,144000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1582.0,136.0,Önden Çekiş,4.6,5.0,2.0,0.0,0.0
+200000.0,Lada,Vega,1.6,2005.0,170000.0,Düz,Benzin,Sedan,Mavi,1500.5,88.0,Önden Çekiş,,1.0,0.0,0.0,0.0
+1200000.0,Mercedes - Benz,C,C 200 Kompressor Elegance,1998.0,189000.0,Otomatik,Benzin,Sedan,Şampanya,1998.0,192.0,Arkadan İtiş,11.4,0.0,0.0,0.0,1.0
+685000.0,Hyundai,Getz,1.4 Dohc Ab Ac,2008.0,140000.0,Otomatik,Benzin,Hatchback/5,Gri,1399.0,97.0,Önden Çekiş,6.7,2.0,1.0,2.0,0.0
+1099750.0,Hyundai,Elantra,1.6 D-Cvvt Style,2018.0,180000.0,Otomatik,Benzin,Sedan,Kırmızı,1591.0,128.0,Önden Çekiş,6.9,1.0,2.0,0.0,0.0
+1000000.0,Mercedes - Benz,C,C 220 Cdi Amg,2009.0,335000.0,Otomatik,Dizel,Sedan,Gri,2148.0,170.0,Arkadan İtiş,6.9,3.0,1.0,0.0,0.0
+615000.0,Fiat,Punto,1.2 Popstar,2015.0,162000.0,Düz,Benzin,Hatchback/5,Kırmızı,1242.0,69.0,Önden Çekiş,5.4,1.0,0.0,1.0,0.0
+679000.0,Dacia,Sandero,1.5 Dci Stepway,2013.0,188000.0,Düz,Dizel,Hatchback/5,Siyah,1500.5,88.0,Önden Çekiş,,4.0,0.0,0.0,0.0
+439000.0,Fiat,Linea,1.3 Multijet Active Plus,2013.0,249000.0,Düz,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,2.0,0.0,0.0,0.0
+345000.0,Fiat,Albea,1.2 El,2002.0,201000.0,Düz,Benzin,Sedan,Gri,1242.0,80.0,Önden Çekiş,7.0,1.0,2.0,1.0,0.0
+365000.0,Fiat,Palio,1.2 Active,2005.0,159000.0,Düz,Benzin,Hatchback/5,Gri,1242.0,81.0,Önden Çekiş,7.2,0.0,0.0,0.0,1.0
+2229000.0,Bmw,3 Serisi,320I Ed 40Th Year Edition,2015.0,120000.0,Otomatik,Benzin,Sedan,Mavi,1500.5,163.0,Arkadan İtiş,,0.0,0.0,0.0,1.0
+950000.0,Citroen,C-Elysée,1.5 Bluehdi Feel,2023.0,72000.0,Düz,Dizel,Sedan,Gri,1500.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1120000.0,Bmw,3 Serisi,320D Techno Plus,2013.0,270000.0,Otomatik,Dizel,Sedan,Beyaz,1995.0,184.0,Arkadan İtiş,4.4,1.0,4.0,1.0,0.0
+750000.0,Audi,A4,A4 Sedan 2.0 Tdi,2008.0,302000.0,Otomatik,Dizel,Sedan,Siyah,1900.5,138.0,Önden Çekiş,,8.0,0.0,4.0,0.0
+1300000.0,Bmw,5 Serisi,525D Xdrive M Sport,2012.0,235000.0,Otomatik,Dizel,Sedan,Beyaz,1900.5,213.0,Arkadan İtiş,,3.0,0.0,1.0,0.0
+650000.0,Toyota,Corolla,1.4 D-4D Comfort,2009.0,282000.0,Düz,Dizel,Sedan,Gri (Gümüş),1365.0,90.0,Önden Çekiş,4.9,,,,0.0
+3592500.0,Skoda,Superb,1.5 Tsi Prestige,2026.0,9500.0,Otomatik,Hibrit,Sedan,Siyah,1500.5,138.0,Önden Çekiş,,,,,0.0
+998000.0,Volkswagen,Golf,1.6 Tdi Highline,2012.0,185000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1500.5,113.0,Önden Çekiş,,2.0,0.0,0.0,0.0
+337500.0,Fiat,Linea,1.3 Multijet Active Plus,2010.0,297000.0,Düz,Dizel,Sedan,Beyaz,1248.0,90.0,Önden Çekiş,4.9,7.0,0.0,1.0,0.0
+1600000.0,Audi,A4,A4 Sedan 2.0 Tdi,2014.0,205000.0,Otomatik,Dizel,Sedan,Beyaz,1968.0,150.0,Önden Çekiş,4.8,,,,0.0
+950000.0,Hyundai,I30,1.6 Crdi Blue Drive,2015.0,216000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1582.0,136.0,Önden Çekiş,4.2,1.0,1.0,0.0,0.0
+1035000.0,Toyota,Yaris,1.33 Style,2016.0,113000.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1329.0,98.0,Önden Çekiş,5.1,0.0,0.0,0.0,1.0
+535000.0,Peugeot,308,1.6 Vti Comfort Pack,2010.0,160000.0,Düz,Lpg & Benzin,Hatchback/5,Gri,1500.5,113.0,Önden Çekiş,,1.0,3.0,0.0,0.0
+490000.0,Bmw,3 Serisi,316I Standart,2005.0,269400.0,Düz,Benzin,Sedan,Gri (Titanyum),1596.0,115.0,Arkadan İtiş,7.7,8.0,0.0,0.0,0.0
+719000.0,Volkswagen,Jetta,1.6 Tour,2009.0,292000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1595.0,102.0,Önden Çekiş,7.4,3.0,0.0,0.0,0.0
+1189000.0,Renault,Megane,1.5 Blue Dci Joy,2021.0,154900.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,2.0,0.0,0.0,0.0
+580000.0,Opel,Vectra,1.6 Comfort,2006.0,257000.0,Düz,Benzin,Sedan,Gri,1598.0,105.0,Önden Çekiş,6.9,0.0,0.0,0.0,1.0
+1099000.0,Kia,Ceed,1.6 Crdi Concept Plus,2014.0,192500.0,Otomatik,Dizel,Hatchback/5,Kahverengi,1582.0,128.0,Önden Çekiş,5.5,0.0,0.0,0.0,1.0
+1769000.0,Honda,Civic,1.5 I-Vtec Elegance,2021.0,59000.0,Otomatik,Benzin,Sedan,Füme,1500.5,188.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1779900.0,Seat,Leon,1.5 Etsi Fr,2023.0,53000.0,Yarı Otomatik,Hibrit,Hatchback/5,Kırmızı,1498.0,150.0,Önden Çekiş,5.5,0.0,0.0,2.0,0.0
+1639950.0,Opel,Insignia,1.6 Cdti Grand Sport Excellence,2018.0,96000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1598.0,136.0,Önden Çekiş,5.1,2.0,1.0,0.0,0.0
+479999.0,Fiat,Punto,Grande 1.4 Fire Active,2007.0,202000.0,Yarı Otomatik,Lpg & Benzin,Hatchback/3,Gri,1368.0,77.0,Önden Çekiş,6.1,4.0,0.0,0.0,0.0
+575000.0,Lancia,Ypsilon,0.9,2013.0,202000.0,Otomatik,Benzin,Hatchback/5,Siyah,875.0,85.0,Önden Çekiş,4.1,5.0,0.0,2.0,0.0
+3675000.0,Bmw,3 Serisi,320I Sport Line,2022.0,44700.0,Otomatik,Benzin,Sedan,Füme,1597.0,170.0,Arkadan İtiş,6.0,0.0,0.0,0.0,1.0
+2549000.0,Bmw,3 Serisi,320I First Edition M Sport,2020.0,149000.0,Otomatik,Benzin,Sedan,Beyaz,1597.0,170.0,Arkadan İtiş,6.0,2.0,0.0,0.0,0.0
+1625000.0,Mercedes - Benz,C,C 200 D Bluetec Amg,2015.0,258000.0,Otomatik,Benzin,Sedan,Beyaz,1598.0,136.0,Arkadan İtiş,4.2,2.0,1.0,0.0,0.0
+990000.0,Volkswagen,Vw Cc,2.0 Tdi 2.0 Tdi,2013.0,290000.0,Otomatik,Dizel,Coupe,Beyaz,1900.5,188.0,Önden Çekiş,,0.0,0.0,1.0,0.0
+1515000.0,Toyota,Corolla,1.6 Advance,2018.0,82000.0,Otomatik,Lpg & Benzin,Sedan,Füme,1598.0,132.0,Önden Çekiş,6.1,0.0,0.0,0.0,1.0
+299000.0,Bmw,3 Serisi,316I Standart,1994.0,519000.0,Otomatik,Lpg & Benzin,Sedan,Siyah,1500.5,113.0,Arkadan İtiş,,0.0,4.0,0.0,0.0
+695000.0,Kia,Rio,1.4 Ex Trend,2011.0,177000.0,Otomatik,Benzin,Hatchback/5,Gri,1399.0,97.0,Önden Çekiş,7.2,0.0,0.0,1.0,0.0
+650000.0,Peugeot,301,1.5 Bluehdi Active,2019.0,208000.0,Düz,Dizel,Sedan,Gri,1499.0,102.0,Önden Çekiş,3.9,7.0,2.0,0.0,0.0
+849000.0,Volkswagen,Polo,1.6 Tdi Comfortline,2013.0,229000.0,Yarı Otomatik,Benzin,Hatchback/5,Gri,1598.0,90.0,Önden Çekiş,4.3,1.0,0.0,0.0,0.0
+1405000.0,Hyundai,I30,1.6 Crdi Elite Plus,2018.0,86000.0,Yarı Otomatik,Benzin,Hatchback/5,Mavi,1582.0,136.0,Önden Çekiş,4.1,0.0,3.0,0.0,0.0
+1272500.0,Ford,Focus,1.5 Ti-Vct Titanium,2023.0,87000.0,Otomatik,Benzin,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,4.0,0.0,1.0,0.0
+775000.0,Renault,Symbol,1.5 Dci Joy,2016.0,122000.0,Düz,Dizel,Sedan,Beyaz,1461.0,90.0,Önden Çekiş,3.9,0.0,1.0,0.0,0.0
+1135000.0,Bmw,3 Serisi,320D M Sport,2011.0,324000.0,Otomatik,Dizel,Sedan,Beyaz,1995.0,184.0,Arkadan İtiş,5.3,0.0,1.0,0.0,0.0
+1275000.0,Smart,Roadster,,2005.0,38045.0,Otomatik,Benzin,Cabrio,Sarı,601.5,88.0,Arkadan İtiş,,0.0,0.0,0.0,1.0
+6200000.0,Volvo,V90 Cross Country,2.0 B6 Ultimate Bright,2024.0,6001.0,Otomatik,Benzin,Station Wagon,Gri,1969.0,300.0,4Wd (Sürekli),8.7,0.0,0.0,0.0,1.0
+1050000.0,Audi,A3,A3 Sportback 1.4 Tfsi Ambiente,2012.0,185000.0,Yarı Otomatik,Benzin,Hatchback/3,Beyaz,1390.0,125.0,Önden Çekiş,5.6,2.0,0.0,0.0,0.0
+3169000.0,Mercedes - Benz,Cla,200 Amg,2023.0,55800.0,Otomatik,Benzin,Coupe,Gri,1300.5,163.0,Önden Çekiş,,,,,0.0
+1200000.0,Renault,Clio,1.0 Tce Icon,2023.0,61000.0,Otomatik,Benzin,Hatchback/5,Turuncu,999.0,90.0,Önden Çekiş,5.0,3.0,1.0,0.0,0.0
+465000.0,Volkswagen,Jetta,1.6 Comfortline,2007.0,316000.0,Otomatik,Lpg & Benzin,Sedan,Gri,1595.0,102.0,Önden Çekiş,8.2,8.0,0.0,2.0,0.0
+1190000.0,Seat,Leon,1.2 Tsi Style,2016.0,146000.0,Otomatik,Benzin,Hatchback/5,Mavi,601.5,113.0,Önden Çekiş,,,,,0.0
+1390000.0,Skoda,Octavia,1.0 E-Tec Elite,2021.0,125000.0,Yarı Otomatik,Hibrit,Hatchback/5,Füme,999.0,110.0,Önden Çekiş,4.3,1.0,0.0,1.0,0.0
+1580000.0,Bmw,5 Serisi,520I Executive M Sport,2015.0,270000.0,Otomatik,Benzin,Sedan,Beyaz,1592.0,170.0,Arkadan İtiş,6.7,1.0,1.0,0.0,0.0
+650000.0,Toyota,Avensis,1.6 Elegant,2006.0,250000.0,Düz,Lpg & Benzin,Sedan,Gri,1500.5,113.0,Önden Çekiş,,7.0,0.0,1.0,0.0
+220000.0,Opel,Vectra,2.0 Cd,1996.0,395000.0,Düz,Lpg & Benzin,Sedan,Gri,1900.5,138.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+2395000.0,Mercedes - Benz,C,C 200 D Amg,2017.0,96000.0,Otomatik,Dizel,Sedan,Beyaz,1598.0,136.0,Arkadan İtiş,4.2,,,,0.0
+610000.0,Peugeot,307,1.6 Xt,2003.0,84850.0,Otomatik,Benzin,Hatchback/5,Mavi,1500.5,113.0,Önden Çekiş,,3.0,0.0,0.0,0.0
+2099000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2019.0,122000.0,Otomatik,Dizel,Sedan,Siyah,1500.5,113.0,Önden Çekiş,,,,,0.0
+497500.0,Ford,Fiesta,1.4 Tdci Trend,2011.0,165000.0,Düz,Dizel,Hatchback/5,Bordo,1398.0,70.0,Önden Çekiş,4.2,3.0,0.0,2.0,0.0
+985000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Trendline,2015.0,280000.0,Düz,Dizel,Sedan,Gri,1500.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+455000.0,Fiat,Linea,1.3 Multijet Active Plus,2015.0,260000.0,Düz,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+838000.0,Peugeot,301,1.6 Hdi Allure,2017.0,151000.0,Düz,Dizel,Sedan,Gri,1500.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1220000.0,Renault,Clio,1.0 Tce Evolution,2024.0,118102.0,Otomatik,Benzin,Hatchback/5,Turuncu,999.0,90.0,Önden Çekiş,6.0,1.0,0.0,0.0,0.0
+1075000.0,Toyota,Corolla,1.33 Life,2017.0,127700.0,Düz,Benzin,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+690000.0,Opel,Astra,1.3 Cdti Ecoflex Sport,2012.0,195000.0,Düz,Dizel,Hatchback/5,Gri,1248.0,95.0,Önden Çekiş,4.2,0.0,0.0,2.0,0.0
+1935000.0,Bmw,1 Serisi,118I First Edition Sport Line,2019.0,69000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1499.0,140.0,Önden Çekiş,6.0,0.0,0.0,0.0,1.0
+789000.0,Dacia,Lodgy,1.5 Dci Laureate,2013.0,207000.0,Düz,Dizel,Mpv,Beyaz,1500.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+852000.0,Volkswagen,Golf,1.4 Tsi Comfortline,2009.0,219000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1300.5,113.0,Önden Çekiş,,5.0,0.0,1.0,0.0
+699000.0,Volkswagen,Polo,1.2 Trendline,2013.0,186000.0,Düz,Benzin,Hatchback/5,Gri,601.5,63.0,Önden Çekiş,,0.0,1.0,0.0,0.0
+975000.0,Opel,Astra,1.4 T Sport,2013.0,78000.0,Otomatik,Lpg & Benzin,Hatchback/5,Füme,1364.0,140.0,Önden Çekiş,7.0,0.0,1.0,0.0,0.0
+610000.0,Peugeot,107,1.0 Trendy,2012.0,109000.0,Yarı Otomatik,Benzin,Hatchback/5,Siyah,998.0,69.0,Önden Çekiş,4.6,3.0,0.0,1.0,0.0
+765900.0,Citroen,C-Elysée,1.5 Bluehdi Feel Bold,2022.0,63000.0,Düz,Benzin,Sedan,Beyaz,1499.0,100.0,Önden Çekiş,3.9,3.0,1.0,2.0,0.0
+789000.0,Ford,Focus,1.6 Tdci Titanium,2016.0,279112.0,Düz,Dizel,Sedan,Gri,1560.0,115.0,Önden Çekiş,4.2,3.0,2.0,0.0,0.0
+775000.0,Citroen,C4,1.6 E-Hdi Confort,2012.0,212000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1500.5,113.0,Önden Çekiş,,5.0,0.0,0.0,0.0
+747000.0,Fiat,Egea,1.4 Fire Easy,2021.0,159000.0,Düz,Benzin,Sedan,Füme,1368.0,95.0,Önden Çekiş,6.4,3.0,1.0,0.0,0.0
+190000.0,Fiat,Tempra,1.6 Sx A,1996.0,118000.0,Düz,Lpg & Benzin,Sedan,Gri (Gümüş),1581.0,90.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+200000.0,Renault,Laguna,2.0 Rti,1996.0,400000.0,Düz,Lpg & Benzin,Hatchback/5,Mavi,1948.0,139.0,Önden Çekiş,,,,,0.0
+895000.0,Opel,Corsa,1.4 Enjoy,2015.0,107000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1398.0,90.0,Önden Çekiş,6.0,6.0,1.0,0.0,0.0
+495000.0,Hyundai,Accent Era,1.5 Crdi-Vgt Select,2010.0,313000.0,Düz,Dizel,Sedan,Mavi,1493.0,110.0,Önden Çekiş,4.6,5.0,0.0,1.0,0.0
+880000.0,Volkswagen,Passat,1.4 Tsi Comfortline,2010.0,198000.0,Otomatik,Benzin,Sedan,Gri (Gümüş),1390.0,122.0,Önden Çekiş,6.6,2.0,0.0,2.0,0.0
+570000.0,Seat,Leon,1.4 Tsi Stylance,2009.0,230000.0,Düz,Benzin,Hatchback/5,Siyah,1390.0,125.0,Önden Çekiş,6.4,3.0,0.0,1.0,0.0
+587654.0,Ford,Focus,1.6 Tdci Trend X,2010.0,289000.0,Düz,Dizel,Sedan,Gri,1560.0,90.0,Önden Çekiş,4.7,0.0,0.0,0.0,1.0
+1035000.0,Volkswagen,Golf,1.6 Tdi Bluemotion Comfortline,2013.0,220000.0,Yarı Otomatik,Dizel,Hatchback/5,Siyah,1598.0,105.0,Önden Çekiş,3.9,4.0,0.0,0.0,0.0
+280000.0,Opel,Vectra,2.0 Cd,1998.0,325000.0,Düz,Lpg & Benzin,Sedan,Kahverengi,1998.0,136.0,Önden Çekiş,8.7,,,,0.0
+475000.0,Renault,Clio,1.6 Dynamique,2007.0,295000.0,Otomatik,Benzin,Hatchback/5,Gri,1598.0,110.0,Önden Çekiş,7.5,0.0,0.0,0.0,0.0
+130000.0,Tofaş,Şahin,1.6,1992.0,200000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1581.0,88.0,Arkadan İtiş,,,,,0.0
+789999.0,Toyota,Auris,1.6 Elegant,2008.0,228000.0,Yarı Otomatik,Lpg & Benzin,Hatchback/5,Siyah,1598.0,124.0,Önden Çekiş,6.9,5.0,0.0,0.0,0.0
+755000.0,Ford,Focus,1.6 Trend,2009.0,102500.0,Düz,Benzin,Hatchback/5,Füme,1500.5,88.0,Önden Çekiş,,1.0,0.0,0.0,0.0
+3419000.0,Bmw,3 Serisi,320I M Sport,2023.0,109000.0,Otomatik,Benzin,Sedan,Siyah,1500.5,163.0,Arkadan İtiş,,0.0,0.0,0.0,1.0
+1220000.0,Honda,Civic,1.6I Vtec Eco Elegance,2016.0,171000.0,Otomatik,Lpg & Benzin,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,1.0,1.0,0.0,0.0
+1060000.0,Toyota,Corolla,1.6 Advance,2015.0,113000.0,Düz,Benzin,Sedan,Beyaz,1500.5,138.0,Önden Çekiş,,0.0,1.0,2.0,0.0
+1725000.0,Mercedes - Benz,C,C 200 D Bluetec Amg,2016.0,213000.0,Otomatik,Dizel,Sedan,Beyaz,1598.0,136.0,Arkadan İtiş,4.2,1.0,1.0,0.0,0.0
+1525000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Highline,2014.0,234000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+749000.0,Renault,Clio,0.9 Tce Touch,2020.0,119500.0,Düz,Lpg & Benzin,Hatchback/5,Beyaz,898.0,90.0,Önden Çekiş,5.0,0.0,2.0,0.0,0.0
+1350000.0,Bmw,3 Serisi,320D Modern Line,2012.0,305000.0,Otomatik,Dizel,Sedan,Beyaz,1995.0,184.0,Arkadan İtiş,4.4,0.0,1.0,0.0,0.0
+610000.0,Seat,Leon,1.6 Stylance,2008.0,236000.0,Düz,Benzin,Hatchback/5,Siyah,1595.0,102.0,Önden Çekiş,7.6,0.0,3.0,1.0,0.0
+740000.0,Nissan,Micra,1.2 Punch,2012.0,160000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1198.0,80.0,Önden Çekiş,5.4,8.0,0.0,0.0,0.0
+1419000.0,Audi,A3,A3 Sportback 1.6 Tdi Sport Line,2016.0,172500.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1598.0,110.0,Önden Çekiş,3.8,0.0,4.0,0.0,0.0
+909999.0,Dacia,Sandero,1.5 Dci Stepway,2016.0,81000.0,Yarı Otomatik,Dizel,Hatchback/5,Gri,1461.0,90.0,Önden Çekiş,3.8,1.0,1.0,0.0,0.0
+850000.0,Volkswagen,Polo,1.0 Trendline,2017.0,78000.0,Düz,Benzin,Hatchback/5,Beyaz,601.5,63.0,Önden Çekiş,,0.0,2.0,1.0,0.0
+980000.0,Kia,Pro Ceed,1.6 Gdi Gt,2013.0,201000.0,Düz,Benzin,Hatchback/3,Beyaz,1591.0,204.0,Önden Çekiş,7.4,0.0,0.0,0.0,1.0
+850000.0,Opel,Astra,1.6 Cdti Edition Plus,2016.0,215000.0,Otomatik,Benzin,Sedan,Beyaz,1598.0,136.0,Önden Çekiş,5.1,0.0,0.0,1.0,0.0
+750000.0,Renault,Clio,1.5 Dci Joy,2019.0,167950.0,Düz,Dizel,Hatchback/5,Beyaz,1461.0,75.0,Önden Çekiş,3.6,4.0,2.0,0.0,0.0
+625000.0,Ford,Mondeo,2.0 Tdci Trend,2008.0,413000.0,Otomatik,Dizel,Sedan,Füme,1997.0,130.0,Önden Çekiş,7.1,1.0,8.0,1.0,0.0
+465000.0,Peugeot,407,1.6 Hdi Executive,2007.0,299000.0,Düz,Dizel,Sedan,Siyah,1560.0,112.0,Önden Çekiş,5.3,0.0,0.0,0.0,1.0
+745000.0,Fiat,Punto,1.4 Lounge S&S,2013.0,128000.0,Otomatik,Benzin,Hatchback/5,Füme,1300.5,88.0,Önden Çekiş,,,,,0.0
+925000.0,Renault,Clio,1.0 Tce Touch,2023.0,104000.0,Düz,Benzin,Hatchback/5,Beyaz,999.0,90.0,Önden Çekiş,5.0,,,,0.0
+1098000.0,Renault,Megane,1.5 Blue Dci Icon,2019.0,233000.0,Düz,Dizel,Sedan,Beyaz,1500.5,138.0,Önden Çekiş,,,,,0.0
+1599000.0,Mercedes - Benz,A,A 180 D Style,2018.0,108000.0,Otomatik,Dizel,Hatchback/5,Kırmızı,1500.5,113.0,Önden Çekiş,,,,,0.0
+1330000.0,Skoda,Scala,1.0 Tsi Premium,2023.0,80000.0,Otomatik,Benzin,Hatchback/5,Gri,601.5,113.0,Önden Çekiş,,,,,0.0
+1700000.0,Mercedes - Benz,Cla,180 D Comfort,2017.0,130000.0,Otomatik,Dizel,Coupe,Beyaz,1500.5,113.0,Önden Çekiş,,1.0,1.0,0.0,0.0
+1170000.0,Volkswagen,Golf,1.6 Tdi Bluemotion Comfortline,2016.0,277000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1500.5,113.0,Önden Çekiş,,1.0,1.0,0.0,0.0
+995000.0,Volkswagen,Polo,1.4 Tdi Comfortline,2017.0,164000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1422.0,90.0,Önden Çekiş,3.5,0.0,1.0,0.0,0.0
+2690000.0,Skoda,Superb,1.5 Tsi Premium,2025.0,66000.0,Yarı Otomatik,Hibrit,Sedan,Siyah,1498.0,150.0,Önden Çekiş,5.4,2.0,2.0,0.0,0.0
+1000000.0,Toyota,Corolla,1.4 D-4D Advance,2015.0,178000.0,Otomatik,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,2.0,0.0,1.0,0.0
+1650000.0,Mercedes - Benz,C,C 200 D Amg,2015.0,258000.0,Otomatik,Dizel,Sedan,Beyaz,1598.0,136.0,Arkadan İtiş,4.2,0.0,0.0,0.0,1.0
+1365000.0,Hyundai,I20,1.4 Mpi Style Plus,2022.0,53000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1368.0,100.0,Önden Çekiş,6.1,0.0,2.0,0.0,0.0
+810000.0,Dacia,Sandero,1.5 Dci Stepway Style,2018.0,189000.0,Düz,Dizel,Hatchback/5,Kırmızı,1461.0,90.0,Önden Çekiş,4.0,2.0,0.0,0.0,0.0
+1495000.0,Seat,Ibiza,1.0 Ecotsi Style,2025.0,12900.0,Otomatik,Benzin,Hatchback/5,Mavi,1300.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1330000.0,Bmw,3 Serisi,320I Ed Standart,2014.0,243000.0,Otomatik,Benzin,Sedan,Siyah,1598.0,170.0,Arkadan İtiş,5.4,0.0,0.0,0.0,1.0
+1775000.0,Audi,A3,A3 Cabrio 1.4 Tfsi Attraction,2014.0,230500.0,Yarı Otomatik,Benzin,,Kırmızı,1395.0,140.0,Önden Çekiş,5.0,0.0,1.0,0.0,0.0
+1020000.0,Suzuki,Sx4,Glx,2013.0,84000.0,Otomatik,Benzin,Hatchback/5,Gri,1586.0,122.0,Önden Çekiş,6.7,0.0,0.0,0.0,1.0
+270000.0,Renault,Laguna,2.0 Rxt,1999.0,345000.0,Düz,Lpg & Benzin,Hatchback/5,Lacivert,1900.5,138.0,Önden Çekiş,,1.0,1.0,0.0,0.0
+905000.0,Volkswagen,Golf,1.4 Tsi Comfortline,2012.0,202000.0,Düz,Benzin,Hatchback/5,Beyaz,1300.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+895000.0,Renault,Megane,1.5 Dci Touch,2019.0,222000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,6.0,0.0,0.0,0.0
+610000.0,Ford,Focus,1.6 Comfort,2004.0,151000.0,Düz,Lpg & Benzin,Sedan,Gri,1596.0,100.0,Önden Çekiş,6.8,0.0,3.0,1.0,0.0
+909000.0,Honda,Civic,1.6I Vtec Elegance,2009.0,230000.0,Otomatik,Benzin,Sedan,Siyah,1595.0,125.0,Önden Çekiş,7.1,2.0,0.0,1.0,0.0
+429000.0,Hyundai,Getz,1.3 Gl,2005.0,272000.0,Düz,Benzin,Hatchback/5,Siyah,1300.5,88.0,Önden Çekiş,,0.0,4.0,0.0,0.0
+1125000.0,Skoda,Fabia,1.0 Greentec Style,2019.0,118000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,999.0,110.0,Önden Çekiş,4.6,0.0,0.0,0.0,1.0
+1169000.0,Volkswagen,Golf,1.6 Tdi Bluemotion Highline,2012.0,175000.0,Yarı Otomatik,Dizel,Hatchback/5,Mavi,1598.0,105.0,Önden Çekiş,3.9,2.0,1.0,0.0,0.0
+740000.0,Renault,Fluence,1.5 Dci Touch,2014.0,192000.0,Düz,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,6.0,0.0,0.0,0.0
+1525000.0,Renault,Megane,1.3 Tce Touch,2023.0,57000.0,Yarı Otomatik,Benzin,Sedan,Kırmızı,1332.0,140.0,Önden Çekiş,5.3,0.0,0.0,0.0,1.0
+495000.0,Mazda,3,1.6 Dynamic,2006.0,255000.0,Düz,Lpg & Benzin,Sedan,Şampanya,1598.0,105.0,Önden Çekiş,7.2,0.0,0.0,0.0,1.0
+1355000.0,Opel,Astra,1.2 T Edition,2023.0,110000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1199.0,132.0,Önden Çekiş,5.4,0.0,0.0,0.0,1.0
+959500.0,Hyundai,I10,1.2 D-Cvvt Elite,2015.0,63000.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1248.0,87.0,Önden Çekiş,5.9,0.0,2.0,0.0,0.0
+1459000.0,Mercedes - Benz,C,C 180 Kompressor Blueefficiency Amg,2011.0,165000.0,Otomatik,Lpg & Benzin,Sedan,Beyaz,1500.5,163.0,Arkadan İtiş,,2.0,3.0,0.0,0.0
+1340000.0,Hyundai,I20,1.4 Mpi Elite,2020.0,82000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1300.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+825000.0,Fiat,Egea,1.3 Multijet Urban Plus,2019.0,186000.0,Düz,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,2.0,2.0,0.0,0.0
+855000.0,Hyundai,Accent Blue,1.6 Crdi Mode,2015.0,218000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,138.0,Önden Çekiş,,3.0,0.0,0.0,0.0
+599000.0,Citroen,C4,1.6 Hdi Attraction,2012.0,218000.0,Düz,Dizel,Hatchback/5,Beyaz,1560.0,93.0,Önden Çekiş,4.2,5.0,2.0,0.0,0.0
+1620000.0,Toyota,Corolla,1.5 Dream X-Pack,2023.0,88000.0,Otomatik,Benzin,Sedan,Mavi,1490.0,125.0,Önden Çekiş,6.3,0.0,0.0,0.0,1.0
+1085000.0,Skoda,Octavia,1.6 Tdi Style Cr,2015.0,215000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1598.0,110.0,Önden Çekiş,3.7,3.0,0.0,0.0,0.0
+9140000.0,Mercedes - Benz,E,220 D Amg,2024.0,6001.0,Otomatik,Benzin,Sedan,Siyah,1993.0,197.0,4Wd (Sürekli),5.0,0.0,0.0,0.0,1.0
+455000.0,Mercedes - Benz,E,200,1994.0,405000.0,Düz,Lpg & Benzin,Sedan,Kırmızı,1997.0,136.0,Arkadan İtiş,,0.0,0.0,0.0,1.0
+1765000.0,Mini,Cooper,1.5 Signature,2023.0,37000.0,Otomatik,Benzin,Hatchback/3,Yeşil,1499.0,136.0,Önden Çekiş,5.6,0.0,0.0,2.0,0.0
+799900.0,Peugeot,301,1.6 Hdi Active,2017.0,129500.0,Düz,Dizel,Sedan,Gri,1500.5,88.0,Önden Çekiş,,,,,0.0
+399000.0,Renault,Megane,1.5 Dci Expression,2007.0,235000.0,Düz,Dizel,Sedan,Siyah,1500.5,88.0,Önden Çekiş,,9.0,0.0,1.0,0.0
+670000.0,Peugeot,301,1.6 Hdi Active,2016.0,198000.0,Düz,Dizel,Sedan,Beyaz,1560.0,93.0,Önden Çekiş,4.3,1.0,0.0,0.0,0.0
+1265000.0,Toyota,Corolla,1.8 Hybrid Dream,2021.0,166000.0,Otomatik,Hibrit,Sedan,Beyaz,1798.0,98.0,Önden Çekiş,3.5,0.0,0.0,1.0,0.0
+265000.0,Dacia,Logan,1.5 Dci Ambiance,2009.0,300000.0,Düz,Dizel,Sedan,Gri,1500.5,63.0,Önden Çekiş,,0.0,0.0,0.0,0.0
+1469000.0,Renault,Megane,1.3 Tce Icon,2020.0,93000.0,Otomatik,Benzin,Sedan,Gri,1300.5,138.0,Önden Çekiş,,,,,0.0
+1225000.0,Volkswagen,Golf,1.6 Tdi Bluemotion Highline,2014.0,245000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,1.0,0.0,0.0
+2475000.0,Tesla,Model Y,Performance (Legacy),2023.0,94000.0,Otomatik,Elektrik,Hatchback/5,Gri,,538.0,4Wd (Sürekli),,,,,0.0
+395000.0,Opel,Astra,1.6 Essentia,2008.0,322000.0,Otomatik,Lpg & Benzin,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,2.0,2.0,0.0,0.0
+445000.0,Ford,Fusion,1.6 Tdci Lux,2007.0,320000.0,Düz,Dizel,Hatchback/5,Füme,1560.0,90.0,Önden Çekiş,4.5,12.0,0.0,0.0,0.0
+1230000.0,Audi,A3,A3 Sportback 1.6 Tdi Attraction,2016.0,183000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598.0,110.0,Önden Çekiş,3.9,0.0,1.0,0.0,0.0
+1495000.0,Toyota,Corolla,1.5 Flame,2022.0,98000.0,Otomatik,Benzin,Sedan,Mavi,1490.0,125.0,Önden Çekiş,5.8,,,,0.0
+1650000.0,Toyota,Corolla,1.5 Flame X-Pack,2023.0,38500.0,Otomatik,Benzin,Sedan,Siyah,1490.0,125.0,Önden Çekiş,6.3,1.0,0.0,0.0,0.0
+939500.0,Fiat,Egea,1.3 Multijet Easy,2023.0,115900.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,2.0,0.0,0.0,0.0
+817500.0,Peugeot,301,1.6 Hdi Active,2017.0,91000.0,Düz,Dizel,Sedan,Gri,1500.5,88.0,Önden Çekiş,,1.0,1.0,0.0,0.0
+1330000.0,Honda,Civic,1.6I Vtec Eco Elegance,2012.0,106000.0,Otomatik,Lpg & Benzin,Sedan,Gri,1595.0,125.0,Önden Çekiş,6.7,3.0,0.0,0.0,0.0
+1439000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Impression,2017.0,125000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598.0,120.0,Önden Çekiş,4.0,1.0,1.0,1.0,0.0
+1120000.0,Volvo,S60,1.6 D Premium,2014.0,214000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,4.0,0.0,0.0,0.0
+825000.0,Skoda,Fabia,1.0 Greentec Style,2017.0,228000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,999.0,110.0,Önden Çekiş,4.6,4.0,0.0,2.0,0.0
+249750.0,Kia,Rio,1.5 Comfort,2003.0,432100.0,Düz,Lpg & Benzin,Hatchback/5,Gri,1493.0,97.0,Önden Çekiş,7.1,0.0,0.0,0.0,1.0
+755000.0,Ford,Focus,1.6 Tdci Trend X,2010.0,174000.0,Düz,Dizel,Sedan,Gri,1500.5,88.0,Önden Çekiş,,0.0,3.0,0.0,0.0
+1399000.0,Hyundai,I20,1.0 T-Gdi Style,2025.0,35000.0,Yarı Otomatik,Benzin,Hatchback/5,Sarı,998.0,100.0,Önden Çekiş,6.1,0.0,0.0,0.0,1.0
+585000.0,Fiat,Linea,1.4 Fire Actual,2013.0,168400.0,Düz,Lpg & Benzin,Sedan,Beyaz,1368.0,77.0,Önden Çekiş,6.3,0.0,0.0,0.0,1.0
+750000.0,Seat,Leon,1.2 Tsi Style,2011.0,140000.0,Düz,Benzin,Hatchback/5,Beyaz,1197.0,105.0,Önden Çekiş,5.4,4.0,0.0,0.0,0.0
+1575000.0,Renault,Megane,1.3 Tce Touch,2025.0,40000.0,Yarı Otomatik,Benzin,Sedan,Gri,1332.0,140.0,Önden Çekiş,5.3,0.0,0.0,0.0,1.0
+221500.0,Ford,Fiesta,1.25 Flair,2000.0,352000.0,Düz,Lpg & Benzin,Hatchback/5,Bordo,1753.0,60.0,Önden Çekiş,6.1,3.0,3.0,0.0,0.0
+820000.0,Ds Automobiles,Ds4,1.6 E-Hdi D-Sport,2012.0,219000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1560.0,114.0,Önden Çekiş,4.4,4.0,0.0,1.0,0.0
+1645000.0,Volkswagen,Passat,1.4 Tsi Bluemotion Highline,2016.0,172000.0,Otomatik,Benzin,Sedan,Beyaz,1300.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+740000.0,Volkswagen,Polo,1.2 Tsi Comfortline,2015.0,175000.0,Düz,Benzin,Hatchback/5,Mavi,1197.0,90.0,Önden Çekiş,4.7,5.0,0.0,1.0,0.0
+735000.0,Fiat,Egea,1.6 Multijet Comfort,2017.0,255000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598.0,120.0,Önden Çekiş,3.9,1.0,2.0,0.0,0.0
+405000.0,Fiat,Albea,Sole 1.4 Fire Active,2007.0,150000.0,Düz,Lpg & Benzin,Sedan,Gri,1368.0,77.0,Önden Çekiş,6.2,0.0,0.0,0.0,1.0
+530000.0,Renault,Symbol,1.4 Authentique,2009.0,192000.0,Düz,Lpg & Benzin,Sedan,Gri,1390.0,75.0,Önden Çekiş,7.1,1.0,1.0,0.0,0.0
+459500.0,Dacia,Sandero,1.5 Dci Stepway,2014.0,310000.0,Düz,Dizel,Hatchback/5,Kırmızı,1461.0,90.0,Önden Çekiş,4.0,9.0,0.0,1.0,0.0
+925000.0,Renault,Clio,1.0 Tce Joy,2021.0,168000.0,Otomatik,Benzin,Hatchback/5,Beyaz,999.0,90.0,Önden Çekiş,5.0,2.0,0.0,2.0,0.0
+510000.0,Fiat,Egea,1.3 Multijet Easy,2017.0,253949.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,4.0,1.0,0.0,0.0
+650000.0,Renault,Clio,1.5 Dci Joy,2016.0,223000.0,Düz,Dizel,Hatchback/5,Beyaz,1500.5,63.0,Önden Çekiş,,0.0,2.0,0.0,0.0
+599999.0,Renault,Clio,1.5 Dci Touch,2017.0,318000.0,Düz,Dizel,Hatchback/5,Beyaz,1461.0,90.0,Önden Çekiş,3.6,0.0,0.0,0.0,1.0
+850000.0,Skoda,Octavia,1.6 Tdi Ambiente,2012.0,208000.0,Düz,Dizel,Hatchback/5,Beyaz,1598.0,105.0,Önden Çekiş,4.5,0.0,3.0,1.0,0.0
+249000.0,Fiat,Palio,1.4 El,2000.0,270000.0,Düz,Lpg & Benzin,Hatchback/5,Beyaz,1368.0,77.0,Önden Çekiş,6.1,5.0,1.0,1.0,0.0
+585000.0,Ford,Focus,1.6 Tdci Trend X,2013.0,300000.0,Düz,Dizel,Sedan,Beyaz,1560.0,95.0,Önden Çekiş,4.2,5.0,1.0,4.0,0.0
+1050000.0,Nissan,Micra,1.2 Match,2015.0,39000.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1198.0,80.0,Önden Çekiş,5.4,,,,0.0
+540000.0,Renault,Scenic,1.5 Dci Expression,2011.0,319000.0,Düz,Dizel,Mpv,Beyaz,1500.5,113.0,Önden Çekiş,,3.0,0.0,0.0,0.0
+975000.0,Bmw,5 Serisi,530I Standart,2004.0,252000.0,Düz,Benzin,Sedan,Gri,2750.5,238.0,Arkadan İtiş,,7.0,0.0,0.0,0.0
+125000.0,Tofaş,Doğan,L,1992.0,250000.0,Düz,Lpg & Benzin,Sedan,Altın,1581.0,83.0,Arkadan İtiş,6.5,0.0,0.0,0.0,0.0
+999999.0,Hyundai,I20,1.4 Mpi Style,2016.0,121267.0,Otomatik,Benzin,Hatchback/5,Beyaz,1368.0,100.0,Önden Çekiş,6.4,3.0,0.0,2.0,0.0
+1475000.0,Skoda,Superb,1.6 Tdi Prestige,2016.0,228000.0,Otomatik,Dizel,Sedan,Siyah,1500.5,113.0,Önden Çekiş,,0.0,1.0,0.0,0.0
+890000.0,Fiat,Egea,1.3 Multijet Easy,2023.0,62000.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,0.0,0.0,1.0,0.0
+1478500.0,Bmw,5 Serisi,520I Premium,2016.0,239000.0,Otomatik,Benzin,Sedan,Siyah,1592.0,170.0,Arkadan İtiş,6.7,4.0,1.0,0.0,0.0
+1535000.0,Renault,Megane,1.3 Tce Touch,2023.0,35000.0,Otomatik,Benzin,Sedan,Gri,1300.5,138.0,Önden Çekiş,,1.0,0.0,0.0,0.0
+748750.0,Renault,Clio,1.2 Sporttourer Joy,2016.0,83000.0,Düz,Benzin,Station Wagon,Beyaz,601.5,63.0,Önden Çekiş,,0.0,0.0,1.0,0.0
+665000.0,Peugeot,308,1.6 Vti Millesim,2010.0,104000.0,Otomatik,Lpg & Benzin,Hatchback/5,Gri,1598.0,122.0,Önden Çekiş,7.3,3.0,1.0,1.0,0.0
+629900.0,Opel,Astra,1.6 Enjoy Plus,2013.0,204500.0,Düz,Lpg & Benzin,Sedan,Siyah,1598.0,115.0,Önden Çekiş,6.8,2.0,0.0,0.0,0.0
+360000.0,Opel,Astra,1.6 Cd,2000.0,262000.0,Düz,Lpg & Benzin,Sedan,Mavi,1598.0,100.0,Önden Çekiş,7.4,0.0,0.0,1.0,0.0
+715000.0,Skoda,Rapid,1.4 Tdi Style,2016.0,271000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,88.0,Önden Çekiş,,1.0,0.0,0.0,0.0
+1550000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Impression,2018.0,157000.0,Yarı Otomatik,Dizel,Sedan,Mavi,1598.0,120.0,Önden Çekiş,4.0,1.0,1.0,0.0,0.0
+1815000.0,Toyota,Corolla,1.5 Flame X-Pack,2025.0,34250.0,Otomatik,Benzin,Sedan,Gri,1500.5,113.0,Önden Çekiş,,1.0,0.0,0.0,0.0
+1430000.0,Hyundai,I20,1.4 Mpi Style,2023.0,30000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1300.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+139000.0,Fiat,Siena,1.4 El,1999.0,260000.0,Düz,Lpg & Benzin,Sedan,Gri,1372.0,71.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+2470000.0,Audi,A5,A5 Coupe 1.4 Tfsi Sport,2018.0,159000.0,Yarı Otomatik,Benzin,Coupe,Mavi,1395.0,150.0,Önden Çekiş,5.3,0.0,0.0,0.0,1.0
+785750.0,Citroen,C-Elysée,1.5 Bluehdi Feel Bold,2022.0,71800.0,Düz,Dizel,Sedan,Beyaz,1499.0,100.0,Önden Çekiş,3.9,1.0,0.0,2.0,0.0
+847500.0,Seat,Leon,1.6 Tdi Cr Style,2015.0,265000.0,Düz,Dizel,Hatchback/5,Mavi,1598.0,105.0,Önden Çekiş,3.8,0.0,2.0,1.0,0.0
+1275000.0,Toyota,Corolla,1.5 Dream,2022.0,130000.0,Otomatik,Benzin,Sedan,Beyaz,1490.0,125.0,Önden Çekiş,5.8,3.0,0.0,0.0,0.0
+900000.0,Toyota,Corolla,1.4 D-4D Touch,2013.0,168000.0,Düz,Dizel,Sedan,Beyaz,1364.0,90.0,Önden Çekiş,4.1,2.0,0.0,1.0,0.0
+629900.0,Toyota,Corolla,1.4 D-4D Terra,2007.0,214000.0,Düz,Dizel,Sedan,Gri,1300.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+1215000.0,Toyota,Corolla,1.4 D-4D Premium 50.Yıl,2017.0,156200.0,Düz,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,1.0,0.0,0.0,0.0
+875000.0,Ford,Mondeo,1.5 Ecoboost Style,2015.0,298000.0,Otomatik,Benzin,Sedan,Gri,1498.0,160.0,Önden Çekiş,6.3,0.0,2.0,0.0,0.0
+1240000.0,Ford,Focus,1.6 Ti-Vct Trend X,2017.0,90100.0,Yarı Otomatik,Benzin,Hatchback/5,Gri,1596.0,125.0,Önden Çekiş,6.3,0.0,0.0,0.0,1.0
+1829000.0,Opel,Astra,1.2 T Gs,2025.0,8450.0,Otomatik,Benzin,Hatchback/5,Siyah,1199.0,132.0,Önden Çekiş,5.4,1.0,0.0,0.0,0.0
+1080000.0,Volkswagen,Golf,1.2 Tsi Comfortline,2014.0,163000.0,Düz,Benzin,Hatchback/5,Gri,1197.0,105.0,Önden Çekiş,4.9,0.0,0.0,1.0,0.0
+820000.0,Renault,Fluence,1.5 Dci Touch Plus,2014.0,170000.0,Düz,Dizel,Sedan,Siyah,1461.0,90.0,Önden Çekiş,4.5,0.0,0.0,0.0,1.0
+310000.0,Honda,Civic,1.4 I S,1998.0,352000.0,Düz,Lpg & Benzin,Hatchback/5,Mavi,1396.0,90.0,Önden Çekiş,7.7,10.0,0.0,1.0,0.0
+820000.0,Ford,Focus,1.6 Tdci Collection,2011.0,181000.0,Düz,Dizel,Sedan,Gri,1500.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+889000.0,Renault,Clio,1.0 Tce Joy,2021.0,161000.0,Otomatik,Benzin,Hatchback/5,Beyaz,601.5,88.0,Önden Çekiş,,2.0,2.0,1.0,0.0
+1885000.0,Skoda,Superb,1.5 Tsi Prestige,2021.0,152000.0,Yarı Otomatik,Benzin,Sedan,Füme,1498.0,150.0,Önden Çekiş,5.4,0.0,0.0,2.0,0.0
+835900.0,Seat,Altea,1.6 Tdi I-Tech Xl,2014.0,198500.0,Yarı Otomatik,Dizel,Mpv,Beyaz,1598.0,105.0,Önden Çekiş,4.9,1.0,0.0,0.0,0.0
+1580000.0,Mercedes - Benz,E,180 Elite,2014.0,202000.0,Otomatik,Benzin,Sedan,Beyaz,1595.0,156.0,Arkadan İtiş,6.6,4.0,0.0,1.0,0.0
+565000.0,Fiat,Linea,1.3 Multijet Actual Plus,2013.0,191000.0,Düz,Dizel,Sedan,Beyaz,1300.5,88.0,Önden Çekiş,,1.0,1.0,0.0,0.0
+471000.0,Volvo,S40,1.6 D Dynamic,2009.0,250000.0,Düz,Dizel,Sedan,Gri,1560.0,109.0,Önden Çekiş,4.9,6.0,1.0,1.0,0.0
+790000.0,Alfa Romeo,Giulietta,1.4 Tb Multiair Distinctive,2012.0,240000.0,Otomatik,Benzin,Hatchback/5,Siyah,1368.0,170.0,Önden Çekiş,5.8,10.0,0.0,0.0,0.0
+699000.0,Opel,Corsa,1.2 Essentia,2015.0,160000.0,Düz,Lpg & Benzin,Hatchback/5,Siyah,1229.0,70.0,Önden Çekiş,5.4,,,,0.0
+1735000.0,Bmw,3 Serisi,320I Ed 40Th Year Edition,2015.0,248000.0,Otomatik,Benzin,Sedan,Beyaz,1500.5,163.0,Arkadan İtiş,,,,,0.0
+1350000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Trendline,2016.0,233000.0,Yarı Otomatik,Dizel,Sedan,Gri (Gümüş),1598.0,120.0,Önden Çekiş,4.0,,,,0.0
+1100000.0,Citroen,C3,1.2 Puretech Feel Bold,2021.0,65000.0,Otomatik,Benzin,Hatchback/5,Mavi,1199.0,112.0,Önden Çekiş,4.8,,,,0.0
+1989000.0,Bmw,5 Serisi,520I Executive Plus,2016.0,160000.0,Otomatik,Benzin,Sedan,Beyaz,1592.0,170.0,Arkadan İtiş,6.7,1.0,1.0,0.0,0.0
+1480000.0,Bmw,3 Serisi,320I Ed M Plus,2013.0,169000.0,Otomatik,Benzin,Sedan,Beyaz,1598.0,170.0,Arkadan İtiş,5.3,2.0,1.0,1.0,0.0
+2929900.0,Tesla,Model Y,Performance (Legacy),2023.0,33000.0,Otomatik,Elektrik,Suv,Gri,,534.0,4Wd (Sürekli),,0.0,0.0,0.0,1.0
+927500.0,Renault,Clio,1.5 Dci Joy,2018.0,96000.0,Düz,Dizel,Hatchback/5,Beyaz,1461.0,75.0,Önden Çekiş,3.6,0.0,0.0,0.0,1.0
+360000.0,Hyundai,Accent Era,1.6 Style,2006.0,430000.0,Düz,Lpg & Benzin,Sedan,Mavi,1599.0,112.0,Önden Çekiş,6.5,0.0,0.0,0.0,0.0
+565000.0,Volkswagen,Polo,1.4 Comfortline,2010.0,226000.0,Düz,Benzin,Hatchback/5,Siyah,1300.5,88.0,Önden Çekiş,,2.0,0.0,3.0,0.0
+2025000.0,Volkswagen,Golf,1.0 Etsi R Line,2022.0,85000.0,Yarı Otomatik,Hibrit,Hatchback/5,Siyah,999.0,110.0,Önden Çekiş,4.9,0.0,0.0,0.0,1.0
+1180000.0,Volkswagen,Golf,1.2 Tsi Comfortline,2016.0,130000.0,Düz,Benzin,Hatchback/5,Mavi,601.5,113.0,Önden Çekiş,,0.0,1.0,0.0,0.0
+570000.0,Renault,Scenic,1.6 Privilege,2006.0,151000.0,Otomatik,Lpg & Benzin,Mpv,Kırmızı,1500.5,113.0,Önden Çekiş,,4.0,0.0,0.0,0.0
+739000.0,Renault,Megane,1.5 Dci Touch Plus,2015.0,194000.0,Düz,Dizel,Hatchback/5,Beyaz,1461.0,90.0,Önden Çekiş,4.4,2.0,0.0,0.0,0.0
+935000.0,Hyundai,Accent Blue,1.6 Crdi Mode Plus,2016.0,148000.0,Düz,Dizel,Sedan,Gri,1582.0,136.0,Önden Çekiş,4.5,0.0,1.0,0.0,0.0
+618000.0,Citroen,C4,1.4 Vti Attraction,2011.0,150000.0,Düz,Benzin,Hatchback/5,Beyaz,1397.0,96.0,Önden Çekiş,6.1,0.0,0.0,0.0,1.0
+949000.0,Fiat,Egea,1.3 Multijet Urban,2023.0,138000.0,Düz,Dizel,Sedan,Gri,1248.0,95.0,Önden Çekiş,4.1,1.0,2.0,0.0,0.0
+410000.0,Kia,Picanto,1.1 Ex,2005.0,195000.0,Otomatik,Lpg & Benzin,Hatchback/5,Turuncu,1086.0,65.0,Önden Çekiş,5.8,,,,0.0
+1275000.0,Skoda,Scala,1.6 Tdi Premium,2020.0,103000.0,Otomatik,Dizel,Hatchback/5,Gri,1500.5,113.0,Önden Çekiş,,2.0,2.0,0.0,0.0
+1215000.0,Seat,Ibiza,1.0 Ecotsi Style,2018.0,153000.0,Otomatik,Benzin,Hatchback/5,Gri,601.5,113.0,Önden Çekiş,,0.0,1.0,0.0,0.0
+695000.0,Bmw,3 Serisi,316I Standart,2006.0,330000.0,Düz,Lpg & Benzin,Sedan,Gri,1796.0,116.0,Arkadan İtiş,7.1,3.0,2.0,0.0,0.0
+1395000.0,Honda,Civic,1.6I Vtec Eco Executive,2017.0,230000.0,Otomatik,Lpg & Benzin,Sedan,Beyaz,1597.0,125.0,Önden Çekiş,6.7,4.0,2.0,0.0,0.0
+315000.0,Renault,R 19,1.6 Europa Rne,1998.0,342000.0,Düz,Lpg & Benzin,Sedan,Beyaz,1598.0,90.0,Önden Çekiş,,,,,0.0
+1265000.0,Seat,Ibiza,1.0 Ecotsi Style,2021.0,42000.0,Otomatik,Benzin,Hatchback/5,Beyaz,601.5,113.0,Önden Çekiş,,0.0,2.0,0.0,0.0
+1315000.0,Renault,Megane,1.3 Tce Joy,2024.0,99000.0,Yarı Otomatik,Benzin,Sedan,Gri,1332.0,140.0,Önden Çekiş,5.3,3.0,0.0,0.0,0.0
+365000.0,Hyundai,Accent,1.5 Crdi Admire,2006.0,284000.0,Düz,Dizel,Sedan,Beyaz,1493.0,82.0,Önden Çekiş,5.5,0.0,0.0,0.0,1.0
+1130000.0,Volkswagen,Polo,1.2 Tsi Comfortline,2015.0,116000.0,Yarı Otomatik,Benzin,Hatchback/5,Siyah,1197.0,90.0,Önden Çekiş,4.7,0.0,0.0,0.0,1.0
+905000.0,Volkswagen,Polo,1.0 Trendline,2015.0,52000.0,Düz,Benzin,Hatchback/5,Kırmızı,999.0,75.0,Önden Çekiş,5.1,1.0,1.0,0.0,0.0
+1662500.0,Bmw,3 Serisi,320I Ed Sport Line,2015.0,153200.0,Otomatik,Benzin,Sedan,Beyaz,1500.5,163.0,Arkadan İtiş,,3.0,0.0,0.0,0.0
+2219000.0,Bmw,5 Serisi,520I Executive,2016.0,123000.0,Otomatik,Benzin,Sedan,Füme,1592.0,170.0,Arkadan İtiş,6.7,0.0,0.0,0.0,1.0
+1185000.0,Renault,Megane,1.2 Tce Icon,2017.0,127000.0,Yarı Otomatik,Benzin,Hatchback/5,Kahverengi,1198.0,130.0,Önden Çekiş,5.4,1.0,0.0,0.0,0.0
+4625000.0,Mercedes - Benz,E,200 D Exclusive,2023.0,73000.0,Otomatik,Dizel,Sedan,Gri,1597.0,160.0,Arkadan İtiş,4.7,0.0,0.0,0.0,1.0
+472000.0,Renault,Megane,1.5 Dci Dynamique,2005.0,274000.0,Düz,Dizel,Hatchback/3,Gri,1461.0,106.0,Önden Çekiş,4.5,2.0,0.0,1.0,0.0
+575000.0,Volkswagen,Jetta,1.9 Tdi Midline,2007.0,344000.0,Yarı Otomatik,Dizel,Sedan,Füme,1896.0,105.0,Önden Çekiş,5.9,3.0,0.0,1.0,0.0
+1790000.0,Mercedes - Benz,E,250 Cgi Premium,2012.0,270000.0,Otomatik,Benzin,Sedan,Beyaz,1796.0,204.0,Arkadan İtiş,7.6,0.0,0.0,1.0,0.0
+6395000.0,Bmw,5 Serisi,520I Edition M Sport,2025.0,26348.0,Otomatik,Hibrit,Sedan,Siyah,1597.0,190.0,Arkadan İtiş,5.7,0.0,0.0,0.0,1.0
+2175000.0,Toyota,Corolla,1.8 Hybrid Flame X-Pack,2025.0,35000.0,Otomatik,Hibrit,Sedan,Mavi,1798.0,98.0,Önden Çekiş,4.7,,,,0.0
+1419900.0,Renault,Megane,1.3 Tce Joy,2022.0,74000.0,Otomatik,Benzin,Sedan,Beyaz,1300.5,138.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+2675000.0,Mercedes - Benz,E,220 D Avantgarde,2016.0,257000.0,Otomatik,Dizel,Sedan,Gri,1950.0,194.0,Arkadan İtiş,4.3,0.0,0.0,1.0,0.0
+1725000.0,Mercedes - Benz,C,C 200 D Amg,2016.0,185000.0,Otomatik,Dizel,Sedan,Beyaz,1598.0,136.0,Arkadan İtiş,4.2,0.0,1.0,0.0,0.0
+1039000.0,Honda,Civic,1.6I Vtec Eco Elegance,2012.0,147000.0,Düz,Lpg & Benzin,Sedan,Gri,1595.0,125.0,Önden Çekiş,6.7,1.0,1.0,0.0,0.0
+435000.0,Hyundai,Accent,1.6 Admire,2005.0,194000.0,Düz,Lpg & Benzin,Sedan,Gri,1599.0,112.0,Önden Çekiş,8.0,0.0,0.0,0.0,1.0
+1867500.0,Ford,Focus,1.5 Ecoblue Titanium X,2025.0,44000.0,Otomatik,Dizel,Hatchback/5,Gri,1500.0,115.0,Önden Çekiş,4.3,0.0,1.0,0.0,0.0
+1305000.0,Bmw,5 Serisi,525D Xdrive Premium,2013.0,295000.0,Otomatik,Dizel,Station Wagon,Siyah,1995.0,218.0,4Wd (Sürekli),5.4,0.0,2.0,2.0,0.0
+1445000.0,Audi,A3,A3 Sedan 1.6 Tdi Ambiente,2015.0,158000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,2.0,1.0,0.0,0.0
+675000.0,Renault,Clio,1.5 Dci Joy,2012.0,190000.0,Düz,Dizel,Hatchback/5,Beyaz,1461.0,75.0,Önden Çekiş,3.6,0.0,1.0,1.0,0.0
+1430000.0,Skoda,Superb,1.5 Tsi Elite,2019.0,270000.0,Yarı Otomatik,Benzin,Sedan,Gri,1498.0,150.0,Önden Çekiş,5.4,11.0,0.0,0.0,0.0
+525000.0,Mercedes - Benz,200,E,1993.0,380700.0,Düz,Lpg & Benzin,Sedan,Bordo,1997.0,136.0,Arkadan İtiş,10.0,11.0,0.0,0.0,0.0
+430000.0,Ford,Mondeo,2.0 Ghia,2004.0,221000.0,Otomatik,Benzin,Sedan,Gri,1900.5,138.0,Önden Çekiş,,9.0,0.0,1.0,0.0
+1445000.0,Jaguar,Xe,2.0 Prestige,2015.0,260000.0,Otomatik,Dizel,Sedan,Siyah,1900.5,188.0,Arkadan İtiş,,1.0,1.0,0.0,0.0
+695000.0,Renault,Fluence,1.5 Dci Extreme Edition,2012.0,206000.0,Düz,Dizel,Sedan,Gri,1461.0,90.0,Önden Çekiş,4.4,2.0,1.0,0.0,0.0
+1450000.0,Renault,Clio,1.0 Tce Techno Esprit Alpine,2024.0,26000.0,Otomatik,Benzin,Hatchback/5,Beyaz,999.0,90.0,Önden Çekiş,6.0,0.0,0.0,0.0,1.0
+980000.0,Hyundai,I20,1.2 Mpi Elite,2015.0,105000.0,Düz,Benzin,Hatchback/5,Beyaz,1248.0,84.0,Önden Çekiş,5.0,0.0,0.0,0.0,1.0
+1725000.0,Mercedes - Benz,E,250 Cdi Premium,2011.0,436436.0,Otomatik,Dizel,Sedan,Siyah,2143.0,204.0,4Wd (Sürekli),6.2,1.0,0.0,0.0,0.0
+1224500.0,Skoda,Octavia,1.6 Tdi Optimal,2018.0,196000.0,Yarı Otomatik,Benzin,Hatchback/5,Mavi,1598.0,110.0,Önden Çekiş,3.7,0.0,0.0,0.0,1.0
+735000.0,Opel,Astra,1.3 Cdti Enjoy,2012.0,240000.0,Düz,Dizel,Hatchback/5,Siyah,1248.0,90.0,Önden Çekiş,4.8,0.0,0.0,0.0,1.0
+1700000.0,Renault,Megane,1.3 Tce Touch,2025.0,8000.0,Yarı Otomatik,Benzin,Sedan,Gri (Titanyum),1332.0,140.0,Önden Çekiş,5.3,0.0,0.0,0.0,1.0
+2725000.0,Mercedes - Benz,C,C 200 D Amg,2021.0,67000.0,Otomatik,Dizel,Sedan,Siyah,1598.0,160.0,Arkadan İtiş,4.2,5.0,0.0,1.0,0.0
+515000.0,Peugeot,207,1.6 Hdi Outdoor,2009.0,238000.0,Düz,Dizel,Station Wagon,Füme,1560.0,91.0,Önden Çekiş,4.7,6.0,0.0,0.0,0.0
+939000.0,Honda,Civic,1.6I Vtec Elegance,2011.0,161200.0,Otomatik,Benzin,Sedan,Siyah,1595.0,125.0,Önden Çekiş,7.1,1.0,0.0,1.0,0.0
+655000.0,Opel,Corsa,1.3 Cdti Enjoy,2011.0,156000.0,Düz,Dizel,Hatchback/3,Gri (Gümüş),1248.0,95.0,Önden Çekiş,3.5,3.0,0.0,0.0,0.0
+1399500.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2014.0,186980.0,Otomatik,Dizel,Sedan,Mavi,1500.5,113.0,Önden Çekiş,,1.0,0.0,0.0,0.0
+1200000.0,Volkswagen,Golf,1.6 Tdi Bluemotion Highline,2014.0,251000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598.0,105.0,Önden Çekiş,3.9,4.0,0.0,0.0,0.0
+1119000.0,Renault,Clio,1.0 Tce Icon,2021.0,134000.0,Otomatik,Benzin,Hatchback/5,Beyaz,999.0,100.0,Önden Çekiş,5.0,0.0,3.0,0.0,0.0
+1120000.0,Toyota,Corolla,1.4 D-4D Advance,2013.0,163000.0,Otomatik,Dizel,Sedan,Beyaz,1364.0,90.0,Önden Çekiş,4.1,2.0,1.0,0.0,0.0
+268000.0,Renault,Megane,1.6 Rte,1999.0,275000.0,Düz,Lpg & Benzin,Sedan,Yeşil,1500.5,113.0,Önden Çekiş,,11.0,0.0,0.0,0.0
+695000.0,Peugeot,207,1.4 Hdi Trendy,2007.0,49500.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1398.0,71.0,Önden Çekiş,4.5,0.0,0.0,0.0,1.0
+750000.0,Fiat,Egea,1.3 Multijet Easy Plus,2018.0,194000.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.1,2.0,1.0,0.0,0.0
+1430000.0,Renault,Clio,1.0 Tce Techno Esprit Alpine,2024.0,29000.0,Otomatik,Benzin,Hatchback/5,Beyaz,999.0,90.0,Önden Çekiş,6.0,0.0,0.0,0.0,1.0
+1675000.0,Seat,Leon,1.4 Ecotsi Fr,2017.0,89000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1300.5,138.0,Önden Çekiş,,0.0,1.0,0.0,0.0
+520000.0,Renault,Symbol,1.5 Dci Joy,2015.0,243500.0,Düz,Dizel,Sedan,Beyaz,1461.0,90.0,Önden Çekiş,3.9,1.0,2.0,1.0,0.0
+375000.0,Opel,Astra,1.4 Classic,2009.0,356000.0,Düz,Lpg & Benzin,Hatchback/5,Mavi (Metalik),1364.0,90.0,Önden Çekiş,7.2,,,,0.0
+1140000.0,Ford,Focus,1.5 Ti-Vct Trend X,2020.0,122000.0,Düz,Benzin,Sedan,Beyaz,1497.0,123.0,Önden Çekiş,5.8,0.0,2.0,0.0,0.0
+850000.0,Toyota,Corolla,1.4 D-4D Comfort Extra,2011.0,241000.0,Düz,Dizel,Sedan,Gri,1364.0,90.0,Önden Çekiş,4.7,1.0,0.0,0.0,0.0
+1025000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2013.0,252000.0,Yarı Otomatik,Dizel,Sedan,Gri,1598.0,105.0,Önden Çekiş,4.7,0.0,1.0,2.0,0.0
+1030000.0,Renault,Megane,1.6 Joy,2017.0,141000.0,Düz,Lpg & Benzin,Hatchback/5,Beyaz,1598.0,115.0,Önden Çekiş,6.3,0.0,0.0,0.0,1.0
+1699000.0,Skoda,Octavia,1.5 E-Tec Premium,2023.0,99800.0,Yarı Otomatik,Hibrit,Hatchback/5,Mavi,1498.0,150.0,Önden Çekiş,4.7,0.0,0.0,1.0,0.0
+1485000.0,Volkswagen,Passat,1.6 Tdi Bluemotion Comfortline,2016.0,222000.0,Yarı Otomatik,Dizel,Sedan,Mavi,1598.0,120.0,Önden Çekiş,4.0,3.0,0.0,1.0,0.0
+699000.0,Toyota,Auris,1.4 D-4D Comfort Extra,2012.0,245000.0,Düz,Benzin,Hatchback/5,Siyah,1364.0,90.0,Önden Çekiş,4.7,0.0,3.0,0.0,0.0
+839000.0,Volkswagen,Jetta,1.2 Tsi Comfortline,2014.0,248000.0,Düz,Benzin,Sedan,Mavi,601.5,113.0,Önden Çekiş,,3.0,1.0,0.0,0.0
+1075000.0,Mercedes - Benz,A,A 180 Cdi Blueefficiency Urban,2013.0,249000.0,Düz,Dizel,Hatchback/5,Beyaz,1461.0,109.0,Önden Çekiş,4.0,1.0,0.0,0.0,0.0
+450000.0,Renault,Symbol,1.5 Dci Joy,2016.0,355000.0,Düz,Dizel,Sedan,Gri,1500.5,88.0,Önden Çekiş,,3.0,0.0,4.0,0.0
+1415000.0,Volkswagen,Polo,1.0 Tsi Life,2023.0,41000.0,Otomatik,Benzin,Hatchback/5,Beyaz,601.5,88.0,Önden Çekiş,,0.0,1.0,0.0,0.0
+1350000.0,Toyota,Corolla,1.6 Life,2018.0,40000.0,Düz,Benzin,Sedan,Gri (Gümüş),1598.0,132.0,Önden Çekiş,6.3,0.0,2.0,0.0,0.0
+923000.0,Renault,Clio,1.0 Tce Joy,2021.0,103000.0,Düz,Lpg & Benzin,Hatchback/5,Beyaz,601.5,88.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+473000.0,Fiat,Linea,1.3 Multijet Active Plus,2012.0,235000.0,Düz,Dizel,Sedan,Beyaz,1248.0,95.0,Önden Çekiş,4.9,,,,0.0
+1490000.0,Ford,Focus,1.5 Tdci Titanium,2020.0,140000.0,Otomatik,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,0.0,0.0,1.0
+550000.0,Volkswagen,Polo,1.4 Comfortline,2006.0,287000.0,Otomatik,Lpg & Benzin,Hatchback/5,Gri,1390.0,75.0,Önden Çekiş,7.7,8.0,0.0,0.0,0.0
+939000.0,Renault,Megane,1.6 Joy,2017.0,123200.0,Düz,Lpg & Benzin,Hatchback/5,Füme,1598.0,115.0,Önden Çekiş,6.3,2.0,2.0,1.0,0.0
+1175000.0,Volkswagen,Jetta,1.6 Tdi Trendline,2015.0,156470.0,Düz,Dizel,Sedan,Beyaz,1500.5,113.0,Önden Çekiş,,0.0,1.0,1.0,0.0
+399999.0,Honda,Civic,1.6 I Es,2000.0,320000.0,Otomatik,Benzin,Hatchback/3,Gri,1590.0,114.0,Önden Çekiş,7.0,7.0,0.0,0.0,0.0
+475500.0,Renault,Megane,1.6 Dynamique,2004.0,258000.0,Düz,Lpg & Benzin,Hatchback/5,Gri,1598.0,115.0,Önden Çekiş,6.8,10.0,0.0,0.0,0.0
+610000.0,Renault,Clio,1.5 Dci Joy,2014.0,255500.0,Düz,Dizel,Hatchback/5,Beyaz,1461.0,75.0,Önden Çekiş,3.6,0.0,3.0,1.0,0.0
+530000.0,Volkswagen,Jetta,1.6 Tdi Primeline,2010.0,305000.0,Otomatik,Dizel,Sedan,Siyah,1500.5,113.0,Önden Çekiş,,4.0,0.0,2.0,0.0
+1035000.0,Renault,Fluence,1.5 Dci Touch Plus,2016.0,144000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461.0,110.0,Önden Çekiş,4.4,0.0,0.0,0.0,1.0
+535000.0,Hyundai,Accent,1.6 Admire,2007.0,225000.0,Otomatik,Lpg & Benzin,Sedan,Beyaz,1599.0,112.0,Önden Çekiş,8.0,5.0,0.0,0.0,0.0
+1545000.0,Bmw,3 Serisi,318I Prestige,2017.0,118000.0,Otomatik,Benzin,Sedan,Beyaz,1499.0,136.0,Arkadan İtiş,5.0,3.0,0.0,1.0,0.0
+1050000.0,Volkswagen,Jetta,1.6 Tdi Comfortline,2013.0,149000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598.0,105.0,Önden Çekiş,4.7,7.0,1.0,0.0,0.0
+160000.0,Lada,Samara,1.5,2001.0,280000.0,Düz,Lpg & Benzin,Hatchback/5,Bej,1500.0,78.0,Önden Çekiş,7.3,10.0,0.0,0.0,0.0
