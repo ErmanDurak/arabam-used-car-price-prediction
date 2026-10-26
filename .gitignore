@@ -10,7 +10,6 @@ __pycache__/
 
 # Data Files
 *.pkl
-*.joblib
 
 # OS & IDE
 .vscode/
