@@ -44,6 +44,7 @@ During the iterative evaluation phase across baseline linear models, tree ensemb
 
 ## 📁 Repository Structure
 
+```text
 arabam-used-car-price-prediction/
 │
 ├── data/
@@ -67,6 +68,7 @@ arabam-used-car-price-prediction/
 ├── requirements.txt              # Project dependencies
 ├── .gitignore                    # Version control exclusions
 └── README.md                     # Project documentation
+```
 
 ---
 
